@@ -42,29 +42,9 @@ http://keshethlslive-lh.akamaihd.net/i/24live_1@195271/index_2200_av-b.m3u8?sd=1
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://thumbs2.imagebam.com/83/d6/c4/66b29e784878143.jpg" group-title="Hebrew",99  כנסת
 https://contact.gostreaming.tv/Knesset/myStream/chunklist_w2072850535.m3u8
 
-
-#EXTINF:-1 tvg-ID="מוסיקה 24" tvg-name="מוסיקה 24" tvg-logo="https://xiptv.com/logos/hebrew/Channel24.png" group-title="Hebrew",מוסיקה 24
-http://keshethlslive-lh.akamaihd.net/i/24live_1@195271/index_2000_av-b.m3u8|User-Agent=Mozilla/5.0
-#EXTINF:-1 tvg-ID="ים תיכוני" tvg-name="ים תיכוני" tvg-logo="http://haflla.com/wp-content/uploads/2015/09/207225_208253189193729_5563486_n1.jpg-750x420-1442480525.png" group-title="Hebrew",ים תיכוני
- 
-#EXTINF:-1 tvg-ID="MTV" tvg-name="MTV" tvg-logo="http://www.camdserver.com/sb_data/files/logo/mtv.jpg" group-title="Hebrew",MTV
- 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.foxtel.com.au/content/dam/foxtel/insider/general/russia-today" group-title="",===ערוצי ספורט===
-http://localhost:62555/?plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://rt-eng-live.hls.adaptive.level3.net/rt/eng/index250011111.m3u8
-#EXTINF:-1 tvg-ID="ספורט ONE" tvg-name="ספורט ONE" tvg-logo="https://xiptv.com/logos/hebrew/ONEHD.png" group-title="Hebrew",ספורט ONE
- 
-#EXTINF:-1 tvg-ID="ספורט 1" tvg-name="ספורט 1" tvg-logo="https://xiptv.com/logos/hebrew/YESSPORT1HD.png" group-title="Hebrew",ספורט 1
-http://ul.cdn584.net:8080/hls/zezvjlv.m3u8?s=e17wOUEYyteprQUQRjrhZw&e=1543978575
-#EXTINF:-1 tvg-ID="ספורט 2" tvg-name="ספורט 2" tvg-logo="https://xiptv.com/logos/hebrew/YESSPORT2HD.png" group-title="Hebrew",ספורט 2
- http://ul.cdn584.net:8080/hls/wb4zq32.m3u8?s=eIYfLI7_0tygZJwPVUxNVg&e=1543978650
-#EXTINF:-1 tvg-ID="ספורט 3" tvg-name="ספורט 3" tvg-logo="https://www.xiptv.com/logos/hebrew/YESSPORT3HD.PNG" group-title="Hebrew",ספורט 3
- 
-#EXTINF:-1 tvg-ID="ספורט 4" tvg-name="ספורט 4" tvg-logo="https://www.xiptv.com/logos/hebrew/YESSPORT4HD.PNG" group-title="Hebrew",ספורט 4
- http://ul.cdn584.net:8080/hls/h4gpo1c.m3u8?s=nWoPuCPSrlhqWQZLr5N0XQ&e=1543977550
-#EXTINF:-1 tvg-ID="FOX SPORTS" tvg-name="FOX SPORTS" tvg-logo="https://xiptv.com/logos/hebrew/FoxSportHD.png" group-title="Hebrew",FOX SPORTS
- 
 #EXTINF:-1 tvg-ID="ספורט 5" tvg-name="ספורט 5" tvg-logo="https://xiptv.com/logos/hebrew/Sport5HD.png" group-title="Hebrew",ספורט 5HD
 http://212.150.250.113/session/5835b800-d3bb-11e7-9aaf-000c297e06cd/rkz79m/ngx/mob/hrr_5hd/chunklist_b1596000.m3u8
+
 #EXTINF:-1 tvg-ID="ספורט 5 פלוס לייב" tvg-name="ספורט 5 פלוס לייב" tvg-logo="https://xiptv.com/logos/hebrew/sport5online.png" group-title="Hebrew",ספורט 5 פלוס לייב
  
 #EXTINF:-1 tvg-id="ספורט 5+" tvg-name="ספורט 5+" group-title="Israel" tvg-logo="https://github.com/Apollo2000/Repo/raw/master/TVLogos/1531.png",ספורט 5+
@@ -74,6 +54,7 @@ http://212.150.250.113/session/5835b800-d3bb-11e7-9aaf-000c297e06cd/rkz79m/ngx/m
 #EXTINF:-1 tvg-ID="אגו טוטאל" tvg-name="אגו טוטאל" tvg-logo="http://msc.wcdn.co.il/w/w-700/404659-5.jpg" group-title="Hebrew",אגו טוטאל
  
 #EXTINF:-1 tvg-ID="Extreme" tvg-name="Extreme" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/f0/Extreme_Sports_Channel.svg/1200px-Extreme_Sports_Channel.svg.png" group-title="Hebrew",Extreme
+ 
  
 ###YES###
 #EXTINF:-1 tvg-ID="yes1hd" tvg-name="yes1hd" tvg-logo="https://xiptv.com/logos/hebrew/yes1hd.png" group-title="Hebrew",yes1hd
@@ -145,7 +126,7 @@ http://212.150.250.113/session/5835b800-d3bb-11e7-9aaf-000c297e06cd/rkz79m/ngx/m
 #EXTINF:-1 tvg-ID="ערוץ הילדים" tvg-name="ערוץ הילדים" tvg-logo="https://xiptv.com/logos/hebrew/ArutzHayeladimIsrael.png" group-title="Hebrew",ערוץ הילדים
  
 #EXTINF:-1 tvg-ID="דיסני" tvg-name="דיסני" tvg-logo="http://www.camdserver.com/sb_data/files/logo/disney-channel.jpg" group-title="Hebrew",דיסני
-http://212.150.250.112:80/session/30c8d272-d3b9-11e7-a13b-000c293b109d/rkz79m/ngx/56/mob/hrr_disney/chunklist_b1296000.m3u8
+
 #EXTINF:-1 tvg-ID="Disney junior" tvg-name="Disney junior" tvg-logo="http://www.camdserver.com/sb_data/files/logo/disney-junior.jpg" group-title="Hebrew",Disney junior
  
 #EXTINF:-1 tvg-ID="ערוץ ניקלודיאון" tvg-name="ערוץ ניקלודיאון" tvg-logo="https://xiptv.com/logos/hebrew/Nickelodeon.png" group-title="Hebrew",ערוץ ניקלודיאון
@@ -194,14 +175,12 @@ http://212.150.250.112:80/session/30c8d272-d3b9-11e7-a13b-000c293b109d/rkz79m/ng
  
 #EXTINF:-1 tvg-ID="Animal planet" tvg-name="Animal planet" tvg-logo="http://onlineru.net/userfiles/shop_items/tmb/s_animal_planet.jpg" group-title="Hebrew",Animal planet
  
- #EXTINF:-1 tvg-ID="ערוץ מורשת - 20" tvg-name="ערוץ מורשת - 20" tvg-logo="https://xiptv.com/logos/hebrew/Channel20.png" group-title="Hebrew",ערוץ מורשת - 20
-http://live.ch20-cdnwiz.com/ch20-abr/ch20-abr/playlist.m3u8
+#EXTINF:-1 tvg-ID="ערוץ מורשת - 20" tvg-name="ערוץ מורשת - 20" tvg-logo="https://xiptv.com/logos/hebrew/Channel20.png" group-title="Hebrew",ערוץ מורשת - 20
  
- 
- #EXTINF:-1  tvg-logo="http://www.isramedia.net/images/users/2/0e6b040fd7318b2f62c56368490fda4f.png" group-title="Hebrew",ערוץ 14
-http://nana10-hdl-il-sw.ctedgecdn.net/Nana10-Live/amlst:hd_,500,1000,1200,2400,/playlist.m3u8
+#EXTINF:-1  tvg-logo="http://www.isramedia.net/images/users/2/0e6b040fd7318b2f62c56368490fda4f.png" group-title="Hebrew",ערוץ 14
+
 #EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/59/KAN_11.png" group-title="Hebrew",כאן 11
-http://82.80.192.2/ipbc_IPBCchannel11LVMRepeat/_definst_/smil:IPBCchannel11LVM.smil/playlist.m3u8
+
 
 
 
