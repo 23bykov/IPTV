@@ -42,187 +42,22 @@ rtmp://cmctv.flash.internapcdn.net/cmctv_vitalstream_com/live_1/CMC-TV live=1 pa
 #EXTINF:-1 tvg-id="m2o TV" group-title="Music - מוזיקה" tvg-logo="http://upload.wikimedia.org/wikipedia/it/thumb/2/2d/Logo_m2o_%282012%29.png/200px-Logo_m2o_%282012%29.png",m2o TV
 http://m2otv-lh.akamaihd.net/i/m2oTv_1@186074/index_600_av-b.m3u8
  
- 
- 
-#EXTINF:-1 tvg-id="i24News English" group-title="News - חדשות" tvg-logo="http://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/I24_official_logo.png/220px-I24_official_logo.png",i24News English
-http://127.0.0.1:65007/?url=http%3A//www.i24news.tv/en/tv/live&mode=18
- 
-#EXTINF:-1 tvg-id="i24News France" group-title="News - חדשות" tvg-logo="http://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/I24_official_logo.png/220px-I24_official_logo.png",i24News France
-http://127.0.0.1:65007/?url=http%3A//www.i24news.tv/fr/tv/live&mode=18
- 
-#EXTINF:-1 tvg-id="i24News Arabic" group-title="News - חדשות" tvg-logo="http://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/I24_official_logo.png/220px-I24_official_logo.png",i24News Arabic
-http://127.0.0.1:65007/?url=http%3A//www.i24news.tv/ar/tv/live&mode=18
- 
-#EXTINF:-1 tvg-id="ABC News" group-title="News - חדשות" tvg-logo="http://a.abcnews.com/images/US/abc_news_default_2000x2000_update_16x9t_384.jpg",ABC News
-http://abclive.abcnews.com/i/abc_live4@136330/master.m3u8
- 
-#EXTINF:-1 tvg-id="CBS News" group-title="News - חדשות" tvg-logo="http://whatsonline.tv/wp-content/uploads/2014/11/CBSN-Logo-466x310.jpg",CBS News
-http://cbsnewshd-lh.akamaihd.net/i/CBSNHD_7@199302/index_2200_av-p.m3u8?sd=10&rebase=on
- 
-#EXTINF:-1 tvg-id="MSNBC" group-title="News - חדשות" tvg-logo="http://www.realtvcritics.com/wp-content/uploads/2011/07/msnbc-logo1.jpg",MSNBC
-http://tvemsnbc-lh.akamaihd.net/i/nbcmsnbc_1@122532/index_4296_av-p.m3u8?sd=10&rebase=on
- 
-#EXTINF:-1 tvg-id="NewsMAX" group-title="News - חדשות" tvg-logo="http://static.filmon.com/couch/channels/3223/extra_big_logo.png",NewsMAX
-http://ooyalahd2-f.akamaihd.net/i/newsmax02_delivery@119568/index_2528_av-p.m3u8?sd=10&rebase=on
- 
-#EXTINF:-1 tvg-id="RTE News" group-title="News - חדשות" tvg-logo="http://static.rasset.ie/static/news/img/img_rte_contact.jpg",RTE News
-http://wmsrtsp1.rte.ie/live/android.sdp/playlist.m3u8
- 
-#EXTINF:-1 tvg-id="BBC News arabic" group-title="News - חדשות" tvg-logo="http://news.bbcimg.co.uk/media/images/73586000/jpg/_73586104_bbc_arabic_2_language_red.jpg",BBC News arabic
-http://bbcwshdlive01-lh.akamaihd.net/i/atv_1@61433/master.m3u8
- 
-#EXTINF:-1 tvg-id="sky news" group-title="News - חדשות" tvg-logo="http://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Sky_News.svg/250px-Sky_News.svg.png",sky news
-http://skydvn-nowtv-atv-prod.skydvn.com/atv/skynews/1404/live/06.m3u8
- 
-#EXTINF:-1 tvg-id="sky news arabia" group-title="News - חדשות" tvg-logo="http://upload.wikimedia.org/wikipedia/en/8/84/Sky_News_Arabia_logo.png",sky news arabia
-http://stream.skynewsarabia.com/stream/snahls_high.m3u8
- 
-#EXTINF:-1 tvg-id="Euronews English" group-title="News - חדשות" tvg-logo="http://static.filmon.com/couch/channels/1672/extra_big_logo.png",Euronews English
-http://127.0.0.1:65007/?url=www&mode=54
- 
-#EXTINF:-1 tvg-id="Euronews French" group-title="News - חדשות" tvg-logo="http://static.filmon.com/couch/channels/2900/extra_big_logo.png",Euronews French
-http://127.0.0.1:65007/?url=fr&mode=54
- 
-#EXTINF:-1 tvg-id="Euronews German" group-title="News - חדשות" tvg-logo="http://static.filmon.com/couch/channels/2903/extra_big_logo.png",Euronews German
-http://127.0.0.1:65007/?url=de&mode=54
- 
-#EXTINF:-1 tvg-id="Euronews Italian" group-title="News - חדשות" tvg-logo="http://static.filmon.com/couch/channels/2912/extra_big_logo.png",Euronews Italian
-http://127.0.0.1:65007/?url=it&mode=54
- 
-#EXTINF:-1 tvg-id="Euronews Spanish" group-title="News - חדשות" tvg-logo="http://static.filmon.com/couch/channels/2906/extra_big_logo.png",Euronews Spanish
-http://127.0.0.1:65007/?url=es&mode=54
- 
-#EXTINF:-1 tvg-id="Euronews Portuguese" group-title="News - חדשות" tvg-logo="http://static.filmon.com/couch/channels/2909/extra_big_logo.png",Euronews Portuguese
-http://127.0.0.1:65007/?url=pt&mode=54
- 
-#EXTINF:-1 tvg-id="Euronews Greece" group-title="News - חדשות" tvg-logo="http://static.filmon.com/couch/channels/2909/extra_big_logo.png",Euronews Greece
-http://127.0.0.1:65007/?url=gr&mode=54
- 
-#EXTINF:-1 tvg-id="Euronews Russian" group-title="News - חדשות" tvg-logo="http://static.filmon.com/couch/channels/1672/extra_big_logo.png",Euronews Russian
-http://127.0.0.1:65007/?url=ru&mode=54
- 
-#EXTINF:-1 tvg-id="Euronews Arabic" group-title="News - חדשות" tvg-logo="http://static.filmon.com/couch/channels/1672/extra_big_logo.png",Euronews Arabic
-http://127.0.0.1:65007/?url=arabic&mode=54
- 
-#EXTINF:-1 tvg-id="euronews Turkishe" group-title="News - חדשות" tvg-logo="http://static.filmon.com/couch/channels/1672/extra_big_logo.png",euronews Turkishe
-http://127.0.0.1:65007/?url=tr&mode=54
- 
-#EXTINF:-1 tvg-id="France24 English" group-title="News - חדשות" tvg-logo="http://static.filmon.com/couch/channels/298/extra_big_logo.png",France24 English
-http://static.france24.com/live/F24_EN_LO_HLS/live_web.m3u8
- 
-#EXTINF:-1 tvg-id="France24 France" group-title="News - חדשות" tvg-logo="http://static.filmon.com/couch/channels/298/extra_big_logo.png",France24 France
-http://static.france24.com/live/F24_FR_LO_HLS/live_web.m3u8
- 
-#EXTINF:-1 tvg-id="France24 Arabic" group-title="News - חדשות" tvg-logo="http://static.filmon.com/couch/channels/298/extra_big_logo.png",France24 Arabic
-http://static.france24.com/live/F24_AR_LO_HLS/live_web.m3u8
- 
-#EXTINF:-1 tvg-id="BFM TV" group-title="News - חדשות" tvg-logo="http://static.filmon.com/couch/channels/2765/extra_big_logo.png",BFM TV
-http://csm-e.dai.bfmtv.com/csm/live/109797390.m3u8
- 
-#EXTINF:-1 tvg-id="BFM PARIS" group-title="News - חדשות" tvg-logo="",BFM PARIS
-http://bfmparishdslive-lh.akamaihd.net/i/DVMR_PARIS@429747/index_1024_av-p.m3u8?sd=10&rebase=on
- 
-#EXTINF:-1 tvg-id="BFM SPORT" group-title="News - חדשות" tvg-logo="",BFM SPORT
-http://rmc-i.akamaihd.net/hls/live/218333/876630703001/BFMSPORT/master-4.m3u8
- 
-#EXTINF:-1 tvg-id="BFM TV BUSINESS" group-title="News - חדשות" tvg-logo="http://www.axelera.org/images/stories/images/actualites/Logo-BFM-Business1.jpg",BFM TV BUSINESS
-http://bfmlive-i.akamaihd.net/hls/live/254438/876450612001/DVMR_BFMBusiness2/master-4.m3u8
- 
-#EXTINF:-1 tvg-id="Bloomberg" group-title="News - חדשות" tvg-logo="http://static.filmon.com/couch/channels/81/extra_big_logo.png",Bloomberg
-http://cdn3.videos.bloomberg.com/btv/us/master.m3u8
- 
-#EXTINF:-1 tvg-id="Bloomberg" group-title="News - חדשות" tvg-logo="http://static.filmon.com/couch/channels/81/extra_big_logo.png",Bloomberg
-http://127.0.0.1:65007/?url=https%3A//www.youtube.com/watch%26v%3DGa3maNZ0x0w&mode=3
- 
-#EXTINF:-1 tvg-id="Russia Today America" group-title="News - חדשות" tvg-logo="http://www.lyngsat-logo.com/hires/rr/rt_america.png",Russia Today America
-http://rt-usa-live.hls.adaptive.level3.net/rt/usa/index2500.m3u8
- 
-#EXTINF:-1 tvg-id="Russia Today" group-title="News - חדשות" tvg-logo="http://www.lyngsat-logo.com/hires/rr/rt_america.png",Russia Today
-http://rt-eng-live.hls.adaptive.level3.net/rt/eng/index2500.m3u8
- 
-#EXTINF:-1 tvg-id="Russia Today Spanish" group-title="News - חדשות" tvg-logo="http://www.lyngsat-logo.com/hires/rr/rt_america.png",Russia Today Spanish
-http://rt-eng-live.hls.adaptive.level3.net/rt/esp/index2500.m3u8
- 
-#EXTINF:-1 tvg-id="Russia Today Arabic" group-title="News - חדשות" tvg-logo="http://www.lyngsat-logo.com/hires/rr/rt_america.png",Russia Today Arabic
-http://rt-eng-live.hls.adaptive.level3.net/rt/ara/index2500.m3u8
- 
+
+
 #EXTINF:-1 tvg-id="CGTN" group-title="News - חדשות" tvg-logo="http://static.filmon.com/couch/channels/1675/extra_big_logo.png",CGTN
 http://live.cgtn.com/1000/prog_index.m3u8
- 
-#EXTINF:-1 tvg-id="CGTN France" group-title="News - חדשות" tvg-logo="http://static.filmon.com/couch/channels/1675/extra_big_logo.png",CGTN France
-http://live.cgtn.com/1000f/prog_index.m3u8
- 
-#EXTINF:-1 tvg-id="CGTNSpain" group-title="News - חדשות" tvg-logo="http://static.filmon.com/couch/channels/1675/extra_big_logo.png",CGTN Spain
-http://live.cgtn.com/1000e/prog_index.m3u8
- 
-#EXTINF:-1 tvg-id="CGTN Arabic" group-title="News - חדשות" tvg-logo="http://static.filmon.com/couch/channels/1675/extra_big_logo.png",CGTN Arabic
-http://live.cgtn.com/1000a/prog_index.m3u8
- 
-#EXTINF:-1 tvg-id="CGTN Russia" group-title="News - חדשות" tvg-logo="http://static.filmon.com/couch/channels/1675/extra_big_logo.png",CGTN Russia
-http://live.cgtn.com/1000r/prog_index.m3u8
- 
+
 #EXTINF:-1 tvg-id="Arirang TV" group-title="News - חדשות" tvg-logo="http://static.filmon.com/couch/channels/932/extra_big_logo.png",Arirang TV
 http://amdlive.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
- 
-#EXTINF:-1 tvg-id="NHK World HD" group-title="News - חדשות" tvg-logo="http://static-cdn1.ustream.tv/i/channel/picture/7/4/9/7/7497266/7497266_nhk_world_logo2_1299927691,640x360,r:1.jpg",NHK World HD
-https://nhkwtvglobal-i.akamaihd.net/hls/live/263941/nhkwtvglobal/index_2100.m3u8
- 
-#EXTINF:-1 tvg-id="Africa News Network ANN7" group-title="News - חדשות" tvg-logo="",Africa News Network ANN7
-rtmp://46.4.25.213/live-ann7/ann7-hi.stream
- 
+
 #EXTINF:-1 tvg-id="Jakarta Globe News" group-title="News - חדשות" tvg-logo="http://jakartaglobe.id/assets/desktop/images/logo.png",Jakarta Globe News
 http://edge.linknetott.swiftserve.com/live/BsNew/amlst:bsenglish/playlist.m3u8
- 
-#EXTINF:-1 tvg-id="Channel NewsAsia" group-title="News - חדשות" tvg-logo="http://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Channel_NewsAsia_logo_(shape_only).svg/2000px-Channel_NewsAsia_logo_(shape_only).svg.png",Channel NewsAsia
-http://tglcnas-lh.akamaihd.net/i/cnas_fta@334579/index_4_av-b.m3u8?sd=10&rebase=on
- 
-#EXTINF:-1 tvg-id="Channel NewsAsia" group-title="News - חדשות" tvg-logo="http://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Channel_NewsAsia_logo_(shape_only).svg/2000px-Channel_NewsAsia_logo_(shape_only).svg.png",Channel NewsAsia
-http://imtcnai-lh.akamaihd.net/i/cnai_main@334572/master.m3u8
- 
-#EXTINF:-1 tvg-id="ENCA" group-title="News - חדשות" tvg-logo="http://1.bp.blogspot.com/-5A1YAfH6ng8/UDEh467XtCI/AAAAAAAAX8k/IJeVNiy98sw/s1600/eNCA+channel+logo+long+August+2012.jpg",ENCA
-http://urtmpkal-f.akamaihd.net/i/1ciwepkyc_1@431710/master.m3u8
- 
-#EXTINF:-1 tvg-id="DW English" group-title="News - חדשות" tvg-logo="http://static.filmon.com/couch/channels/2641/extra_big_logo.png",DW English
-http://www.metafilegenerator.de/DWelle/tv-asia/ios/master.m3u8
- 
-#EXTINF:-1 tvg-id="DW Arabic" group-title="News - חדשות" tvg-logo="http://static.filmon.com/couch/channels/2641/extra_big_logo.png",DW Arabic
-http://www.metafilegenerator.de/DWelle/tv-arabia/ios/master.m3u8
- 
-#EXTINF:-1 tvg-id="DW Latino" group-title="News - חדשות" tvg-logo="http://static.filmon.com/couch/channels/2641/extra_big_logo.png",DW Latino
-http://www.metafilegenerator.de/DWelle/tv-latinoamerica/ios/master.m3u8
- 
-#EXTINF:-1 tvg-id="Al Jazeera" group-title="News - חדשות" tvg-logo="http://static.filmon.com/couch/channels/4/extra_big_logo.png",Al Jazeera
-http://aljazeera-eng-hd-live.hls.adaptive.level3.net/aljazeera/english2/index4147.m3u8
- 
-#EXTINF:-1 tvg-id="Al Jazeera Arabic" group-title="News - חדשות" tvg-logo="http://static.filmon.com/couch/channels/3035/extra_big_logo.png",Al Jazeera Arabic
-http://aljazeera-ara-apple-live.adaptive.level3.net/apple/aljazeera/arabic/800.m3u8
- 
-#EXTINF:-1 tvg-id="Press TV" group-title="News - חדשות" tvg-logo="http://upload.wikimedia.org/wikipedia/en/2/23/PressTV.png",Press TV
-http://efusion1-i.akamaihd.net/hls/live/252882/ptven/playlist.m3u8
- 
-#EXTINF:-1 tvg-id="NDTV 24x7" group-title="News - חדשות" tvg-logo="http://www.topnews.in/files/ndtv_0.jpg",NDTV 24x7
-http://ndtvstream-lh.akamaihd.net/i/ndtv_india_1@300634/master.m3u8
- 
-#EXTINF:-1 tvg-id="Sky TG24" group-title="News - חדשות" tvg-logo="http://dippiu.it/sky_tg24_nuova_grafica.jpg",Sky TG24
-http://skyianywhere2-i.akamaihd.net/hls/live/200275/tg24/playlist.m3u8
- 
-#EXTINF:-1 tvg-id="Rai news" group-title="News - חדשות" tvg-logo="http://www.rainews.it/dl/rainews/images/social/homepage.png",Rai news
-Http://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=489110&dem=3
- 
-#EXTINF:-1 tvg-id="NASA HD" group-title="Science & nature - מדע וטבע" tvg-logo="http://static.filmon.com/couch/channels/330/extra_big_logo.png",NASA HD
-https://nasa-i.akamaihd.net/hls/live/253565/NASA-NTV1-Public/master_2000.m3u8
- 
-#EXTINF:-1 tvg-id="NASA Live - Earth From Space (HDVR) ISS LIVE FEED" group-title="Science & nature - מדע וטבע" tvg-logo="",NASA Live - Earth From Space (HDVR) ISS LIVE FEED
-http://127.0.0.1:65007/?url=https%3A//www.youtube.com/watch%26v%3DRtU_mdL2vBM&mode=3
  
 #EXTINF:-1 tvg-id="CGTN Doco" group-title="Science & nature - מדע וטבע" tvg-logo="http://static.filmon.com/couch/channels/2786/extra_big_logo.png",CGTN Doco
 http://livedoc.cgtn.com/1000d/prog_index.m3u8
  
-#EXTINF:-1 tvg-id="Russian Today: Documentary" group-title="Science & nature - מדע וטבע" tvg-logo="http://static.filmon.com/couch/channels/1981/extra_big_logo.png",Russian Today: Documentary
-http://rt-doc-live.hls.adaptive.level3.net/rt/doc/index2500.m3u8
  
-#EXTINF:-1 tvg-id="TWiT US" group-title="Science & nature - מדע וטבע" tvg-logo="http://lyalinwp7.files.wordpress.com/2010/12/200x200_thumb.png?w=103&h=103&h=103",TWiT US
-http://hls.twit.tv/flosoft/smil:twitStream.smil/playlist.m3u8
+ 
  
 #EXTINF:-1 tvg-id="Dubai Sports 3" group-title="Sport - ספורט" tvg-logo="http://www.islambox.com/images/products/channels/web/dubaisports3-web.png",Dubai Sports 3
 http://dmi.mangomolo.com:1935/dubaisports/smil:dubaisports.smil/playlist.m3u8
