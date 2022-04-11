@@ -1,5 +1,6 @@
 #EXTM3U
 
+###Russian####
 #EXTINF:-1 tvg-id="1" tvg-name="" tvg-logo="https://thumbs4.imagebam.com/a9/39/dc/ME98WSU_t.jpg" group-title="Русские каналы",9
 http://predator-x.com:8000/kdkm3ub840/4mxpah5f4n/176917
 
@@ -22,7 +23,7 @@ http://uwio8xrt.megatv.fun/iptv/XC3FVMRRX9W5HL/6022/index.m3u8
 http://e4.online.video.rbc.ru/online2/rbctv_480p/index.m3u8
 
 
-
+###Hebrew####
 #EXTINF:-1 tvg-id="1" tvg-name="" tvg-logo="http://images2.imagebam.com/2a/e5/7c/f061ac784878033.jpg" group-title="Hebrew",11 כאן
 https://kanlivep2event-i.akamaihd.net/hls/live/747610/747610/source1_2.5k/chunklist.m3u8?checkedby:iptvcat.net
 
@@ -41,6 +42,166 @@ http://keshethlslive-lh.akamaihd.net/i/24live_1@195271/index_2200_av-b.m3u8?sd=1
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://thumbs2.imagebam.com/83/d6/c4/66b29e784878143.jpg" group-title="Hebrew",99  כנסת
 https://contact.gostreaming.tv/Knesset/myStream/chunklist_w2072850535.m3u8
 
+
+#EXTINF:-1 tvg-ID="מוסיקה 24" tvg-name="מוסיקה 24" tvg-logo="https://xiptv.com/logos/hebrew/Channel24.png" group-title="Hebrew",מוסיקה 24
+http://keshethlslive-lh.akamaihd.net/i/24live_1@195271/index_2000_av-b.m3u8|User-Agent=Mozilla/5.0
+#EXTINF:-1 tvg-ID="ים תיכוני" tvg-name="ים תיכוני" tvg-logo="http://haflla.com/wp-content/uploads/2015/09/207225_208253189193729_5563486_n1.jpg-750x420-1442480525.png" group-title="Hebrew",ים תיכוני
+ 
+#EXTINF:-1 tvg-ID="MTV" tvg-name="MTV" tvg-logo="http://www.camdserver.com/sb_data/files/logo/mtv.jpg" group-title="Hebrew",MTV
+ 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.foxtel.com.au/content/dam/foxtel/insider/general/russia-today" group-title="",===ערוצי ספורט===
+http://localhost:62555/?plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://rt-eng-live.hls.adaptive.level3.net/rt/eng/index250011111.m3u8
+#EXTINF:-1 tvg-ID="ספורט ONE" tvg-name="ספורט ONE" tvg-logo="https://xiptv.com/logos/hebrew/ONEHD.png" group-title="Hebrew",ספורט ONE
+ 
+#EXTINF:-1 tvg-ID="ספורט 1" tvg-name="ספורט 1" tvg-logo="https://xiptv.com/logos/hebrew/YESSPORT1HD.png" group-title="Hebrew",ספורט 1
+http://ul.cdn584.net:8080/hls/zezvjlv.m3u8?s=e17wOUEYyteprQUQRjrhZw&e=1543978575
+#EXTINF:-1 tvg-ID="ספורט 2" tvg-name="ספורט 2" tvg-logo="https://xiptv.com/logos/hebrew/YESSPORT2HD.png" group-title="Hebrew",ספורט 2
+ http://ul.cdn584.net:8080/hls/wb4zq32.m3u8?s=eIYfLI7_0tygZJwPVUxNVg&e=1543978650
+#EXTINF:-1 tvg-ID="ספורט 3" tvg-name="ספורט 3" tvg-logo="https://www.xiptv.com/logos/hebrew/YESSPORT3HD.PNG" group-title="Hebrew",ספורט 3
+ 
+#EXTINF:-1 tvg-ID="ספורט 4" tvg-name="ספורט 4" tvg-logo="https://www.xiptv.com/logos/hebrew/YESSPORT4HD.PNG" group-title="Hebrew",ספורט 4
+ http://ul.cdn584.net:8080/hls/h4gpo1c.m3u8?s=nWoPuCPSrlhqWQZLr5N0XQ&e=1543977550
+#EXTINF:-1 tvg-ID="FOX SPORTS" tvg-name="FOX SPORTS" tvg-logo="https://xiptv.com/logos/hebrew/FoxSportHD.png" group-title="Hebrew",FOX SPORTS
+ 
+#EXTINF:-1 tvg-ID="ספורט 5" tvg-name="ספורט 5" tvg-logo="https://xiptv.com/logos/hebrew/Sport5HD.png" group-title="Hebrew",ספורט 5HD
+http://212.150.250.113/session/5835b800-d3bb-11e7-9aaf-000c297e06cd/rkz79m/ngx/mob/hrr_5hd/chunklist_b1596000.m3u8
+#EXTINF:-1 tvg-ID="ספורט 5 פלוס לייב" tvg-name="ספורט 5 פלוס לייב" tvg-logo="https://xiptv.com/logos/hebrew/sport5online.png" group-title="Hebrew",ספורט 5 פלוס לייב
+ 
+#EXTINF:-1 tvg-id="ספורט 5+" tvg-name="ספורט 5+" group-title="Israel" tvg-logo="https://github.com/Apollo2000/Repo/raw/master/TVLogos/1531.png",ספורט 5+
+ 
+#EXTINF:-1 tvg-ID="5+ Gold" tvg-name="5+ Gold" tvg-logo="https://www.xiptv.com/logos/hebrew/sport5gold.jpg" group-title="Hebrew",5+ Gold
+ 
+#EXTINF:-1 tvg-ID="אגו טוטאל" tvg-name="אגו טוטאל" tvg-logo="http://msc.wcdn.co.il/w/w-700/404659-5.jpg" group-title="Hebrew",אגו טוטאל
+ 
+#EXTINF:-1 tvg-ID="Extreme" tvg-name="Extreme" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/f0/Extreme_Sports_Channel.svg/1200px-Extreme_Sports_Channel.svg.png" group-title="Hebrew",Extreme
+ 
+###YES###
+#EXTINF:-1 tvg-ID="yes1hd" tvg-name="yes1hd" tvg-logo="https://xiptv.com/logos/hebrew/yes1hd.png" group-title="Hebrew",yes1hd
+ 
+#EXTINF:-1 tvg-ID="yes2hd" tvg-name="yes2hd" tvg-logo="https://xiptv.com/logos/hebrew/yes2hd.png" group-title="Hebrew",yes2hd
+ 
+#EXTINF:-1 tvg-ID="yes3hd" tvg-name="yes3hd" tvg-logo="https://xiptv.com/logos/hebrew/yes3hd.png" group-title="Hebrew",yes3hd
+ 
+#EXTINF:-1 tvg-ID="yes4hd" tvg-name="yes4hd" tvg-logo="https://xiptv.com/logos/hebrew/yes4hd.png" group-title="Hebrew",yes4hd
+ 
+#EXTINF:-1 tvg-ID="yes5hd" tvg-name="yes5hd" tvg-logo="https://xiptv.com/logos/hebrew/yes5hd.png" group-title="Hebrew",yes5hd
+ 
+#EXTINF:-1 tvg-ID="yesoh" tvg-name="yesoh" tvg-logo="https://xiptv.com/logos/hebrew/yesohhd.png" group-title="Hebrew",yesoh
+ 
+#EXTINF:-1 tvg-ID="Yes_Action_white" tvg-name="Yes_Action_white" tvg-logo="https://xiptv.com/logos/hebrew/YESACTIONHD.png" group-title="Hebrew",Yes_Action_white
+ 
+#EXTINF:-1 tvg-ID="Yes_Drama_white" tvg-name="Yes_Drama_white" tvg-logo="https://xiptv.com/logos/hebrew/yesdramahd.png" group-title="Hebrew",Yes_Drama_white
+ 
+#EXTINF:-1 tvg-ID="Yes_Comedy_white" tvg-name="Yes_Comedy_white" tvg-logo="https://xiptv.com/logos/hebrew/yescomedyhd.png" group-title="Hebrew",Yes_Comedy_white
+ 
+#EXTINF:-1 tvg-ID="Yes_Doco_white" tvg-name="Yes_Doco_white" tvg-logo="https://xiptv.com/logos/hebrew/yesdocuhd.png" group-title="Hebrew",Yes_Doco_white
+ 
+#EXTINF:-1 tvg-ID="yesisraeli" tvg-name="yesisraeli" tvg-logo="https://xiptv.com/logos/hebrew/yescinemahd.png" group-title="Hebrew",yesisraeli
+ 
+#EXTINF:-1 tvg-ID="cbs drama" tvg-name="cbs drama" tvg-logo="http://freetvtube.com/wp-content/uploads/cbs-drama.jpg" group-title="Hebrew",cbs drama
+ 
+###HOT###
+#EXTINF:-1 tvg-ID="HOT3" tvg-name="HOT3" tvg-logo="https://xiptv.com/logos/hebrew/HOT3HD.png" group-title="Hebrew",HOT3
+ 
+#EXTINF:-1 tvg-ID="HOT HBO" tvg-name="HOT HBO" tvg-logo="https://xiptv.com/logos/hebrew/HOTHBOHD.png" group-title="Hebrew",HOT HBO
+ 
+#EXTINF:-1 tvg-ID="קומדי סנטרל" tvg-name="קומדי סנטרל" tvg-logo="https://xiptv.com/logos/hebrew/hotcomedycentralhd.png" group-title="Hebrew", קומדי סנטרל
+ 
+#EXTINF:-1 tvg-ID="בידור ישראלי" tvg-name="בידור ישראלי" tvg-logo="https://xiptv.com/logos/hebrew/hotentertainment.png" group-title="Hebrew", בידור ישראלי
+ 
+#EXTINF:-1 tvg-ID="ערוץ 8" tvg-name="ערוץ 8" tvg-logo="https://xiptv.com/logos/hebrew/HOTChannel8.png" group-title="Hebrew",ערוץ 8
+ 
+#EXTINF:-1 tvg-ID="Hot Zone" tvg-name="Hot Zone" tvg-logo="https://xiptv.com/logos/hebrew/HOTZONEHD.png" group-title="Hebrew",Hot Zone
+ 
+#EXTINF:-1 tvg-ID="HOT Drama" tvg-name="HOT Drama" tvg-logo="https://xiptv.com/logos/hebrew/HOTDRAMAHD.png" group-title="Hebrew",HOT Drama
+ 
+#EXTINF:-1 tvg-ID="HOT Action" tvg-name="HOT Action" tvg-logo="https://xiptv.com/logos/hebrew/HOTACTIONHD.png" group-title="Hebrew",HOT Action
+ 
+#EXTINF:-1 tvg-ID="HOT Gold" tvg-name="HOT Gold" tvg-logo="https://xiptv.com/logos/hebrew/HOTGOLDHD.png" group-title="Hebrew",HOT Gold
+ 
+#EXTINF:-1 tvg-ID="HOT Fun" tvg-name="HOT Fun" tvg-logo="https://xiptv.com/logos/hebrew/HOTFUNHD.png" group-title="Hebrew",HOT Fun
+ 
+#EXTINF:-1 tvg-ID="HOT סרטים" tvg-name="HOT סרטים" tvg-logo="" group-title="Hebrew",HOT סרטים
+ 
+#EXTINF:-1 tvg-id="HOT Prime" tvg-name="HOT Prime" group-title="Israel" tvg-logo="https://github.com/Apollo2000/Repo/raw/master/TVLogos/1561.png",HOT Prime
+ 
+#EXTINF:-1 tvg-ID="AMC" tvg-name="AMC" tvg-logo="https://github.com/Apollo2000/Repo/raw/master/TVLogos/1548.png" group-title="Hebrew",AMC
+ 
+#EXTINF:-1 tvg-ID="HOT Bombay" tvg-name="HOT Bombay" tvg-logo="https://github.com/Apollo2000/Repo/raw/master/TVLogos/1548.png" group-title="Hebrew",HOT Bombay
+ 
+###KIDS###
+#EXTINF:-1 tvg-ID="Yes_kids" tvg-name="Yes_kids" tvg-logo="http://img.bizportal.co.il/giflib/tools/yesKidZ_logo.jpg" group-title="Hebrew",Yes_kids
+ 
+#EXTINF:-1 tvg-ID="Yes_Wiz" tvg-name="Yes_Wiz" tvg-logo="https://upload.wikimedia.org/wikipedia/he/thumb/d/da/WiZ%21_Logo.svg/1280px-WiZ%21_Logo.svg.png" group-title="Hebrew",Yes_Wiz
+ 
+#EXTINF:-1 tvg-ID="Yes_stars" tvg-name="Yes_stars" tvg-logo="https://www.yes.co.il/contents/PublishingImages/logo_new/General/stars_channel.png" group-title="Hebrew",Yes_stars
+ 
+#EXTINF:-1 tvg-ID="Zoom" tvg-name="Zoom" tvg-logo="https://xiptv.com/logos/hebrew/zOOM.png" group-title="Hebrew",Zoom
+ 
+#EXTINF:-1 tvg-ID="!הופ" tvg-name="!הופ" tvg-logo="https://xiptv.com/logos/hebrew/HOPIL.png" group-title="Hebrew",!הופ
+ 
+#EXTINF:-1 tvg-id="הופ! ילדות ישראלית" tvg-name="הופ! ילדות ישראלית" group-title="Israel" tvg-logo="https://github.com/Apollo2000/Repo/raw/master/TVLogos/1559.png",הופ! ילדות ישראלית
+ 
+#EXTINF:-1 tvg-ID="ערוץ הילדים" tvg-name="ערוץ הילדים" tvg-logo="https://xiptv.com/logos/hebrew/ArutzHayeladimIsrael.png" group-title="Hebrew",ערוץ הילדים
+ 
+#EXTINF:-1 tvg-ID="דיסני" tvg-name="דיסני" tvg-logo="http://www.camdserver.com/sb_data/files/logo/disney-channel.jpg" group-title="Hebrew",דיסני
+http://212.150.250.112:80/session/30c8d272-d3b9-11e7-a13b-000c293b109d/rkz79m/ngx/56/mob/hrr_disney/chunklist_b1296000.m3u8
+#EXTINF:-1 tvg-ID="Disney junior" tvg-name="Disney junior" tvg-logo="http://www.camdserver.com/sb_data/files/logo/disney-junior.jpg" group-title="Hebrew",Disney junior
+ 
+#EXTINF:-1 tvg-ID="ערוץ ניקלודיאון" tvg-name="ערוץ ניקלודיאון" tvg-logo="https://xiptv.com/logos/hebrew/Nickelodeon.png" group-title="Hebrew",ערוץ ניקלודיאון
+ 
+#EXTINF:-1 tvg-ID="nick jr" tvg-name="nick jr" tvg-logo="https://xiptv.com/logos/hebrew/NickJr.png" group-title="Hebrew", nick jr
+ 
+#EXTINF:-1 tvg-ID="בייבי" tvg-name="בייבי" tvg-logo="https://xiptv.com/logos/hebrew/BabyTV.png" group-title="Hebew",בייבי
+ 
+#EXTINF:-1 tvg-ID="Logi" tvg-name="Logi" tvg-logo="https://github.com/Apollo2000/Repo/raw/master/TVLogos/1535.png" group-title="Hebrew", Logi
+ 
+#EXTINF:-1 tvg-ID="לולי" tvg-name="לולי" tvg-logo="https://github.com/Apollo2000/Repo/raw/master/TVLogos/1534.png" group-title="Hebrew",לולי
+ 
+#EXTINF:-1 tvg-ID="Junior" tvg-name="Junior" tvg-logo="https://xiptv.com/logos/hebrew/Junior.png" group-title="Hebrew",Junior
+ 
+###Life style####
+#EXTINF:-1 tvg-ID="Channel E" tvg-name="Channel E" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/E%21_Logo.svg/2000px-E%21_Logo.svg.png" group-title="Hebrew", Channel E
+ 
+#EXTINF:-1 tvg-ID="בית + משפחה" tvg-name="בית + משפחה" tvg-logo="https://xiptv.com/logos/hebrew/HomePlus.png" group-title="Hebrew", בית + משפחה
+ 
+#EXTINF:-1 tvg-id="ערוץ הבריאות" tvg-name="ערוץ הבריאות" group-title="Israel" tvg-logo="https://github.com/Apollo2000/Repo/raw/master/TVLogos/1552.png",ערוץ הבריאות
+ 
+#EXTINF:-1 tvg-ID="ערוץ הטיולים" tvg-name="ערוץ הטיולים" tvg-logo="https://xiptv.com/logos/hebrew/TravelChannel.png" group-title="Hebrew",ערוץ הטיולים
+ 
+#EXTINF:-1 tvg-ID="ערוץ האוכל" tvg-name="ערוץ האוכל" tvg-logo="https://xiptv.com/logos/hebrew/foodchannel.png" group-title="Hebrew",ערוץ האוכל
+ 
+#EXTINF:-1 tvg-ID="" tvg-name="VIP IL: Fine Living" tvg-logo="" group-title="Hebrew",VIP IL: Fine Living
+ 
+#EXTINF:-1 tvg-ID="החיים הטובים" tvg-name="החיים הטובים" tvg-logo="https://github.com/Apollo2000/Repo/raw/master/TVLogos/1524.png" group-title="Hebrew",החיים הטובים
+ 
+#EXTINF:-1 tvg-ID="Lifetime" tvg-name="Lifetime" tvg-logo="http://4vector.com/i/free-vector-fine-living_057888_fine-living.png" group-title="Hebrew",Lifetime
+ 
+#EXTINF:-1 tvg-ID="ויוה" tvg-name="ויוה" tvg-logo="https://xiptv.com/logos/hebrew/VIVA.png" group-title="Hebrew",ויוה
+ 
+#EXTINF:-1 tvg-id="ויוה +" tvg-name="ויוה +" group-title="Israel" tvg-logo="https://github.com/Apollo2000/Repo/raw/master/TVLogos/1556.png",ויוה +
+ 
+###since and nature###
+#EXTINF:-1 tvg-ID="NATIONAL GEOGRAPHIC" tvg-name="NATIONAL GEOGRAPHIC" tvg-logo="https://xiptv.com/logos/hebrew/natgeohd.png" group-title="Hebrew",NATIONAL GEOGRAPHIC
+ 
+#EXTINF:-1 tvg-ID="NAT GEO WILD" tvg-name="NAT GEO WILD" tvg-logo="https://xiptv.com/logos/hebrew/NationalGeoWild.png" group-title="Hebrew",NAT GEO WILD
+ 
+#EXTINF:-1 tvg-ID="DISCOVERY" tvg-name="DISCOVERY" tvg-logo="https://xiptv.com/logos/hebrew/discoveryhd.png" group-title="Hebrew",DISCOVERY
+ 
+#EXTINF:-1 tvg-ID="ערוץ ההיסטוריה" tvg-name="ערוץ ההיסטוריה" tvg-logo="https://xiptv.com/logos/hebrew/HistoryHD.png" group-title="Hebrew",ערוץ ההיסטוריה
+ 
+#EXTINF:-1 tvg-ID="CBS_reality" tvg-name="CBS_reality" tvg-logo="https://www.watchallchannels.com/wp-content/uploads/2015/02/CBS-Reality-TV.jpg" group-title="Hebrew",CBS_reality
+ 
+#EXTINF:-1 tvg-ID="Animal planet" tvg-name="Animal planet" tvg-logo="http://onlineru.net/userfiles/shop_items/tmb/s_animal_planet.jpg" group-title="Hebrew",Animal planet
+ 
+ #EXTINF:-1 tvg-ID="ערוץ מורשת - 20" tvg-name="ערוץ מורשת - 20" tvg-logo="https://xiptv.com/logos/hebrew/Channel20.png" group-title="Hebrew",ערוץ מורשת - 20
+http://live.ch20-cdnwiz.com/ch20-abr/ch20-abr/playlist.m3u8
+ 
+ 
+ #EXTINF:-1  tvg-logo="http://www.isramedia.net/images/users/2/0e6b040fd7318b2f62c56368490fda4f.png" group-title="Hebrew",ערוץ 14
+http://nana10-hdl-il-sw.ctedgecdn.net/Nana10-Live/amlst:hd_,500,1000,1200,2400,/playlist.m3u8
+#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/59/KAN_11.png" group-title="Hebrew",כאן 11
+http://82.80.192.2/ipbc_IPBCchannel11LVMRepeat/_definst_/smil:IPBCchannel11LVM.smil/playlist.m3u8
 
 
 
@@ -225,12 +386,10 @@ http://keshethlslive-lh.akamaihd.net/i/c2n_1@195269/master.m3u8
 
 #EXTINF:-1 tvg-logo="https://s28.postimg.org/ybw6t6vq5/D2_F72_F70-84_CF-4_AA7-_AE53-_E213042_DE1_E3.jpg", ערוץ 10
 http://nana10-hdl-il-sw.ctedgecdn.net/Nana10-Live/amlst:hd_,500,1000,1200,2400,/playlist.m3u8
-#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/59/KAN_11.png" group-title="Hebrew",כאן 11
-http://82.80.192.2/ipbc_IPBCchannel11LVMRepeat/_definst_/smil:IPBCchannel11LVM.smil/playlist.m3u8
+
 #EXTINF:-1  tvg-logo="http://img.mako.co.il/2017/10/29/hadashot_4.jpg",ערוץ החדשות - Online
 http://keshethlslive-lh.akamaihd.net/i/c2nsec_1@195268/index_2296_av-p.m3u8|User-Agent=Mozilla/5.0
-#EXTINF:-1  tvg-logo="http://www.isramedia.net/images/users/2/0e6b040fd7318b2f62c56368490fda4f.png" group-title="Hebrew",ערוץ 14
-http://nana10-hdl-il-sw.ctedgecdn.net/Nana10-Live/amlst:hd_,500,1000,1200,2400,/playlist.m3u8
+
 
 #EXTINF:-1 tvg-logo="http://www.isramedia.net/images/users/2/be1747eee7bc07dfa425da17c6d5acc7.png", VOD קשת
 http://keshethlslive-lh.akamaihd.net/i/lin1_1@364366/master.m3u8|User-Agent=Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/45.0.2454.85 Safari/537.36
@@ -238,8 +397,7 @@ http://keshethlslive-lh.akamaihd.net/i/lin1_1@364366/master.m3u8|User-Agent=Mozi
 https://besttv1.aoslive.it.best-tv.com/reshet/studio/index_3.m3u8
 #EXTINF:-1 tvg-logo="http://www.isramedia.net/images/users/2/be1747eee7bc07dfa425da17c6d5acc7.png", קשת
 http://l5.isramedia.net:1935/chan/smil:12jh.smil/chunklist_w912117380_b450000_tkdG9rZW5zdGFydHRpbWU9MTUyMjYwODEwOCZ0b2tlbmVuZHRpbWU9MTUyMjYxMTcwOCZ0b2tlbmhhc2g9MF8tRWF0dWZlUTdabXpMc1cwRy1CLWF6ZHJpTkM5MzhBaXhET2tXekkycz0=.m3u8
-#EXTINF:-1 tvg-ID="ערוץ מורשת - 20" tvg-name="ערוץ מורשת - 20" tvg-logo="https://xiptv.com/logos/hebrew/Channel20.png" group-title="Hebrew",ערוץ מורשת - 20
-http://live.ch20-cdnwiz.com/ch20-abr/ch20-abr/playlist.m3u8
+
 #EXTINF:-1 tvg-id="ערוץ הידברות" tvg-name="ערוץ הידברות" group-title="Israel" tvg-logo="http://www.tvland.co.il/Pics/hidabrutbig.jpg",ערוץ הידברות
 https://stream71.shidur.net/htvlive2/_definst_/smil:live2.smil/chunklist_b1248000.m3u8
 #EXTINF:-1, ערוץ הקניות
@@ -257,157 +415,7 @@ http://212.199.69.238:80/mjpg/video.mjpg
 #EXTINF:-1,Israel CAM 1 Muro das Lamentações
 rtmp://il34.cast-tv.com:1935/23595_LIVE_Kotel_Live/_definst_/23595_LIVE_Kotel_Live
 
-#EXTINF:-1 tvg-ID="מוסיקה 24" tvg-name="מוסיקה 24" tvg-logo="https://xiptv.com/logos/hebrew/Channel24.png" group-title="Hebrew",מוסיקה 24
-http://keshethlslive-lh.akamaihd.net/i/24live_1@195271/index_2000_av-b.m3u8|User-Agent=Mozilla/5.0
-#EXTINF:-1 tvg-ID="ים תיכוני" tvg-name="ים תיכוני" tvg-logo="http://haflla.com/wp-content/uploads/2015/09/207225_208253189193729_5563486_n1.jpg-750x420-1442480525.png" group-title="Hebrew",ים תיכוני
- 
-#EXTINF:-1 tvg-ID="MTV" tvg-name="MTV" tvg-logo="http://www.camdserver.com/sb_data/files/logo/mtv.jpg" group-title="Hebrew",MTV
- 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.foxtel.com.au/content/dam/foxtel/insider/general/russia-today" group-title="",===ערוצי ספורט===
-http://localhost:62555/?plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://rt-eng-live.hls.adaptive.level3.net/rt/eng/index250011111.m3u8
-#EXTINF:-1 tvg-ID="ספורט ONE" tvg-name="ספורט ONE" tvg-logo="https://xiptv.com/logos/hebrew/ONEHD.png" group-title="Hebrew",ספורט ONE
- 
-#EXTINF:-1 tvg-ID="ספורט 1" tvg-name="ספורט 1" tvg-logo="https://xiptv.com/logos/hebrew/YESSPORT1HD.png" group-title="Hebrew",ספורט 1
-http://ul.cdn584.net:8080/hls/zezvjlv.m3u8?s=e17wOUEYyteprQUQRjrhZw&e=1543978575
-#EXTINF:-1 tvg-ID="ספורט 2" tvg-name="ספורט 2" tvg-logo="https://xiptv.com/logos/hebrew/YESSPORT2HD.png" group-title="Hebrew",ספורט 2
- http://ul.cdn584.net:8080/hls/wb4zq32.m3u8?s=eIYfLI7_0tygZJwPVUxNVg&e=1543978650
-#EXTINF:-1 tvg-ID="ספורט 3" tvg-name="ספורט 3" tvg-logo="https://www.xiptv.com/logos/hebrew/YESSPORT3HD.PNG" group-title="Hebrew",ספורט 3
- 
-#EXTINF:-1 tvg-ID="ספורט 4" tvg-name="ספורט 4" tvg-logo="https://www.xiptv.com/logos/hebrew/YESSPORT4HD.PNG" group-title="Hebrew",ספורט 4
- http://ul.cdn584.net:8080/hls/h4gpo1c.m3u8?s=nWoPuCPSrlhqWQZLr5N0XQ&e=1543977550
-#EXTINF:-1 tvg-ID="FOX SPORTS" tvg-name="FOX SPORTS" tvg-logo="https://xiptv.com/logos/hebrew/FoxSportHD.png" group-title="Hebrew",FOX SPORTS
- 
-#EXTINF:-1 tvg-ID="ספורט 5" tvg-name="ספורט 5" tvg-logo="https://xiptv.com/logos/hebrew/Sport5HD.png" group-title="Hebrew",ספורט 5HD
-http://212.150.250.113/session/5835b800-d3bb-11e7-9aaf-000c297e06cd/rkz79m/ngx/mob/hrr_5hd/chunklist_b1596000.m3u8
-#EXTINF:-1 tvg-ID="ספורט 5 פלוס לייב" tvg-name="ספורט 5 פלוס לייב" tvg-logo="https://xiptv.com/logos/hebrew/sport5online.png" group-title="Hebrew",ספורט 5 פלוס לייב
- 
-#EXTINF:-1 tvg-id="ספורט 5+" tvg-name="ספורט 5+" group-title="Israel" tvg-logo="https://github.com/Apollo2000/Repo/raw/master/TVLogos/1531.png",ספורט 5+
- 
-#EXTINF:-1 tvg-ID="5+ Gold" tvg-name="5+ Gold" tvg-logo="https://www.xiptv.com/logos/hebrew/sport5gold.jpg" group-title="Hebrew",5+ Gold
- 
-#EXTINF:-1 tvg-ID="אגו טוטאל" tvg-name="אגו טוטאל" tvg-logo="http://msc.wcdn.co.il/w/w-700/404659-5.jpg" group-title="Hebrew",אגו טוטאל
- 
-#EXTINF:-1 tvg-ID="Extreme" tvg-name="Extreme" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/f0/Extreme_Sports_Channel.svg/1200px-Extreme_Sports_Channel.svg.png" group-title="Hebrew",Extreme
- 
-###YES###
-#EXTINF:-1 tvg-ID="yes1hd" tvg-name="yes1hd" tvg-logo="https://xiptv.com/logos/hebrew/yes1hd.png" group-title="Hebrew",yes1hd
- 
-#EXTINF:-1 tvg-ID="yes2hd" tvg-name="yes2hd" tvg-logo="https://xiptv.com/logos/hebrew/yes2hd.png" group-title="Hebrew",yes2hd
- 
-#EXTINF:-1 tvg-ID="yes3hd" tvg-name="yes3hd" tvg-logo="https://xiptv.com/logos/hebrew/yes3hd.png" group-title="Hebrew",yes3hd
- 
-#EXTINF:-1 tvg-ID="yes4hd" tvg-name="yes4hd" tvg-logo="https://xiptv.com/logos/hebrew/yes4hd.png" group-title="Hebrew",yes4hd
- 
-#EXTINF:-1 tvg-ID="yes5hd" tvg-name="yes5hd" tvg-logo="https://xiptv.com/logos/hebrew/yes5hd.png" group-title="Hebrew",yes5hd
- 
-#EXTINF:-1 tvg-ID="yesoh" tvg-name="yesoh" tvg-logo="https://xiptv.com/logos/hebrew/yesohhd.png" group-title="Hebrew",yesoh
- 
-#EXTINF:-1 tvg-ID="Yes_Action_white" tvg-name="Yes_Action_white" tvg-logo="https://xiptv.com/logos/hebrew/YESACTIONHD.png" group-title="Hebrew",Yes_Action_white
- 
-#EXTINF:-1 tvg-ID="Yes_Drama_white" tvg-name="Yes_Drama_white" tvg-logo="https://xiptv.com/logos/hebrew/yesdramahd.png" group-title="Hebrew",Yes_Drama_white
- 
-#EXTINF:-1 tvg-ID="Yes_Comedy_white" tvg-name="Yes_Comedy_white" tvg-logo="https://xiptv.com/logos/hebrew/yescomedyhd.png" group-title="Hebrew",Yes_Comedy_white
- 
-#EXTINF:-1 tvg-ID="Yes_Doco_white" tvg-name="Yes_Doco_white" tvg-logo="https://xiptv.com/logos/hebrew/yesdocuhd.png" group-title="Hebrew",Yes_Doco_white
- 
-#EXTINF:-1 tvg-ID="yesisraeli" tvg-name="yesisraeli" tvg-logo="https://xiptv.com/logos/hebrew/yescinemahd.png" group-title="Hebrew",yesisraeli
- 
-#EXTINF:-1 tvg-ID="cbs drama" tvg-name="cbs drama" tvg-logo="http://freetvtube.com/wp-content/uploads/cbs-drama.jpg" group-title="Hebrew",cbs drama
- 
-###HOT###
-#EXTINF:-1 tvg-ID="HOT3" tvg-name="HOT3" tvg-logo="https://xiptv.com/logos/hebrew/HOT3HD.png" group-title="Hebrew",HOT3
- 
-#EXTINF:-1 tvg-ID="HOT HBO" tvg-name="HOT HBO" tvg-logo="https://xiptv.com/logos/hebrew/HOTHBOHD.png" group-title="Hebrew",HOT HBO
- 
-#EXTINF:-1 tvg-ID="קומדי סנטרל" tvg-name="קומדי סנטרל" tvg-logo="https://xiptv.com/logos/hebrew/hotcomedycentralhd.png" group-title="Hebrew", קומדי סנטרל
- 
-#EXTINF:-1 tvg-ID="בידור ישראלי" tvg-name="בידור ישראלי" tvg-logo="https://xiptv.com/logos/hebrew/hotentertainment.png" group-title="Hebrew", בידור ישראלי
- 
-#EXTINF:-1 tvg-ID="ערוץ 8" tvg-name="ערוץ 8" tvg-logo="https://xiptv.com/logos/hebrew/HOTChannel8.png" group-title="Hebrew",ערוץ 8
- 
-#EXTINF:-1 tvg-ID="Hot Zone" tvg-name="Hot Zone" tvg-logo="https://xiptv.com/logos/hebrew/HOTZONEHD.png" group-title="Hebrew",Hot Zone
- 
-#EXTINF:-1 tvg-ID="HOT Drama" tvg-name="HOT Drama" tvg-logo="https://xiptv.com/logos/hebrew/HOTDRAMAHD.png" group-title="Hebrew",HOT Drama
- 
-#EXTINF:-1 tvg-ID="HOT Action" tvg-name="HOT Action" tvg-logo="https://xiptv.com/logos/hebrew/HOTACTIONHD.png" group-title="Hebrew",HOT Action
- 
-#EXTINF:-1 tvg-ID="HOT Gold" tvg-name="HOT Gold" tvg-logo="https://xiptv.com/logos/hebrew/HOTGOLDHD.png" group-title="Hebrew",HOT Gold
- 
-#EXTINF:-1 tvg-ID="HOT Fun" tvg-name="HOT Fun" tvg-logo="https://xiptv.com/logos/hebrew/HOTFUNHD.png" group-title="Hebrew",HOT Fun
- 
-#EXTINF:-1 tvg-ID="HOT סרטים" tvg-name="HOT סרטים" tvg-logo="" group-title="Hebrew",HOT סרטים
- 
-#EXTINF:-1 tvg-id="HOT Prime" tvg-name="HOT Prime" group-title="Israel" tvg-logo="https://github.com/Apollo2000/Repo/raw/master/TVLogos/1561.png",HOT Prime
- 
-#EXTINF:-1 tvg-ID="AMC" tvg-name="AMC" tvg-logo="https://github.com/Apollo2000/Repo/raw/master/TVLogos/1548.png" group-title="Hebrew",AMC
- 
-#EXTINF:-1 tvg-ID="HOT Bombay" tvg-name="HOT Bombay" tvg-logo="https://github.com/Apollo2000/Repo/raw/master/TVLogos/1548.png" group-title="Hebrew",HOT Bombay
- 
-###KIDS###
-#EXTINF:-1 tvg-ID="Yes_kids" tvg-name="Yes_kids" tvg-logo="http://img.bizportal.co.il/giflib/tools/yesKidZ_logo.jpg" group-title="Hebrew",Yes_kids
- 
-#EXTINF:-1 tvg-ID="Yes_Wiz" tvg-name="Yes_Wiz" tvg-logo="https://upload.wikimedia.org/wikipedia/he/thumb/d/da/WiZ%21_Logo.svg/1280px-WiZ%21_Logo.svg.png" group-title="Hebrew",Yes_Wiz
- 
-#EXTINF:-1 tvg-ID="Yes_stars" tvg-name="Yes_stars" tvg-logo="https://www.yes.co.il/contents/PublishingImages/logo_new/General/stars_channel.png" group-title="Hebrew",Yes_stars
- 
-#EXTINF:-1 tvg-ID="Zoom" tvg-name="Zoom" tvg-logo="https://xiptv.com/logos/hebrew/zOOM.png" group-title="Hebrew",Zoom
- 
-#EXTINF:-1 tvg-ID="!הופ" tvg-name="!הופ" tvg-logo="https://xiptv.com/logos/hebrew/HOPIL.png" group-title="Hebrew",!הופ
- 
-#EXTINF:-1 tvg-id="הופ! ילדות ישראלית" tvg-name="הופ! ילדות ישראלית" group-title="Israel" tvg-logo="https://github.com/Apollo2000/Repo/raw/master/TVLogos/1559.png",הופ! ילדות ישראלית
- 
-#EXTINF:-1 tvg-ID="ערוץ הילדים" tvg-name="ערוץ הילדים" tvg-logo="https://xiptv.com/logos/hebrew/ArutzHayeladimIsrael.png" group-title="Hebrew",ערוץ הילדים
- 
-#EXTINF:-1 tvg-ID="דיסני" tvg-name="דיסני" tvg-logo="http://www.camdserver.com/sb_data/files/logo/disney-channel.jpg" group-title="Hebrew",דיסני
-http://212.150.250.112:80/session/30c8d272-d3b9-11e7-a13b-000c293b109d/rkz79m/ngx/56/mob/hrr_disney/chunklist_b1296000.m3u8
-#EXTINF:-1 tvg-ID="Disney junior" tvg-name="Disney junior" tvg-logo="http://www.camdserver.com/sb_data/files/logo/disney-junior.jpg" group-title="Hebrew",Disney junior
- 
-#EXTINF:-1 tvg-ID="ערוץ ניקלודיאון" tvg-name="ערוץ ניקלודיאון" tvg-logo="https://xiptv.com/logos/hebrew/Nickelodeon.png" group-title="Hebrew",ערוץ ניקלודיאון
- 
-#EXTINF:-1 tvg-ID="nick jr" tvg-name="nick jr" tvg-logo="https://xiptv.com/logos/hebrew/NickJr.png" group-title="Hebrew", nick jr
- 
-#EXTINF:-1 tvg-ID="בייבי" tvg-name="בייבי" tvg-logo="https://xiptv.com/logos/hebrew/BabyTV.png" group-title="Hebew",בייבי
- 
-#EXTINF:-1 tvg-ID="Logi" tvg-name="Logi" tvg-logo="https://github.com/Apollo2000/Repo/raw/master/TVLogos/1535.png" group-title="Hebrew", Logi
- 
-#EXTINF:-1 tvg-ID="לולי" tvg-name="לולי" tvg-logo="https://github.com/Apollo2000/Repo/raw/master/TVLogos/1534.png" group-title="Hebrew",לולי
- 
-#EXTINF:-1 tvg-ID="Junior" tvg-name="Junior" tvg-logo="https://xiptv.com/logos/hebrew/Junior.png" group-title="Hebrew",Junior
- 
-###Life style####
-#EXTINF:-1 tvg-ID="Channel E" tvg-name="Channel E" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/E%21_Logo.svg/2000px-E%21_Logo.svg.png" group-title="Hebrew", Channel E
- 
-#EXTINF:-1 tvg-ID="בית + משפחה" tvg-name="בית + משפחה" tvg-logo="https://xiptv.com/logos/hebrew/HomePlus.png" group-title="Hebrew", בית + משפחה
- 
-#EXTINF:-1 tvg-id="ערוץ הבריאות" tvg-name="ערוץ הבריאות" group-title="Israel" tvg-logo="https://github.com/Apollo2000/Repo/raw/master/TVLogos/1552.png",ערוץ הבריאות
- 
-#EXTINF:-1 tvg-ID="ערוץ הטיולים" tvg-name="ערוץ הטיולים" tvg-logo="https://xiptv.com/logos/hebrew/TravelChannel.png" group-title="Hebrew",ערוץ הטיולים
- 
-#EXTINF:-1 tvg-ID="ערוץ האוכל" tvg-name="ערוץ האוכל" tvg-logo="https://xiptv.com/logos/hebrew/foodchannel.png" group-title="Hebrew",ערוץ האוכל
- 
-#EXTINF:-1 tvg-ID="" tvg-name="VIP IL: Fine Living" tvg-logo="" group-title="Hebrew",VIP IL: Fine Living
- 
-#EXTINF:-1 tvg-ID="החיים הטובים" tvg-name="החיים הטובים" tvg-logo="https://github.com/Apollo2000/Repo/raw/master/TVLogos/1524.png" group-title="Hebrew",החיים הטובים
- 
-#EXTINF:-1 tvg-ID="Lifetime" tvg-name="Lifetime" tvg-logo="http://4vector.com/i/free-vector-fine-living_057888_fine-living.png" group-title="Hebrew",Lifetime
- 
-#EXTINF:-1 tvg-ID="ויוה" tvg-name="ויוה" tvg-logo="https://xiptv.com/logos/hebrew/VIVA.png" group-title="Hebrew",ויוה
- 
-#EXTINF:-1 tvg-id="ויוה +" tvg-name="ויוה +" group-title="Israel" tvg-logo="https://github.com/Apollo2000/Repo/raw/master/TVLogos/1556.png",ויוה +
- 
-###since and nature###
-#EXTINF:-1 tvg-ID="NATIONAL GEOGRAPHIC" tvg-name="NATIONAL GEOGRAPHIC" tvg-logo="https://xiptv.com/logos/hebrew/natgeohd.png" group-title="Hebrew",NATIONAL GEOGRAPHIC
- 
-#EXTINF:-1 tvg-ID="NAT GEO WILD" tvg-name="NAT GEO WILD" tvg-logo="https://xiptv.com/logos/hebrew/NationalGeoWild.png" group-title="Hebrew",NAT GEO WILD
- 
-#EXTINF:-1 tvg-ID="DISCOVERY" tvg-name="DISCOVERY" tvg-logo="https://xiptv.com/logos/hebrew/discoveryhd.png" group-title="Hebrew",DISCOVERY
- 
-#EXTINF:-1 tvg-ID="ערוץ ההיסטוריה" tvg-name="ערוץ ההיסטוריה" tvg-logo="https://xiptv.com/logos/hebrew/HistoryHD.png" group-title="Hebrew",ערוץ ההיסטוריה
- 
-#EXTINF:-1 tvg-ID="CBS_reality" tvg-name="CBS_reality" tvg-logo="https://www.watchallchannels.com/wp-content/uploads/2015/02/CBS-Reality-TV.jpg" group-title="Hebrew",CBS_reality
- 
-#EXTINF:-1 tvg-ID="Animal planet" tvg-name="Animal planet" tvg-logo="http://onlineru.net/userfiles/shop_items/tmb/s_animal_planet.jpg" group-title="Hebrew",Animal planet
- 
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.foxtel.com.au/content/dam/foxtel/insider/general/russia-today" group-title="",===ערוצים מהעולם===
 http://localhost:62555/?plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://rt-eng-live.hls.adaptive.level3.net/rt/eng/index250011111.m3u8
  
