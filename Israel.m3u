@@ -1,7 +1,10 @@
 #EXTM3U
  
-#EXTINF:-1 tvg-id="1" tvg-name="" tvg-logo="https://thumbs4.imagebam.com/a9/39/dc/ME98WSU_t.jpg" group-title="עידן+",ch 9
+#EXTINF:-1 tvg-id="1" tvg-name="" tvg-logo="https://thumbs4.imagebam.com/a9/39/dc/ME98WSU_t.jpg" group-title="עידן+",ch 9HD
 http://rv.therevenge.co:80/565656/565656/84402?checkedby:dailyfreeiptvlist.com
+
+#EXTINF:-1 tvg-id="1" tvg-name="" tvg-logo="https://thumbs4.imagebam.com/a9/39/dc/ME98WSU_t.jpg" group-title="עידן+",ch 9
+http://rv.therevenge.co:80/565656/565656/84403?checkedby:dailyfreeiptvlist.com
  
 #EXTINF:-1 tvg-id="1" tvg-name="" tvg-logo="http://images2.imagebam.com/2a/e5/7c/f061ac784878033.jpg" group-title="עידן+",ch 11 כאן
 http://bosstr.net:80/nomoreacble/dsfsdfsfds/55196
