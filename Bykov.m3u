@@ -560,35 +560,26 @@ rtmp://musicbox.cdnvideo.ru:1935/musicbox playpath=musicbox.sdp swfUrl=http://ww
  
 #EXTINF:-1 tvg-id="Music Box Ukraine" group-title="Music - מוזיקה" tvg-logo="http://www.abload.de/img/musicv0pjo.png",Music Box Ukraine
 rtmp://212.26.132.86/live/ playpath=mb_ua swfUrl=http://radio.adamant.ua/video-js/video-js.swf pageUrl=http://radio.adamant.ua/adamant_player/mb_ua/mb_ua_v.html
- 
+
+
+###Since and Nature###
 #EXTINF:-1 tvg-id="NASA HD" group-title="Science & nature - מדע וטבע" tvg-logo="http://static.filmon.com/couch/channels/330/extra_big_logo.png",NASA HD
 https://nasa-i.akamaihd.net/hls/live/253565/NASA-NTV1-Public/master_2000.m3u8
  
 #EXTINF:-1 tvg-id="NASA Live - Earth From Space (HDVR) ISS LIVE FEED" group-title="Science & nature - מדע וטבע" tvg-logo="",NASA Live - Earth From Space (HDVR) ISS LIVE FEED
-http://127.0.0.1:65007/?url=https%3A//www.youtube.com/watch%26v%3DRtU_mdL2vBM&mode=3
+http://127.0.0.1:65007/?url=https%3A//www.youtube.com/watch%26v%3D86YLFOog4GM&mode=3
  
 #EXTINF:-1 tvg-id="CGTN Doco" group-title="Science & nature - מדע וטבע" tvg-logo="http://static.filmon.com/couch/channels/2786/extra_big_logo.png",CGTN Doco
 http://livedoc.cgtn.com/1000d/prog_index.m3u8
  
-#EXTINF:-1 tvg-id="Russian Today: Documentary" group-title="Science & nature - מדע וטבע" tvg-logo="http://static.filmon.com/couch/channels/1981/extra_big_logo.png",Russian Today: Documentary
-http://rt-doc-live.hls.adaptive.level3.net/rt/doc/index2500.m3u8
+#EXTINF:-1 tvg-id="Russian Today: Documentary" group-title="Science & nature - מדע וטבע" tvg-logo="http://static.filmon.com/couch/channels/1981/extra_big_logo.png",NASA YOUTUBE
+http://127.0.0.1:65007/?url=https://www.youtube.com/watch?v=86YLFOog4GM
  
-#EXTINF:-1 tvg-id="TWiT US" group-title="Science & nature - מדע וטבע" tvg-logo="http://lyalinwp7.files.wordpress.com/2010/12/200x200_thumb.png?w=103&h=103&h=103",TWiT US
-http://hls.twit.tv/flosoft/smil:twitStream.smil/playlist.m3u8
+
  
-#EXTINF:-1 tvg-id="Dubai Sports 3" group-title="Sport - ספורט" tvg-logo="http://www.islambox.com/images/products/channels/web/dubaisports3-web.png",Dubai Sports 3
+ 
+###Sport###
+#EXTINF:-1 tvg-id="Dubai Sports 3" group-title="Sport" tvg-logo="http://www.islambox.com/images/products/channels/web/dubaisports3-web.png",Dubai Sports 3
 http://dmi.mangomolo.com:1935/dubaisports/smil:dubaisports.smil/playlist.m3u8
  
-#EXTINF:-1 tvg-id="Dubai Racing" group-title="Sport - ספורט" tvg-logo="http://www.mems-cg.com/library/images/uploaded%20images/Dxb_Racing_C.jpg",Dubai Racing
-http://dmivll.mangomolo.com/dubairacing/smil:dubairacing.smil/playlist.m3u8
- 
-#EXTINF:-1 tvg-id="NBC Golf" group-title="Sport - ספורט" tvg-logo="http://upload.wikimedia.org/wikipedia/en/e/e4/NBC_Golf_logo.png",NBC Golf
-http://tvegolf-i.Akamaihd.net/hls/live/218225/golfx/1896k/prog.m3u8|X-Forwarded-For=209.239.112.104
- 
-#EXTINF:-1 tvg-id="NBC Golf" group-title="Sport - ספורט" tvg-logo="http://upload.wikimedia.org/wikipedia/en/e/e4/NBC_Golf_logo.png",NBC Golf
-http://tvegolf-i.Akamaihd.net/hls/live/218225/golfx/2596k/prog.m3u8|X-Forwarded-For=209.239.112.104
- 
-#EXTINF:-1 tvg-id="NBC Golf" group-title="Sport - ספורט" tvg-logo="http://upload.wikimedia.org/wikipedia/en/e/e4/NBC_Golf_logo.png",NBC Golf
-http://tvegolf-i.Akamaihd.net/hls/live/218225/golfx/4296k/prog.m3u8|X-Forwarded-For=209.239.112.104
-
 
