@@ -68,8 +68,7 @@ http://live.alsace20.fr/live/alsace20/ngrp:alsace20_all/playlist.m3u8
 
 
 
-#EXTINF:-1 tvg-id="ERT1" group-title="Greece - יוון" tvg-logo="",ERT1
-http://127.0.0.1:65007/?url=https://www.youtube.com/watch?v=86YLFOog4GM&mode=3
+
 
 
 
@@ -1322,5 +1321,7 @@ https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1649696703/ei/X
 
  
 #EXTINF:-1 tvg-id="Dubai Sports 3" group-title="Sport - ספורט" tvg-logo="http://www.islambox.com/images/products/channels/web/dubaisports3-web.png",Dubai Sports 3
+
+#EXTINF:-1 tvg-id="ERT1" group-title="Greece - יוון" tvg-logo="",ERT1
 
 
