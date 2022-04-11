@@ -26,14 +26,11 @@ http://e4.online.video.rbc.ru/online2/rbctv_480p/index.m3u8
 #EXTINF:-1 tvg-id="1" tvg-name="" tvg-logo="http://images2.imagebam.com/2a/e5/7c/f061ac784878033.jpg" group-title="Hebrew",ch 11 כאן
 https://kanlivep2event-i.akamaihd.net/hls/live/747610/747610/source1_2.5k/chunklist.m3u8?checkedby:iptvcat.net
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://images2.imagebam.com/3b/9c/29/accd2c784878043.jpg" group-title="Hebrew",ch 12 קשת
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://thumbs4.imagebam.com/b1/a8/fb/ME98YSJ_t.jpg" group-title="Hebrew",ch 12 קשת
 http://uwio8xrt.megatv.fun/iptv/XC3FVMRRX9W5HL/2329/index.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://thumbs2.imagebam.com/bc/ad/be/19f5c9784877383.jpg" group-title="Hebrew",ch 13 רשת
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://thumbs4.imagebam.com/9e/00/60/ME98YSH_t.jpg" group-title="Hebrew",ch 13 רשת
 https://d18b0e6mopany4.cloudfront.net/out/v1/08bc71cf0a0f4712b6b03c732b0e6d25/index_3.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://thumbs2.imagebam.com/aa/8b/9f/fe51a9784877423.jpg" group-title="Hebrew",ch 20 מורשת
-https://splittv.ch20-cdnwiz.com/hls/live.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://images2.imagebam.com/de/cc/c9/4c7f3e788799523.png" group-title="Hebrew",ch 23 חינוכית
 https://kanlivep2event-i.akamaihd.net/hls/live/747600/747600/playlist.m3u8
