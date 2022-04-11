@@ -28,62 +28,9 @@ http://edge1.il.kab.tv/rtplive/tv66-heb-high.stream/playlist.m3u8
 
 
 
-#EXTINF:-1 tvg-id="London Live" group-title="Entertainment - בידור" tvg-logo="http://cached.imagescaler.hbpl.co.uk/resize/scaleWidth/618/?sURL=http://offlinehbpl.hbpl.co.uk/News/OMC/LondonLiveWeb-20131023010320820.jpg",London Live
-http://bcoveliveios-i.akamaihd.net/hls/live/217434/3083279840001/master_900.m3u8
+
  
-#EXTINF:-1 tvg-id="Dubai One" group-title="Entertainment - בידור" tvg-logo="http://upload.wikimedia.org/wikipedia/en/thumb/8/8d/Onetv_Logo_UAE.png/150px-Onetv_Logo_UAE.png",Dubai One
-http://dmi.mangomolo.com:1935/dubaione/smil:dubaione.smil/playlist.m3u8
- 
-#EXTINF:-1 tvg-id="BYUtv" group-title="Entertainment - בידור" tvg-logo="",BYUtv
-https://byubhls-i.akamaihd.net/hls/live/267187/byutvhls/master_4064.m3u8
- 
-#EXTINF:-1 tvg-id="Insight HD" group-title="Entertainment - בידור" tvg-logo="http://informitv.com/wordpress/wp-content/uploads/2015/10/Insight-TV.jpg",Insight HD
-http://ooyalahd2-f.akamaihd.net/i/intv02_delivery@346464/index_5128_av-p.m3u8?sd=10&rebase=on
- 
-#EXTINF:-1 tvg-id="AMGTV" group-title="Entertainment - בידור" tvg-logo="https://en.wikipedia.org/wiki/AMGTV#/media/File:Amgtv.PNG",AMGTV
-rtmp://cp212391.live.edgefcs.net/live/T02027-amgtv@120244 swfUrl=http://vp.telvue.com/extra/jwplayer.swf swfVfy=1 live=1 pageUrl=http://vp.telvue.com/player?id=T02027&video=57269&mini=1&autoplay=true timeout=15
- 
-#EXTINF:-1 tvg-id="ALL THE KPOP" group-title="Entertainment - בידור" tvg-logo="https://yt3.ggpht.com/-QjhqvLdYqrk/AAAAAAAAAAI/AAAAAAAAAAA/2wsx5GKklCc/s88-c-k-no-mo-rj-c0xffffff/photo.jpg",ALL THE KPOP
-http://127.0.0.1:65007/?url=https%3A//www.youtube.com/watch%26v%3DqGNyfwrjV0c&mode=3
- 
-#EXTINF:-1 tvg-id="Fashion TV" group-title="Entertainment - בידור" tvg-logo="http://static.filmon.com/couch/channels/21/extra_big_logo.png",Fashion TV
-http://127.0.0.1:65007/?url=https%3A//www.youtube.com/watch%26v%3D5FcHZ5Dj7WE&mode=3
- 
-#EXTINF:-1 tvg-id="DAYSTAR" group-title="Entertainment - בידור" tvg-logo="http://static.filmon.com/couch/channels/833/extra_big_logo.png",DAYSTAR
-https://bcsecurelivehls-i.akamaihd.net/hls/live/261547/1539097700001/master_720p.m3u8
- 
-#EXTINF:-1 tvg-id="TBN" group-title="Entertainment - בידור" tvg-logo="http://static.filmon.com/couch/channels/398/extra_big_logo.png",TBN
-http://acaooyalahd2-lh.akamaihd.net/i/TBN01_delivery@186239/index_2528_av-p.m3u8?sd=10&rebase=on
- 
-#EXTINF:-1 tvg-id="CBN" group-title="Entertainment - בידור" tvg-logo="http://cbn.pd.ak.o.brightcove.com/734546207001/734546207001_1413899386001_GENERIC-CBN-Large.jpg",CBN
-http://bcliveuniv-lh.akamaihd.net/i/iptv1_1@194050/master.m3u8?playerId=2196082720001&lineupId=&affiliateId=&pubId=734546207001&videoId=3575741462001
- 
-#EXTINF:-1 tvg-id="Angel TV" group-title="Entertainment - בידור" tvg-logo="http://www.revivaltvonline.com/images/Logo/angels-tv.jpg",Angel TV
-http://angeltvnetworkchannel.live-s.cdn.bitgravity.com/cdn-live/_definst_/angeltvnetworkchannel/live/AngelTV_India_3/master.m3u8
- 
-#EXTINF:-1 tvg-id="KBS World" group-title="Entertainment - בידור" tvg-logo="http://upload.wikimedia.org/wikipedia/commons/thumb/9/91/1235552102_KBS_World_-_Logotype_%28JPG%29.jpg/260px-1235552102_KBS_World_-_Logotype_%28JPG%29.jpg",KBS World
-http://127.0.0.1:65007/?url=https%3A//www.youtube.com/watch%26v%3DPUl4hiEOXSo&mode=3
- 
-#EXTINF:-1 tvg-id="JLTV" group-title="Entertainment - בידור" tvg-logo="http://www.jltv.tv/images/jltvLogoHor.png",JLTV
-http://52.40.109.131:1935/rtplive/smil:jltv.smil/playlist.m3u8
- 
-#EXTINF:-1 tvg-id="CCTV4" group-title="Entertainment - בידור" tvg-logo="",CCTV4
-http://127.0.0.1:65007/?url=https%3A//www.youtube.com/watch%26v%3DY8Wy9LXCapw&mode=3
- 
-#EXTINF:-1 tvg-id="Channel 5 SINGAPORE" group-title="Entertainment - בידור" tvg-logo="",Channel 5 SINGAPORE
-http://tglch5-lh.akamaihd.net/i/channel5_fta@334581/index_4_av-p.m3u8?sd=10&rebase=on
- 
-#EXTINF:-1 tvg-id="Channel 8 SINGAPORE" group-title="Entertainment - בידור" tvg-logo="",Channel 8 SINGAPORE
-http://tglch8-lh.akamaihd.net/i/channel8_fta@334582/index_4_av-p.m3u8?sd=10&rebase=on
- 
-#EXTINF:-1 tvg-id="Channel U SINGAPORE" group-title="Entertainment - בידור" tvg-logo="",Channel U SINGAPORE
-http://tglchu-lh.akamaihd.net/i/channelu_fta@334583/index_4_av-p.m3u8?sd=10&rebase=on
- 
-#EXTINF:-1 tvg-id="Suria SINGAPORE" group-title="Entertainment - בידור" tvg-logo="",Suria SINGAPORE
-http://tglsuria-lh.akamaihd.net/i/suria_fta@334584/index_4_av-p.m3u8?sd=10&rebase=on
- 
-#EXTINF:-1 tvg-id="Vasantham SINGAPORE" group-title="Entertainment - בידור" tvg-logo="",Vasantham SINGAPORE
-http://tglvas-lh.akamaihd.net/i/vas_fta@334587/index_4_av-p.m3u8?sd=10&rebase=on
+
  
 #EXTINF:-1 tvg-id="Mello TV" group-title="Entertainment - בידור" tvg-logo="http://www.mellotv.com/uc/Mello%20icon.png",Mello TV
 http://mellotvnew.tulix.tv/live/smil:mellotv.smil/chunklist_w1800524040_b2328000_sleng.m3u8
@@ -1738,6 +1685,9 @@ https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1649696703/ei/X
 ################
 ################
 ################
+
+#EXTINF:-1 tvg-id="London Live" group-title="Entertainment - בידור" tvg-logo="http://cached.imagesc0.jpg",London Live
+
 
 
 ###YES###
