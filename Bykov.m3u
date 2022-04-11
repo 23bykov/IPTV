@@ -42,6 +42,13 @@ http://keshethlslive-lh.akamaihd.net/i/24live_1@195271/index_2200_av-b.m3u8?sd=1
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://thumbs4.imagebam.com/14/58/5b/ME98ZBW_t.jpg" group-title="Hebrew",99  כנסת
 https://contact.gostreaming.tv/Knesset/myStream/chunklist_w2072850535.m3u8
 
+#EXTINF:-1 tvg-id="ערוץ הידברות" tvg-name="ערוץ הידברות" group-title="Israel" tvg-logo="http://www.tvland.co.il/Pics/hidabrutbig.jpg",ערוץ הידברות
+https://stream71.shidur.net/htvlive2/_definst_/smil:live2.smil/chunklist_b1248000.m3u8
+
+#EXTINF:-1, ערוץ הקבלה
+http://edge1.il.kab.tv/rtplive/tv66-heb-high.stream/playlist.m3u8
+
+
 #EXTINF:-1 tvg-ID="ספורט 5" tvg-name="ספורט 5" tvg-logo="https://xiptv.com/logos/hebrew/Sport5HD.png" group-title="Hebrew",ספורט 5HD
 
 #EXTINF:-1 tvg-ID="ספורט 5 פלוס לייב" tvg-name="ספורט 5 פלוס לייב" tvg-logo="https://xiptv.com/logos/hebrew/sport5online.png" group-title="Hebrew",ספורט 5 פלוס לייב
@@ -376,22 +383,8 @@ https://besttv1.aoslive.it.best-tv.com/reshet/studio/index_3.m3u8
 #EXTINF:-1 tvg-logo="http://www.isramedia.net/images/users/2/be1747eee7bc07dfa425da17c6d5acc7.png", קשת
 http://l5.isramedia.net:1935/chan/smil:12jh.smil/chunklist_w912117380_b450000_tkdG9rZW5zdGFydHRpbWU9MTUyMjYwODEwOCZ0b2tlbmVuZHRpbWU9MTUyMjYxMTcwOCZ0b2tlbmhhc2g9MF8tRWF0dWZlUTdabXpMc1cwRy1CLWF6ZHJpTkM5MzhBaXhET2tXekkycz0=.m3u8
 
-#EXTINF:-1 tvg-id="ערוץ הידברות" tvg-name="ערוץ הידברות" group-title="Israel" tvg-logo="http://www.tvland.co.il/Pics/hidabrutbig.jpg",ערוץ הידברות
-https://stream71.shidur.net/htvlive2/_definst_/smil:live2.smil/chunklist_b1248000.m3u8
-#EXTINF:-1, ערוץ הקניות
-rtmp://shoppingil-s.vidnt.com/shoppingil_ShoppingIL21TVRepeat/ShoppingIL21TV_3
-#EXTINF:-1, כאן 33
-rtmp://ipbc-s.vidnt.com/ipbc_IPBCmakantvLVMRepeat/IPBCmakantvLVM_3|User-Agent=Mozilla/5.0 (Windows NT 6.3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/53.0.2785.116 Safari/537.36
-#EXTINF:-1, ערוץ הכנסת
-http://w3.013.gostreaming.tv:1935/Knesset/myStream/playlist.m3u8
-#EXTINF:-1, מאיר TV
-http://stream.meirtv.co.il:1935/live/live1/playlist.m3u8
-#EXTINF:-1, ערוץ הקבלה
-http://edge1.il.kab.tv/rtplive/tv66-heb-high.stream/playlist.m3u8
-#EXTINF:-1,WebCamera
-http://212.199.69.238:80/mjpg/video.mjpg
-#EXTINF:-1,Israel CAM 1 Muro das Lamentações
-rtmp://il34.cast-tv.com:1935/23595_LIVE_Kotel_Live/_definst_/23595_LIVE_Kotel_Live
+
+
 
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.foxtel.com.au/content/dam/foxtel/insider/general/russia-today" group-title="",===ערוצים מהעולם===
@@ -560,6 +553,9 @@ http://127.0.0.1:65007/?url=https%3A//www.youtube.com/watch%26v%3DosavYzRV1DI&mo
 rtmp://tst.es.flash.glb.ipercast.net/tst.es-live/ playpath=live swfUrl=http://www.kisstelevision.es/flowplayer-3.2.16.swf pageUrl=http://www.kisstelevision.es/
  
 #EXTINF:-1 tvg-id="Music Box Russia" group-title="Music - מוזיקה" tvg-logo="http://www.abload.de/img/musicv0pjo.png",Music Box Russia
+
+
+
 rtmp://musicbox.cdnvideo.ru:1935/musicbox playpath=musicbox.sdp swfUrl=http://www.aloha.cdnvideo.ru/aloha/slon/SlonPlayer_adv.swf pageUrl=http://www.russianmusicbox.tv/
  
 #EXTINF:-1 tvg-id="Music Box Ukraine" group-title="Music - מוזיקה" tvg-logo="http://www.abload.de/img/musicv0pjo.png",Music Box Ukraine
