@@ -28,15 +28,8 @@ http://edge1.il.kab.tv/rtplive/tv66-heb-high.stream/playlist.m3u8
 
 
 
-
  
 
- 
-#EXTINF:-1 tvg-id="Mello TV" group-title="Entertainment - בידור" tvg-logo="http://www.mellotv.com/uc/Mello%20icon.png",Mello TV
-http://mellotvnew.tulix.tv/live/smil:mellotv.smil/chunklist_w1800524040_b2328000_sleng.m3u8
- 
-#EXTINF:-1 tvg-id="Lotus Macau" group-title="Entertainment - בידור" tvg-logo="http://upload.wikimedia.org/wikipedia/en/9/99/Lotus_TV_Macau_logo.jpg",Lotus Macau
-http://live-hls.lotustv.duolaibo.cn/lotustv/5562e9e4d409d24c9600075c.m3u8
  
 #EXTINF:-1 tvg-id="Retro music TV" group-title="Music - מוזיקה" tvg-logo="http://files.dvb-s.webnode.com/200000463-82105830a6/retro_music_tv.jpg",Retro music TV
 rtmp://stream.mediawork.cz/retrotv/ playpath=retrotvHQ1 swfUrl=http://vjs.zencdn.net/4.10/video-js.swf pageUrl=http://www.retromusic.cz/index.php?language=en
