@@ -573,7 +573,7 @@ http://127.0.0.1:65007/?url=https%3A//www.youtube.com/watch%26v%3D86YLFOog4GM&mo
 http://livedoc.cgtn.com/1000d/prog_index.m3u8
  
 #EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/_82sV2LQP6g/maxresdefault.jpg",Relaxing Sleep Music
-plugin://plugin.video.youtube/play/?video_id=_86YLFOog4GM
+https://www.youtube.com/watch?v=86YLFOog4GM
  
 #EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/EcEMX-63PKY/maxresdefault.jpg",Beats to sleep/chill to
 plugin://plugin.video.youtube/play/?video_id=EcEMX-63PKY
