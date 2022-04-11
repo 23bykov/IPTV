@@ -62,358 +62,6 @@ http://livedoc.cgtn.com/1000d/prog_index.m3u8
 https://www.youtube.com/watch?v=86YLFOog4GM
 
 
-
-#EXTINF:-1 tvg-id="Alsace 20" group-title="France - צרפת" tvg-logo="",Alsace 20
-http://live.alsace20.fr/live/alsace20/ngrp:alsace20_all/playlist.m3u8
-
-
-
-
-
-
-
-#EXTINF:-1 tvg-id="KIKA" group-title="Germany - גרמניה" tvg-logo="http://static.filmon.com/couch/channels/2756/extra_big_logo.png",KIKA
-https://kikade-lh.akamaihd.net/i/livetvkika_de@450035/master.m3u8
- 
-#EXTINF:-1 tvg-id="BVN" group-title="Germany - גרמניה" tvg-logo="",BVN
-https://dcunilive2-lh.akamaihd.net/i/dclive_1@103791/index_928_av-p.m3u8?sd=6&rebase=on
- 
-#EXTINF:-1 tvg-id="Tagesschau 24" group-title="Germany - גרמניה" tvg-logo="http://static.filmon.com/couch/channels/415/extra_big_logo.png",Tagesschau 24
-http://tagesschau-lh.akamaihd.net/i/tagesschau_1@119231/master.m3u8
- 
-#EXTINF:-1 tvg-id="N-TV" group-title="Germany - גרמניה" tvg-logo="http://static.filmon.com/couch/channels/1033/extra_big_logo.png",N-TV
-http://p.live.fra.n-tv.de/hls-live/ntvlive/ntvlive_1500.m3u8
- 
-#EXTINF:-1 tvg-id="daserste" group-title="Germany - גרמניה" tvg-logo="http://images.live-stream.tv/picons/ard.png",daserste
-http://daserste_live-lh.akamaihd.net/i/daserste_de@91204/master.m3u8
- 
-#EXTINF:-1 tvg-id="WDR" group-title="Germany - גרמניה" tvg-logo="http://images.live-stream.tv/picons/wdr.png",WDR
-http://wdr_fs-lh.akamaihd.net/i/wdrfs_weltweit@112033/master.m3u8
- 
-#EXTINF:-1 tvg-id="ALEX" group-title="Germany - גרמניה" tvg-logo="",ALEX
-https://alex-front.rosebud-media.de/live/smil:alexlivetv.smil/playlist.m3u8
- 
-#EXTINF:-1 tvg-id="TV Berlin" group-title="Germany - גרמניה" tvg-logo="",TV Berlin
-http://stream.der-hauptstadt-sender.de/hls/Themeh4g.m3u8
- 
-#EXTINF:-1 tvg-id="BR" group-title="Germany - גרמניה" tvg-logo="http://images.live-stream.tv/picons/br.png",BR
-https://br_hdslive-f.akamaihd.net/i/bfssued_worldwide@119891/index_3776_av-p.m3u8?sd=10&rebase=on
- 
-#EXTINF:-1 tvg-id="BR" group-title="Germany - גרמניה" tvg-logo="http://images.live-stream.tv/picons/br.png",BR
-http://livestreams.br.de/i/bfssued_germany@119890/master.m3u8|X-Forwarded-For=91.197.29.78
- 
-#EXTINF:-1 tvg-id="DAF" group-title="Germany - גרמניה" tvg-logo="",DAF
-http://edge-h.daf.tmt.de/ios-live/daf-ios-live-livetv.stream/playlist.m3u8
- 
-#EXTINF:-1 tvg-id="Sky Sport News HD" group-title="Germany - גרמניה" tvg-logo="",Sky Sport News HD
-http://event_rtmp-lh.akamaihd.net/i/ssnhd_1@433299/master.m3u8
- 
-#EXTINF:-1 tvg-id="ZDF HD" group-title="Germany - גרמניה" tvg-logo="http://static.filmon.com/couch/channels/2759/extra_big_logo.png",ZDF HD
-https://zdf1314-lh.akamaihd.net/i/de14_v1@392878/index_3096_av-b.m3u8|X-Forwarded-For=91.197.29.78
- 
-#EXTINF:-1 tvg-id="ZDFneo" group-title="Germany - גרמניה" tvg-logo="http://static.filmon.com/couch/channels/360/extra_big_logo.png",ZDFneo
-http://zdf1314-lh.akamaihd.net/i/de13_v1@392877/master.m3u8?sd=10&rebase=on|X-Forwarded-For=91.197.29.78
- 
-#EXTINF:-1 tvg-id="zdf kultur" group-title="Germany - גרמניה" tvg-logo="http://static.filmon.com/couch/channels/359/extra_big_logo.png",zdf kultur
-http://zdf1112-lh.akamaihd.net/i/de11_v1@392881/master.m3u8|X-Forwarded-For=91.197.29.78
- 
-#EXTINF:-1 tvg-id="ZDF INFOKANAL" group-title="Germany - גרמניה" tvg-logo="",ZDF INFOKANAL
-http://zdf1112-lh.akamaihd.net/i/de12_v1@392882/master.m3u8?sd=10&rebase=on|X-Forwarded-For=91.197.29.78
- 
-#EXTINF:-1 tvg-id="ZDF KiKa" group-title="Germany - גרמניה" tvg-logo="",ZDF KiKa
-http://kika_geo-lh.akamaihd.net/i/livetvkika_de@75114/master.m3u8|X-Forwarded-For=91.197.29.78
- 
-#EXTINF:-1 tvg-id="Phoenix" group-title="Germany - גרמניה" tvg-logo="http://static.filmon.com/couch/channels/424/extra_big_logo.png",Phoenix
-https://zdf0910-lh.akamaihd.net/i/de09_v1@392871/master.m3u8|X-Forwarded-For=91.197.29.78
- 
-#EXTINF:-1 tvg-id="3SAT" group-title="Germany - גרמניה" tvg-logo="http://images.live-stream.tv/picons/3sat.png",3SAT
-http://zdf0910-lh.akamaihd.net/i/dach10_v1@392872/master.m3u8|X-Forwarded-For=91.197.29.78
- 
-#EXTINF:-1 tvg-id="arte" group-title="Germany - גרמניה" tvg-logo="http://images.live-stream.tv/picons/arte.png",arte
-http://artelive-lh.akamaihd.net/i/artelive_de@393591/master.m3u8|X-Forwarded-For=91.197.29.78
- 
-#EXTINF:-1 tvg-id="MDR" group-title="Germany - גרמניה" tvg-logo="http://images.live-stream.tv/picons/mdr.png",MDR
-http://mdr_sachsen_hls-lh.akamaihd.net/i/livetvmdrsachsen_de@106902/master.m3u8?bkup=off|X-Forwarded-For=91.197.29.78
- 
-#EXTINF:-1 tvg-id="SWR" group-title="Germany - גרמניה" tvg-logo="http://images.live-stream.tv/picons/swr.png",SWR
-http://swrbw-lh.akamaihd.net/i/swrbw_live@196738/index_3584_av-p.m3u8?sd=10&rebase=on|X-Forwarded-For=91.197.29.78
- 
-#EXTINF:-1 tvg-id="SR" group-title="Germany - גרמניה" tvg-logo="",SR
-http://fs.live.sr.de/i/sr_universal02@107595/index_1662_av-b.m3u8?sd=10&rebase=on|X-Forwarded-For=91.197.29.78
- 
-#EXTINF:-1 tvg-id="HR" group-title="Germany - גרמניה" tvg-logo="http://www.tv14.net/wp-content/uploads/2013/05/HR-Fernsehen-Logo.jpg",HR
-http://livestream-1.hr.de/i/hr_fernsehen@75910/index_3584_av-b.m3u8?sd=10&rebase=on
- 
-#EXTINF:-1 tvg-id="ARD-alpha" group-title="Germany - גרמניה" tvg-logo="",ARD-alpha
-http://livestreams.br.de/i/bralpha_germany@119899/master.m3u8|X-Forwarded-For=91.197.29.78
- 
-#EXTINF:-1 tvg-id="ServusTV" group-title="Germany - גרמניה" tvg-logo="http://www.presseportal.de/bild/79385-logo-servustv.jpg",ServusTV
-http://hdiosstv-f.akamaihd.net/i/servustvhdde_1@75540/master.m3u8|X-Forwarded-For=91.197.29.78
- 
-#EXTINF:-1 tvg-id="one einsfestival" group-title="Germany - גרמניה" tvg-logo="",one einsfestival
-http://wdr_einsfestival-lh.akamaihd.net/i/wdr_einsfestival@328300/index_7_av-b.m3u8?sd=10&rebase=on|X-Forwarded-For=91.197.29.78
- 
-#EXTINF:-1 tvg-id="rbb HD" group-title="Germany - גרמניה" tvg-logo="",rbb HD
-http://rbblive-lh.akamaihd.net/i/rbb_berlin@144674/index_7_av-b.m3u8?sd=10&rebase=on|X-Forwarded-For=91.197.29.78
- 
-#EXTINF:-1 tvg-id="Sonnenklar TV HD" group-title="Germany - גרמניה" tvg-logo="",Sonnenklar TV HD
-http://euvia.cdn.ses-ps.com/HLS-Live/index.m3u8
- 
-#EXTINF:-1 tvg-id="DW" group-title="Germany - גרמניה" tvg-logo="",DW
-http://dwstream72-lh.akamaihd.net/i/dwstream72_live@123556/index_1_av-b.m3u8?sd=10&rebase=on
- 
-#EXTINF:-1 tvg-id="ndr hamburg.md" group-title="Germany - גרמניה" tvg-logo="http://upload.wikimedia.org/wikipedia/commons/thumb/0/08/NDR_Dachmarke.svg/2000px-NDR_Dachmarke.svg.png",ndr hamburg.md
-http://ndr_fs-lh.akamaihd.net/i/ndrfs_hh@119223/master.m3u8
- 
-#EXTINF:-1 tvg-id="ndr meck pom.md" group-title="Germany - גרמניה" tvg-logo="http://upload.wikimedia.org/wikipedia/commons/thumb/0/08/NDR_Dachmarke.svg/2000px-NDR_Dachmarke.svg.png",ndr meck pom.md
-http://ndr_fs-lh.akamaihd.net/i/ndrfs_mv@119226/master.m3u8
- 
-#EXTINF:-1 tvg-id="ndr schlesw.md" group-title="Germany - גרמניה" tvg-logo="http://upload.wikimedia.org/wikipedia/commons/thumb/0/08/NDR_Dachmarke.svg/2000px-NDR_Dachmarke.svg.png",ndr schlesw.md
-http://ndr_fs-lh.akamaihd.net/i/ndrfs_sh@119225/master.m3u8
- 
-#EXTINF:-1 tvg-id="ndr niedersachsen.md" group-title="Germany - גרמניה" tvg-logo="http://upload.wikimedia.org/wikipedia/commons/thumb/0/08/NDR_Dachmarke.svg/2000px-NDR_Dachmarke.svg.png",ndr niedersachsen.md
-http://ndr_fs-lh.akamaihd.net/i/ndrfs_nds@119224/master.m3u8
- 
-#EXTINF:-1 tvg-id="RAI 1" group-title="Italy - איטליה" tvg-logo="http://www.rai1.rai.it/dl/PortaliRai/images/share_Rai1.png",RAI 1
-http://b2.stream14.rai.it/italy/rai1_1200/chunklist.m3u8
- 
-#EXTINF:-1 tvg-id="RAI 2" group-title="Italy - איטליה" tvg-logo="http://www.rai2.rai.it/dl/PortaliRai/images/share_Rai2.png",RAI 2
-http://b2.stream14.rai.it/italy/rai2_1200/chunklist.m3u8
- 
-#EXTINF:-1 tvg-id="RAI 3" group-title="Italy - איטליה" tvg-logo="http://www.rai3.rai.it/dl/PortaliRai/images/share_Rai3.png",RAI 3
-http://b2.stream14.rai.it/italy/rai3_1200/chunklist.m3u8
- 
-#EXTINF:-1 tvg-id="RAI 4" group-title="Italy - איטליה" tvg-logo="http://tvstreamingita.altervista.org/alterpages/medium/387px-rai_4_logo_2010.svg.jpg",RAI 4
-http://b2.stream14.rai.it/italy/rai4_1200/chunklist.m3u8
- 
-#EXTINF:-1 tvg-id="RAI 5" group-title="Italy - איטליה" tvg-logo="http://upload.wikimedia.org/wikipedia/commons/thumb/6/60/Rai_5_logo.svg/260px-Rai_5_logo.svg.png",RAI 5
-http://b2.stream12.rai.it/live/rai5.smil/playlist.m3u8
- 
-#EXTINF:-1 tvg-id="RAI Movie" group-title="Italy - איטליה" tvg-logo="http://www.raimovie.rai.it/dl/PortaliRai/images/share_RaiMovie.png",RAI Movie
-http://b2everyrai-lh.akamaihd.net/i/raimovie_1@67348/index_1800_av-p.m3u8?sd=10&rebase=on
- 
-#EXTINF:-1 tvg-id="rai premium" group-title="Italy - איטליה" tvg-logo="",rai premium
-http://b2everyrai-lh.akamaihd.net/i/raipremium_1@181837/index_1800_av-b.m3u8?sd=10&rebase=on
- 
-#EXTINF:-1 tvg-id="RAI STORIA" group-title="Italy - איטליה" tvg-logo="",RAI STORIA
-http://originstream6.rai.it/italy/smil:raistoria.smil/chunklist_b900000.m3u8
- 
-#EXTINF:-1 tvg-id="rai yoyo itali" group-title="Italy - איטליה" tvg-logo="http://images4.wikia.nocookie.net/__cb20100519121157/logopedia/images/4/43/Rai_YoYo_2010.svg",rai yoyo itali
-http://b2everyrai-lh.akamaihd.net/i/raiyoyo_1@191405/index_1800_av-b.m3u8
- 
-#EXTINF:-1 tvg-id="Rai Scuola" group-title="Italy - איטליה" tvg-logo="http://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Logo_Rai_Scuola.png/260px-Logo_Rai_Scuola.png",Rai Scuola
-http://originstream6.rai.it/italy/smil:raiscuola.smil/chunklist_b900000.m3u8
- 
-#EXTINF:-1 tvg-id="rai sport" group-title="Italy - איטליה" tvg-logo="http://sicilia.onderadio.net/Loghi/TV/RaiSport1.png",rai sport
-http://originstream12.rai.it/italy/raisport1_1200/playlist.m3u8
- 
-#EXTINF:-1 tvg-id="rai sport 2" group-title="Italy - איטליה" tvg-logo="",rai sport 2
-http://originstream12.rai.it/italy/raisport2_1200/master.m3u8
- 
-#EXTINF:-1 tvg-id="rai gulp" group-title="Italy - איטליה" tvg-logo="",rai gulp
-http://b2everyrai-lh.akamaihd.net/i/raigulp_1@66350/index_1200_av-b.m3u8?sd=10&rebase=on
- 
-#EXTINF:-1 tvg-id="LA7" group-title="Italy - איטליה" tvg-logo="http://en.wikipedia.org/wiki/La7#mediaviewer/File:LA7_logo.png",LA7
-http://la7livehls-lh.akamaihd.net/i/livebkup_1@372883/index_2_av-p.m3u8
- 
-#EXTINF:-1 tvg-id="Tv2000" group-title="Italy - איטליה" tvg-logo="",Tv2000
-http://mi1.wz.tv2000.it/tv2000_alfa.m3u8
- 
-#EXTINF:-1 tvg-id="Nova" group-title="Italy - איטליה" tvg-logo="",Nova
-https://sbshdlu3-lh.akamaihd.net/i/sbshdlive_4@99403/master.m3u8
- 
-#EXTINF:-1 tvg-id="Canale 7" group-title="Italy - איטליה" tvg-logo="",Canale 7
-http://wms.shared.streamshow.it/canale7/canale7/playlist.m3u8
- 
-#EXTINF:-1 tvg-id="amarintv" group-title="thailand - תאילנד" tvg-logo="https://www.vsn-tv.com/wp-content/uploads/2014/10/amarin-tv-vsn1.png",amarintv
-http://202.170.120.228:1935/stream/5195e80fe1ed0/playlist.m3u8
- 
-#EXTINF:-1 tvg-id="24 TV" group-title="thailand - תאילנד" tvg-logo="http://www.digitalinsider.co.th/Apps/TT/Images/tv24.png",24 TV
-http://103.22.182.99:1935/flash2837/flash2837/playlist.m3u8
- 
-#EXTINF:-1 tvg-id="CH 2" group-title="thailand - תאילנד" tvg-logo="",CH 2
-http://stream.rs.co.th/ch2-hi/index.m3u8?d=web
- 
-#EXTINF:-1 tvg-id="CH 5" group-title="thailand - תאילנד" tvg-logo="http://www.tv5.co.th/web56/command/tv5.png",CH 5
-http://27.254.62.62:8081/live/tv5stream/playlist.m3u8
- 
-#EXTINF:-1 tvg-id="police tv" group-title="thailand - תאילנד" tvg-logo="http://www.tv5.co.th/web56/command/tv5.png",police tv
-http://live.netdesignhost.com/policetvlive/policetvlive/playlist.m3u8
- 
-#EXTINF:-1 tvg-id="CH 3" group-title="thailand - תאילנד" tvg-logo="",CH 3
-http://ch3-33-web.cdn.byteark.com/live/playlist.m3u8
- 
-#EXTINF:-1 tvg-id="CH3 Family" group-title="thailand - תאילנד" tvg-logo="",CH3 Family
-http://ch3-13-web.cdn.byteark.com/live/playlist.m3u8
- 
-#EXTINF:-1 tvg-id="CH3SD" group-title="thailand - תאילנד" tvg-logo="",CH3SD
-http://ch3-28-web.cdn.byteark.com/live/playlist.m3u8
- 
-#EXTINF:-1 tvg-id="CH 8" group-title="thailand - תאילנד" tvg-logo="",CH 8
-http://stream.rs.co.th/ch8-hi/index.m3u8|X-Forwarded-For=110.170.117.3
- 
-#EXTINF:-1 tvg-id="CH 8" group-title="thailand - תאילנד" tvg-logo="http://www.onlinethailand.net/tv_online/images/ch8.jpg",CH 8
-http://usa.login.in.th:1935/ch8/ch8/playlist.m3u8
- 
-#EXTINF:-1 tvg-id="GMM25" group-title="thailand - תאילנד" tvg-logo="",GMM25
-http://202.43.34.234:1935/GMM/s1/playlist.m3u8
- 
-#EXTINF:-1 tvg-id="MCOT FAMILY" group-title="thailand - תאילנד" tvg-logo="",MCOT FAMILY
-http://lb-media.mcot.net:1935/mcotfamily_edge/smil:mcotfamily.smil/playlist.m3u8
- 
-#EXTINF:-1 tvg-id="MCOT9" group-title="thailand - תאילנד" tvg-logo="",MCOT9
-http://lb-media.mcot.net:1935/9mcot_edge/smil:9mcot.smil/playlist.m3u8?DVR
- 
-#EXTINF:-1 tvg-id="pptv gold" group-title="thailand - תאילנד" tvg-logo="http://tv-live.in/wp-content/uploads/tv-online/Channel/Thailand/Top%20thailand%20tv/top%20thai%20tv_files/pptv-hd.png",pptv gold
-http://pr06ed012.dcs-cdn.com/ch2/en1yua.isml/manifest(format=m3u8-aapl).m3u8
- 
-#EXTINF:-1 tvg-id="pptvhd" group-title="thailand - תאילנד" tvg-logo="http://tv-live.in/wp-content/uploads/tv-online/Channel/Thailand/Top%20thailand%20tv/top%20thai%20tv_files/pptv-hd.png",pptvhd
-http://pr06ed014.dcs-cdn.com/ch1/th1pba.isml/manifest(format=m3u8-aapl).m3u8
- 
-#EXTINF:-1 tvg-id="Thairath TV" group-title="thailand - תאילנד" tvg-logo="http://www.gmmz.tv/_uploads/images/LOGOThairath_.jpg",Thairath TV
-http://live.thairath.co.th/trtv2/playlist.m3u8
- 
-#EXTINF:-1 tvg-id="Thai PBS" group-title="thailand - תאילנד" tvg-logo="http://www.lyngsat-logo.com/hires/tt/thai_pbs.png",Thai PBS
-http://thaipbs-live.cdn.byteark.com/live/playlist.m3u8
- 
-#EXTINF:-1 tvg-id="workpoint" group-title="thailand - תאילנד" tvg-logo="http://www.onlinethailand.net/tv_online/images/workpoint-tv.jpg",workpoint
-http://workpoint.radical-enlighten.com/workpoint/smil:workpointtv.smil/playlist.m3u8
- 
-#EXTINF:-1 tvg-id="NBT World" group-title="thailand - תאילנד" tvg-logo="",NBT World
-http://live.prd.go.th:1935/live/ch1_H.sdp/playlist.m3u8
- 
-#EXTINF:-1 tvg-id="spring news" group-title="thailand - תאילנד" tvg-logo="http://www.onlinethailand.net/tv_online/images/springnews.jpg",spring news
-http://1457077260.cat-cdn.i-iptv.com/T1457077260/ngrp:livestream_all/playlist.m3u8
- 
-#EXTINF:-1 tvg-id="VOICE TV 21" group-title="thailand - תאילנד" tvg-logo="http://www.onlinethailand.net/tv_online/images/voicetv.jpg",VOICE TV 21
-rtmp://livestream.voicetv.co.th/live-edge/voicetv_360p
- 
-#EXTINF:-1 tvg-id="sabaidee" group-title="thailand - תאילנד" tvg-logo="http://www.sabaideetv.com/images/logo.jpg",sabaidee
-http://stream.rs.co.th/sbd-hi/index.m3u8|X-Forwarded-For=110.170.117.3
- 
-#EXTINF:-1 tvg-id="CH7" group-title="thailand - תאילנד" tvg-logo="",CH7
-http://edge160.bugaboo.tv/liveedgech7_partner/_definst_/smil:auto.smil/playlist.m3u8|X-Forwarded-For=110.170.117.3
- 
-#EXTINF:-1 tvg-id="youchannel" group-title="thailand - תאילנד" tvg-logo="http://www.onlinethailand.net/tv_online/images/you-channel.jpg",youchannel
-http://stream.rs.co.th/you-hi/index.m3u8|X-Forwarded-For=110.170.117.3
- 
-#EXTINF:-1 tvg-id="blue sky news" group-title="thailand - תאילנד" tvg-logo="http://www.lyngsat-logo.com/hires/bb/blue_sky_channel.png",blue sky news
-http://live.blueskychannel.tv:1935/bluesky_live/myStream/playlist.m3u8
- 
-#EXTINF:-1 tvg-id="channel 13" group-title="thailand - תאילנד" tvg-logo="http://www.thaitvonline.tv/wp-content/uploads/2010/03/13-Siamthai.jpg",channel 13
-http://stream.13livetv.com:1935/live/13livetv/playlist.m3u8
- 
-#EXTINF:-1 tvg-id="M channel" group-title="thailand - תאילנד" tvg-logo="http://www.onlinethailand.net/tv_online/images/m-channel.jpg",M channel
-http://www.m-channel.com:1935/live/my_stream.sdp/playlist.m3u8
- 
-#EXTINF:-1 tvg-id="thaichaiyotv" group-title="thailand - תאילנד" tvg-logo="http://www.onlinethailand.net/tv_online/images/thaichaiyo.jpg",thaichaiyotv
-rtmp://live.thaichaiyotv.co.th:1935/thaichaiyotv/live
- 
-#EXTINF:-1 tvg-id="Hi-Sport" group-title="thailand - תאילנד" tvg-logo="http://www.onlinethailand.net/tv_online/images/hi-sport.jpg",Hi-Sport
-http://203.154.243.88:1935/live/hisport.stream/playlist.m3u8
- 
-#EXTINF:-1 tvg-id="DDTV" group-title="thailand - תאילנד" tvg-logo="http://www.digitalinsider.co.th/Apps/TT/Images/ddtv.png",DDTV
-http://203.156.63.20:1935/live/ddtv/playlist.m3u8
- 
-#EXTINF:-1 tvg-id="JCTV" group-title="thailand - תאילנד" tvg-logo="",JCTV
-rtmp://vodjctv.aitstreaming.com:1935/live/live2
- 
-#EXTINF:-1 tvg-id="Cable TV" group-title="thailand - תאילנד" tvg-logo="http://www.digitalinsider.co.th/Apps/TT/Images/cabletv.png",Cable TV
-http://202.173.216.8:1935/live/ch8/playlist.m3u8
- 
-#EXTINF:-1 tvg-id="ETV" group-title="thailand - תאילנד" tvg-logo="http://www.digitalinsider.co.th/Apps/TT/Images/etv.png",ETV
-http://61.19.244.112:1935/live/livestream/playlist.m3u8
- 
-#EXTINF:-1 tvg-id="SPEED" group-title="thailand - תאילנד" tvg-logo="",SPEED
-http://127.0.0.1:65007/?url=https%3A//www.youtube.com/watch%26v%3DN4LcHVI4rPg&mode=3
- 
-#EXTINF:-1 tvg-id="REALITATEA TV" group-title="Romania - רומניה" tvg-logo="",REALITATEA TV
-http://realitatea.m247.ro/hls/live.m3u8
- 
-#EXTINF:-1 tvg-id="digi24" group-title="Romania - רומניה" tvg-logo="",digi24
-http://81.196.0.126/digi24edge/smil:digi24.smil/playlist.m3u8
- 
-#EXTINF:-1 tvg-id="banat" group-title="Romania - רומניה" tvg-logo="",banat
-http://81.18.66.155:1935/live/banat-tv/playlist.m3u8
- 
-#EXTINF:-1 tvg-id="iasi tv life" group-title="Romania - רומניה" tvg-logo="",iasi tv life
-http://webmobile.xdev.ro:81/tv24/playlist.m3u8
- 
-#EXTINF:-1 tvg-id="plus_tv_suceava" group-title="Romania - רומניה" tvg-logo="",plus_tv_suceava
-http://85.186.146.34:8080
- 
-#EXTINF:-1 tvg-id="telem_neamt" group-title="Romania - רומניה" tvg-logo="",telem_neamt
-http://telem.ambra.ro
- 
-#EXTINF:-1 tvg-id="tvm_piatra_neamt" group-title="Romania - רומניה" tvg-logo="",tvm_piatra_neamt
-http://tvm.ambra.ro/
- 
-#EXTINF:-1 tvg-id="utv" group-title="Romania - רומניה" tvg-logo="",utv
-rtmp://82.76.40.76:80/utvedge/ playpath=utvlive swfUrl=http://www.utv.ro/player/jwplayer/jwplayer.flash.swf pageUrl=http://www.utv.ro/live/
- 
-#EXTINF:-1 tvg-id="protv news" group-title="Romania - רומניה" tvg-logo="",protv news
-http://185.133.64.237/news/stream:1.stream/chunklist_w1324413730.m3u8
- 
-#EXTINF:-1 tvg-id="6tv" group-title="Romania - רומניה" tvg-logo="",6tv
-rtmp://rtmp2.chrominance.ro/enescu/ playpath=encoder1 swfUrl=http://www.chrominance.ro/enescu/jwplayer/jwplayer.flash.swf pageUrl=http://www.chrominance.ro/enescu/
- 
-#EXTINF:-1 tvg-id="dartv" group-title="Romania - רומניה" tvg-logo="",dartv
-http://89.45.164.235:8042/stream.flv
- 
-#EXTINF:-1 tvg-id="tvr international" group-title="Romania - רומניה" tvg-logo="",tvr international
-http://127.0.0.1:65007/?url=live-tvr-international&mode=14
- 
-#EXTINF:-1 tvg-id="RTV" group-title="Romania - רומניה" tvg-logo="",RTV
-http://91.232.210.203:8020/rtv.flv?file=rtv.flv&start=0
- 
-#EXTINF:-1 tvg-id="SPERANTA TV" group-title="Romania - רומניה" tvg-logo="",SPERANTA TV
-http://play.crestin.tv/content/channel/sperantatv/live/sperantatv.player.m3u8
- 
-#EXTINF:-1 tvg-id="KIT TV - BACAU" group-title="Romania - רומניה" tvg-logo="",KIT TV - BACAU
-http://webmobile.xdev.ro:81/tv9/playlist.m3u8
- 
-#EXTINF:-1 tvg-id="PrahovaTv" group-title="Romania - רומניה" tvg-logo="",PrahovaTv
-http://89.45.186.26:1935/live/prahovatv/playlist.m3u8
- 
-#EXTINF:-1 tvg-id="PloiestiTv" group-title="Romania - רומניה" tvg-logo="",PloiestiTv
-http://nginx.arya.ro:8080/hls/ptvmobil.m3u8
- 
-#EXTINF:-1 tvg-id="Duna World" group-title="Hungary - הונגריה" tvg-logo="",Duna World
-http://127.0.0.1:65007/?url=duna-world-elo&mode=36
- 
-#EXTINF:-1 tvg-id="Duna" group-title="Hungary - הונגריה" tvg-logo="",Duna
-http://127.0.0.1:65007/?url=duna-elo&mode=36
- 
-#EXTINF:-1 tvg-id="M1" group-title="Hungary - הונגריה" tvg-logo="",M1
-http://127.0.0.1:65007/?url=mtv1-elo&mode=36
- 
-#EXTINF:-1 tvg-id="M2" group-title="Hungary - הונגריה" tvg-logo="",M2
-http://127.0.0.1:65007/?url=mtv2-elo&mode=36
- 
-#EXTINF:-1 tvg-id="M4 Sport" group-title="Hungary - הונגריה" tvg-logo="",M4 Sport
-http://127.0.0.1:65007/?url=mtv4-elo&mode=36
- 
-#EXTINF:-1 tvg-id="M5" group-title="Hungary - הונגריה" tvg-logo="",M5
-http://127.0.0.1:65007/?url=mtv5-elo&mode=36
- 
-#EXTINF:-1 tvg-id="FixHD" group-title="Hungary - הונגריה" tvg-logo="",FixHD
-rtmp://video.fixhd.tv/fix/hd.stream
- 
-#EXTINF:-1 tvg-id="Konyha TV" group-title="Hungary - הונגריה" tvg-logo="",Konyha TV
-rtmpt://91.82.85.44:1935/live playpath=konyhatv swfUrl=http://wdsonline.gdsinfo.com/itplayer/player.swf pageUrl=http://wdsonline.gdsinfo.com/itplayer/konyhatv_inc.php
- 
-#EXTINF:-1 tvg-id="ATV" group-title="Hungary - הונגריה" tvg-logo="",ATV
-rtmp://nodes.stream.atv.hu/atvliveedge/_definst_/atvstream_2_aac
- 
-#EXTINF:-1 tvg-id="hir TV" group-title="Hungary - הונגריה" tvg-logo="",hir TV
-http://streamserver.mno.netrix.hu/delayed.php.m3u8
- 
-#EXTINF:-1 tvg-id="BPTV" group-title="Hungary - הונגריה" tvg-logo="",BPTV
-http://cloudfront44.lexanetwork.com:1935/relay20/bptv.sdp/playlist.m3u8
- 
-#EXTINF:-1 tvg-id="Fehervar TV" group-title="Hungary - הונגריה" tvg-logo="",Fehervar TV
-rtmp://91.82.85.71:1935/liverelay/fehervartv.sdp
- 
 #EXTINF:-1 tvg-id="TRT1HD" group-title="Turkey - טורקיה" tvg-logo="http://4.bp.blogspot.com/-iiA6Z09bFFw/UXj30M6nc0I/AAAAAAAAga0/lA-dDC60EW4/s1600/trt-1-izle.png",TRT1HD
 http://trtcanlitv-lh.akamaihd.net/i/TRT1HD_1@181842/master.m3u8
  
@@ -1318,10 +966,57 @@ https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1649696703/ei/X
 
 
 
-
+#########################
+#########################
+#########################
+#########################
+#########################
+#########################
+#########################
+#########################
+#########################
+#########################
+#########################
+#########################
+#########################
  
 #EXTINF:-1 tvg-id="Dubai Sports 3" group-title="Sport - ספורט" tvg-logo="http://www.islambox.com/images/products/channels/web/dubaisports3-web.png",Dubai Sports 3
 
 #EXTINF:-1 tvg-id="ERT1" group-title="Greece - יוון" tvg-logo="",ERT1
 
+
+
+#EXTINF:-1 tvg-id="Alsace 20" group-title="France - צרפת" tvg-logo="",Alsace 20
+http://live.alsace20.fr/live/alsace20/ngrp:alsace20_all/playlist.m3u8
+
+
+
+#EXTINF:-1 tvg-id="KIKA" group-title="Germany - גרמניה" tvg-logo="http://static.filmon.com/couch/channels/2756/extra_big_logo.png",KIKA
+
+
+
+#EXTINF:-1 tvg-id="Tv2000" group-title="Italy - איטליה" tvg-logo="",Tv2000
+http://mi1.wz.tv2000.it/tv2000_alfa.m3u8
+ 
+#EXTINF:-1 tvg-id="Canale 7" group-title="Italy - איטליה" tvg-logo="",Canale 7
+http://wms.shared.streamshow.it/canale7/canale7/playlist.m3u8
+
+
+
+#EXTINF:-1 tvg-id="CH 8" group-title="thailand - תאילנד" tvg-logo="http://www.onlinethailand.net/tv_online/images/ch8.jpg",CH 8
+http://usa.login.in.th:1935/ch8/ch8/playlist.m3u8
+
+
+
+#EXTINF:-1 tvg-id="Thairath TV" group-title="thailand - תאילנד" tvg-logo="http://www.gmmz.tv/_uploads/images/LOGOThairath_.jpg",Thairath TV
+http://live.thairath.co.th/trtv2/playlist.m3u8
+
+
+
+#EXTINF:-1 tvg-id="plus_tv_suceava" group-title="Romania - רומניה" tvg-logo="",plus_tv_suceava
+http://85.186.146.34:8080
+
+
+
+#EXTINF:-1 tvg-id="FixHD" group-title="Hungary - הונגריה" tvg-logo="",FixHD
 
