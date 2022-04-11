@@ -3,21 +3,17 @@
 #EXTINF:-1 tvg-id="1" tvg-name="" tvg-logo="https://thumbs4.imagebam.com/a9/39/dc/ME98WSU_t.jpg" group-title="Русские каналы",9
 http://predator-x.com:8000/kdkm3ub840/4mxpah5f4n/176917
 
-#EXTINF:-1 tvg-id="Россия 1" group-title="Русские каналы" tvg-logo="http://toplogos.ru/images/logo-rossiya-1.png",Россия 1
+#EXTINF:-1 tvg-id="Россия 1" group-title="Русские каналы" tvg-logo="https://thumbs4.imagebam.com/af/11/6a/ME98XGB_t.jpg",1 TV
 http://uwio8xrt.megatv.fun/iptv/XC3FVMRRX9W5HL/127/index.m3u8
 
-#EXTINF:-1 tvg-id="Россия 1" group-title="Русские каналы" tvg-logo="http://toplogos.ru/images/logo-rossiya-1.png",Россия 2
+#EXTINF:-1 tvg-id="Россия 1" group-title="Русские каналы" tvg-logo="https://thumbs4.imagebam.com/af/11/6a/ME98XGB_t.jpg",1 TV HD
 http://uwio8xrt.megatv.fun/iptv/XC3FVMRRX9W5HL/714/index.m3u8
 
-#EXTINF:-1 tvg-id="Россия 1" group-title="Русские каналы" tvg-logo="http://toplogos.ru/images/logo-rossiya-1.png",Россия 3
-http://uwio8xrt.megatv.fun/iptv/XC3FVMRRX9W5HL/6021/index.m3u8
+#EXTINF:-1 tvg-id="Россия 1" group-title="Русские каналы" tvg-logo="https://thumbs4.imagebam.com/d3/e7/2f/ME98XGS_t.jpg",Россия
+http://uwio8xrt.megatv.fun/iptv/XC3FVMRRX9W5HL/504/index.m3u8
 
-#EXTINF:-1 tvg-id="Россия 1" group-title="Русские каналы" tvg-logo="http://toplogos.ru/images/logo-rossiya-1.png",Россия 4
-http://uwio8xrt.megatv.fun/iptv/XC3FVMRRX9W5HL/6037/index.m3u8
-
-#EXTINF:-1 tvg-id="Россия 1" group-title="Русские каналы" tvg-logo="http://toplogos.ru/images/logo-rossiya-1.png",Россия 6
-http://uwio8xrt.megatv.fun/iptv/XC3FVMRRX9W5HL/6050/index.m3u8
-
+#EXTINF:-1 tvg-id="Россия 1" group-title="Русские каналы" tvg-logo="https://thumbs4.imagebam.com/d3/e7/2f/ME98XGS_t.jpg",Россия HD
+http://uwio8xrt.megatv.fun/iptv/XC3FVMRRX9W5HL/6022/index.m3u8
 
 
 #EXTINF:-1 tvg-id="Россия 24" group-title="Russia - רוסיה" tvg-logo="http://toplogos.ru/images/logo-rossiya-24.png",Россия 24
