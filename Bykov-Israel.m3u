@@ -56,7 +56,8 @@ http://edge.linknetott.swiftserve.com/live/BsNew/amlst:bsenglish/playlist.m3u8
 #EXTINF:-1 tvg-id="CGTN Doco" group-title="Science & nature - מדע וטבע" tvg-logo="http://static.filmon.com/couch/channels/2786/extra_big_logo.png",CGTN Doco
 http://livedoc.cgtn.com/1000d/prog_index.m3u8
 
- 
+#EXTINF:-1 group-title="Science & nature - מדע וטבע" tvg-logo="https://i.ytimg.com/vi/_82sV2LQP6g/maxresdefault.jpg",Relaxing Sleep Music
+https://www.youtube.com/watch?v=86YLFOog4GM
  
  
  
@@ -853,13 +854,6 @@ http://www.trimi.com.ar/provincial/streaming/mystream.m3u8
 
 ###Since and Nature###
 #EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/_82sV2LQP6g/maxresdefault.jpg",Relaxing Sleep Music
-https://www.youtube.com/watch?v=86YLFOog4GM
- 
-#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/EcEMX-63PKY/maxresdefault.jpg",Beats to sleep/chill to
-plugin://plugin.video.youtube/play/?video_id=EcEMX-63PKY
-
-#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/_82sV2LQP6g/maxresdefault.jpg",Relaxing Sleep Music
-plugin://plugin.video.youtube/play/?video_id=_82sV2LQP6g
  
  
 ###Sport###
