@@ -55,6 +55,7 @@ http://edge.linknetott.swiftserve.com/live/BsNew/amlst:bsenglish/playlist.m3u8
  
 #EXTINF:-1 tvg-id="CGTN Doco" group-title="Science & nature - מדע וטבע" tvg-logo="http://static.filmon.com/couch/channels/2786/extra_big_logo.png",CGTN Doco
 http://livedoc.cgtn.com/1000d/prog_index.m3u8
+
  
  
  
@@ -851,15 +852,6 @@ http://www.trimi.com.ar/provincial/streaming/mystream.m3u8
 
 
 ###Since and Nature###
-#EXTINF:-1 tvg-id="NASA HD" group-title="Science & nature - מדע וטבע" tvg-logo="http://static.filmon.com/couch/channels/330/extra_big_logo.png",NASA HD
-https://nasa-i.akamaihd.net/hls/live/253565/NASA-NTV1-Public/master_2000.m3u8
- 
-#EXTINF:-1 tvg-id="NASA Live - Earth From Space (HDVR) ISS LIVE FEED" group-title="Science & nature - מדע וטבע" tvg-logo="",NASA Live - Earth From Space (HDVR) ISS LIVE FEED
-http://127.0.0.1:65007/?url=https%3A//www.youtube.com/watch%26v%3D86YLFOog4GM&mode=3
- 
-#EXTINF:-1 tvg-id="CGTN Doco" group-title="Science & nature - מדע וטבע" tvg-logo="http://static.filmon.com/couch/channels/2786/extra_big_logo.png",CGTN Doco
-http://livedoc.cgtn.com/1000d/prog_index.m3u8
- 
 #EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/_82sV2LQP6g/maxresdefault.jpg",Relaxing Sleep Music
 https://www.youtube.com/watch?v=86YLFOog4GM
  
