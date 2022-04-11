@@ -1,33 +1,7 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-id="1" tvg-name="" tvg-logo="https://thumbs4.imagebam.com/a9/39/dc/ME98WSU_t.jpg" group-title="עידן+",1
-http://rv.therevenge.co:80/565656/565656/84403?checkedby:dailyfreeiptvlist.com
-
-#EXTINF:-1 tvg-id="1" tvg-name="" tvg-logo="https://thumbs4.imagebam.com/a9/39/dc/ME98WSU_t.jpg" group-title="עידן+",2
-http://185.71.64.167:80/307245103371/307245103371/84403?checkedby:dailyfreeiptvlist.com
-
-#EXTINF:-1 tvg-id="1" tvg-name="" tvg-logo="https://thumbs4.imagebam.com/a9/39/dc/ME98WSU_t.jpg" group-title="עידן+",3
-http://rv.therevenge.co:80/live/242424/242424/84403.m3u8?checkedby:dailyfreeiptvlist.com
-
-#EXTINF:-1 tvg-id="1" tvg-name="" tvg-logo="https://thumbs4.imagebam.com/a9/39/dc/ME98WSU_t.jpg" group-title="עידן+",4
-http://s2.pandatv.tn:8000/131495913257/04003169/19285
-
-#EXTINF:-1 tvg-id="1" tvg-name="" tvg-logo="https://thumbs4.imagebam.com/a9/39/dc/ME98WSU_t.jpg" group-title="עידן+",5
+#EXTINF:-1 tvg-id="1" tvg-name="" tvg-logo="https://thumbs4.imagebam.com/a9/39/dc/ME98WSU_t.jpg" group-title="עידן+",9
 http://predator-x.com:8000/kdkm3ub840/4mxpah5f4n/176917
-
-#EXTINF:-1 tvg-id="1" tvg-name="" tvg-logo="https://thumbs4.imagebam.com/a9/39/dc/ME98WSU_t.jpg" group-title="עידן+",6
-http://5gfksa.ltd:2052/334455/554433/82679
-
-
-
-
-
- 
-#EXTINF:-1 tvg-id="1" tvg-name="" tvg-logo="https://thumbs4.imagebam.com/a9/39/dc/ME98WSU_t.jpg" group-title="עידן+",ch 9HD
-http://tvshare.ottrast.com/iptv/78XG22LZ2KPCEV/2374/index.m3u8
-
-#EXTINF:-1 tvg-id="1" tvg-name="" tvg-logo="https://thumbs4.imagebam.com/a9/39/dc/ME98WSU_t.jpg" group-title="עידן+",ch 9
-http://tvshare.ottrast.com/iptv/78XG22LZ2KPCEV/2331/index.m3u8
  
 #EXTINF:-1 tvg-id="1" tvg-name="" tvg-logo="http://images2.imagebam.com/2a/e5/7c/f061ac784878033.jpg" group-title="עידן+",ch 11 כאן
 https://kanlivep2event-i.akamaihd.net/hls/live/747610/747610/source1_2.5k/chunklist.m3u8?checkedby:iptvcat.net
