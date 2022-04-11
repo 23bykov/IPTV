@@ -23,22 +23,22 @@ http://e4.online.video.rbc.ru/online2/rbctv_480p/index.m3u8
 
 
 
-#EXTINF:-1 tvg-id="1" tvg-name="" tvg-logo="http://images2.imagebam.com/2a/e5/7c/f061ac784878033.jpg" group-title="Hebrew",ch 11 כאן
+#EXTINF:-1 tvg-id="1" tvg-name="" tvg-logo="http://images2.imagebam.com/2a/e5/7c/f061ac784878033.jpg" group-title="Hebrew",11 כאן
 https://kanlivep2event-i.akamaihd.net/hls/live/747610/747610/source1_2.5k/chunklist.m3u8?checkedby:iptvcat.net
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://thumbs4.imagebam.com/b1/a8/fb/ME98YSJ_t.jpg" group-title="Hebrew",ch 12 קשת
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://thumbs4.imagebam.com/b1/a8/fb/ME98YSJ_t.jpg" group-title="Hebrew",12 קשת
 http://uwio8xrt.megatv.fun/iptv/XC3FVMRRX9W5HL/2329/index.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://thumbs4.imagebam.com/9e/00/60/ME98YSH_t.jpg" group-title="Hebrew",ch 13 רשת
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://thumbs4.imagebam.com/9e/00/60/ME98YSH_t.jpg" group-title="Hebrew",13 רשת
 https://d18b0e6mopany4.cloudfront.net/out/v1/08bc71cf0a0f4712b6b03c732b0e6d25/index_3.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://images2.imagebam.com/de/cc/c9/4c7f3e788799523.png" group-title="Hebrew",ch 23 חינוכית
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://images2.imagebam.com/de/cc/c9/4c7f3e788799523.png" group-title="Hebrew",23 חינוכית
 https://kanlivep2event-i.akamaihd.net/hls/live/747600/747600/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://thumbs4.imagebam.com/81/74/41/ME98YA7_t.jpg" group-title="Hebrew",ch 24
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://thumbs4.imagebam.com/81/74/41/ME98YA7_t.jpg" group-title="Hebrew",24
 http://keshethlslive-lh.akamaihd.net/i/24live_1@195271/index_2200_av-b.m3u8?sd=10&rebase=on&hdntl=exp=1521305784~acl=%2f*~data=hdntl~hmac=0b04f206fb1bb2004ae6ab7c02a951d97bfdd220397c0516bb6057206493c8ea|User-Agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Ubuntu Chromium/43.0.2357.130 Chrome/43.0.2357.130 Safari/537.36&Cookie=hdntl%3Dexp%3D1521305784%7Eacl%3D%252f%2A%7Edata%3Dhdntl%7Ehmac%3D0b04f206fb1bb2004ae6ab7c02a951d97bfdd220397c0516bb6057206493c8ea;_alid_%3DYrk%2B1GiREjTrEWpIW8Vc7Q%3D%3D
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://thumbs2.imagebam.com/83/d6/c4/66b29e784878143.jpg" group-title="Hebrew",ch 99  כנסת
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://thumbs2.imagebam.com/83/d6/c4/66b29e784878143.jpg" group-title="Hebrew",99  כנסת
 https://contact.gostreaming.tv/Knesset/myStream/chunklist_w2072850535.m3u8
 
 
