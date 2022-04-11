@@ -3,6 +3,23 @@
 #EXTINF:-1 tvg-id="1" tvg-name="" tvg-logo="https://thumbs4.imagebam.com/a9/39/dc/ME98WSU_t.jpg" group-title="Русские каналы",9
 http://predator-x.com:8000/kdkm3ub840/4mxpah5f4n/176917
 
+#EXTINF:-1 tvg-id="Россия 1" group-title="Русские каналы" tvg-logo="http://toplogos.ru/images/logo-rossiya-1.png",Россия 1
+http://82.194.1.2:8000/play/E36_11823R_SID1408/index.m3u8
+
+#EXTINF:-1 tvg-id="Россия 1" group-title="Русские каналы" tvg-logo="http://toplogos.ru/images/logo-rossiya-1.png",Россия 2
+http://portal.m1n2.me:80/zXig8cj4uJ/ysKHL7knP9/27072
+
+#EXTINF:-1 tvg-id="Россия 1" group-title="Русские каналы" tvg-logo="http://toplogos.ru/images/logo-rossiya-1.png",Россия 3
+http://cixiptvtest102.xyz:8080/live/Nezih35/35nezih/143961.ts
+
+#EXTINF:-1 tvg-id="Россия 1" group-title="Русские каналы" tvg-logo="http://toplogos.ru/images/logo-rossiya-1.png",Россия 4
+http://mains.best:2086/htyrvtit/3650427/99062
+
+#EXTINF:-1 tvg-id="Россия 1" group-title="Русские каналы" tvg-logo="http://toplogos.ru/images/logo-rossiya-1.png",Россия 5
+http://satelliteiptv.xyz:8080/iptvpoint/85g7sjaS6t/5356
+
+
+
 #EXTINF:-1 tvg-id="Россия 24" group-title="Russia - רוסיה" tvg-logo="http://toplogos.ru/images/logo-rossiya-24.png",Россия 24
 http://127.0.0.1:65007/?url=3&mode=51
  
