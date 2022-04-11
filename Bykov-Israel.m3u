@@ -52,69 +52,27 @@ http://amdlive.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist
 
 #EXTINF:-1 tvg-id="Jakarta Globe News" group-title="News - חדשות" tvg-logo="http://jakartaglobe.id/assets/desktop/images/logo.png",Jakarta Globe News
 http://edge.linknetott.swiftserve.com/live/BsNew/amlst:bsenglish/playlist.m3u8
- 
+
+
+
 #EXTINF:-1 tvg-id="CGTN Doco" group-title="Science & nature - מדע וטבע" tvg-logo="http://static.filmon.com/couch/channels/2786/extra_big_logo.png",CGTN Doco
 http://livedoc.cgtn.com/1000d/prog_index.m3u8
 
 #EXTINF:-1 group-title="Science & nature - מדע וטבע" tvg-logo="https://i.ytimg.com/vi/_82sV2LQP6g/maxresdefault.jpg",Relaxing Sleep Music
 https://www.youtube.com/watch?v=86YLFOog4GM
- 
- 
- 
-#EXTINF:-1 tvg-id="Dubai Sports 3" group-title="Sport - ספורט" tvg-logo="http://www.islambox.com/images/products/channels/web/dubaisports3-web.png",Dubai Sports 3
-http://dmi.mangomolo.com:1935/dubaisports/smil:dubaisports.smil/playlist.m3u8
- 
-#EXTINF:-1 tvg-id="Dubai Racing" group-title="Sport - ספורט" tvg-logo="http://www.mems-cg.com/library/images/uploaded%20images/Dxb_Racing_C.jpg",Dubai Racing
-http://dmivll.mangomolo.com/dubairacing/smil:dubairacing.smil/playlist.m3u8
- 
-#EXTINF:-1 tvg-id="NBC Golf" group-title="Sport - ספורט" tvg-logo="http://upload.wikimedia.org/wikipedia/en/e/e4/NBC_Golf_logo.png",NBC Golf
-http://tvegolf-i.Akamaihd.net/hls/live/218225/golfx/1896k/prog.m3u8|X-Forwarded-For=209.239.112.104
- 
-#EXTINF:-1 tvg-id="NBC Golf" group-title="Sport - ספורט" tvg-logo="http://upload.wikimedia.org/wikipedia/en/e/e4/NBC_Golf_logo.png",NBC Golf
-http://tvegolf-i.Akamaihd.net/hls/live/218225/golfx/2596k/prog.m3u8|X-Forwarded-For=209.239.112.104
- 
-#EXTINF:-1 tvg-id="NBC Golf" group-title="Sport - ספורט" tvg-logo="http://upload.wikimedia.org/wikipedia/en/e/e4/NBC_Golf_logo.png",NBC Golf
-http://tvegolf-i.Akamaihd.net/hls/live/218225/golfx/4296k/prog.m3u8|X-Forwarded-For=209.239.112.104
- 
-#EXTINF:-1 tvg-id="iTELE" group-title="France - צרפת" tvg-logo="",iTELE
-http://hls-live-m6-l3.canal-plus.com/live/hls/itele-clair-hd-andr7/and-hd-clair/index.m3u8
- 
-#EXTINF:-1 tvg-id="ARTE Fran" group-title="France - צרפת" tvg-logo="http://passion-xbmc.org/fichiers_multimedia/upploadimages/images/1264891126-arte.png",ARTE Fran
-http://artelive-lh.akamaihd.net/i/artelive_fr@344805/master.m3u8|X-Forwarded-For=217.70.184.38
- 
+
+
+
 #EXTINF:-1 tvg-id="Alsace 20" group-title="France - צרפת" tvg-logo="",Alsace 20
 http://live.alsace20.fr/live/alsace20/ngrp:alsace20_all/playlist.m3u8
- 
-#EXTINF:-1 tvg-id="Antenne Centre TV" group-title="France - צרפת" tvg-logo="",Antenne Centre TV
-http://vm109.imust.org:1935/live/livestream/playlist.m3u8
- 
-#EXTINF:-1 tvg-id="WEO" group-title="France - צרפת" tvg-logo="http://www.tv14.net/wp-content/uploads/2010/06/Weo-TV.gif",WEO
-rtmp://str81.creacast.com:80/weo playpath=high swfUrl=http://www.tvlizer.com/live47/player.swf pageUrl=http://www.tvlizer.com/weo-tv-fra/
- 
-#EXTINF:-1 tvg-id="matele" group-title="France - צרפת" tvg-logo="",matele
-http://37.187.27.150:1935/matelelive/ngrp:matelelive_all/playlist.m3u8
- 
+
+
+
 #EXTINF:-1 tvg-id="ERT1" group-title="Greece - יוון" tvg-logo="",ERT1
-http://127.0.0.1:65007/?url=https%3A//www.youtube.com/watch%26v%3DZx98moCvkpU&mode=3
- 
-#EXTINF:-1 tvg-id="ERT2" group-title="Greece - יוון" tvg-logo="",ERT2
-http://127.0.0.1:65007/?url=https%3A//www.youtube.com/watch%26v%3DqBxbnSwOrxE&mode=3
- 
-#EXTINF:-1 tvg-id="ERT3" group-title="Greece - יוון" tvg-logo="",ERT3
-http://127.0.0.1:65007/?url=https%3A//www.youtube.com/watch%26v%3DO3Hs5AZqi4U&mode=3
- 
-#EXTINF:-1 tvg-id="ERT World" group-title="Greece - יוון" tvg-logo="",ERT World
-http://127.0.0.1:65007/?url=https%3A//www.youtube.com/watch%26v%3DqRY56sJJ2to&mode=3
- 
-#EXTINF:-1 tvg-id="Alpha" group-title="Greece - יוון" tvg-logo="",Alpha
-http://193.92.37.235:1935/LiveEdgeTV/live@720/master.m3u8
- 
-#EXTINF:-1 tvg-id="EPSILON TV" group-title="Greece - יוון" tvg-logo="",EPSILON TV
-https://s2.streamings.gr/epsilontv/epsilontv.m3u8
- 
-#EXTINF:-1 tvg-id="ERT Play" group-title="Greece - יוון" tvg-logo="",ERT Play
-http://127.0.0.1:65007/?url=https%3A//www.youtube.com/watch%26v%3DBa4voPNmZUU&mode=3
- 
+http://127.0.0.1:65007/?url=https://www.youtube.com/watch?v=86YLFOog4GM&mode=3
+
+
+
 #EXTINF:-1 tvg-id="KIKA" group-title="Germany - גרמניה" tvg-logo="http://static.filmon.com/couch/channels/2756/extra_big_logo.png",KIKA
 https://kikade-lh.akamaihd.net/i/livetvkika_de@450035/master.m3u8
  
@@ -1358,3 +1316,11 @@ https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1649696703/ei/X
  
 #EXTINF:-1 tvg-ID="Animal planet" tvg-name="Animal planet" tvg-logo="http://onlineru.net/userfiles/shop_items/tmb/s_animal_planet.jpg" group-title="Hebrew",Animal planet
  
+
+
+
+
+ 
+#EXTINF:-1 tvg-id="Dubai Sports 3" group-title="Sport - ספורט" tvg-logo="http://www.islambox.com/images/products/channels/web/dubaisports3-web.png",Dubai Sports 3
+
+
