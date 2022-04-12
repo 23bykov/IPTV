@@ -62,409 +62,11 @@ http://livedoc.cgtn.com/1000d/prog_index.m3u8
 https://www.youtube.com/watch?v=86YLFOog4GM
 
 
-#EXTINF:-1 tvg-id="TRT1HD" group-title="Turkey - טורקיה" tvg-logo="http://4.bp.blogspot.com/-iiA6Z09bFFw/UXj30M6nc0I/AAAAAAAAga0/lA-dDC60EW4/s1600/trt-1-izle.png",TRT1HD
-http://trtcanlitv-lh.akamaihd.net/i/TRT1HD_1@181842/master.m3u8
  
-#EXTINF:-1 tvg-id="TRT WORLD" group-title="Turkey - טורקיה" tvg-logo="",TRT WORLD
-http://trtcanlitv-lh.akamaihd.net/i/TRTWORLD_1@321783/master.m3u8
- 
-#EXTINF:-1 tvg-id="TRT Haber" group-title="Turkey - טורקיה" tvg-logo="http://www.haberyurdum.com/images/editor/images/trt-haber.png",TRT Haber
-http://trtcanlitv-lh.akamaihd.net/i/TRTHABERHD_1@181942/master.m3u8
- 
-#EXTINF:-1 tvg-id="TRT Spor" group-title="Turkey - טורקיה" tvg-logo="http://www.zonguldak.net/wp-content/uploads/2013/11/trtspr.png",TRT Spor
-http://trtcanlitv-lh.akamaihd.net/i/TRTSPOR1_1@182042/master.m3u8
- 
-#EXTINF:-1 tvg-id="TRT AVAZ" group-title="Turkey - טורקיה" tvg-logo="",TRT AVAZ
-http://trtcanlitv-lh.akamaihd.net/i/TRTAVAZ_1@182244/master.m3u8
- 
-#EXTINF:-1 tvg-id="TRT Cocuk" group-title="Turkey - טורקיה" tvg-logo="http://upload.wikimedia.org/wikipedia/en/d/de/Trt_cocuk.png",TRT Cocuk
-http://trtcanlitv-lh.akamaihd.net/i/TRTCOCUK_1@181844/master.m3u8
- 
-#EXTINF:-1 tvg-id="TRT Belgesel" group-title="Turkey - טורקיה" tvg-logo="",TRT Belgesel
-http://trtcanlitv-lh.akamaihd.net/i/TRTBELGESEL_1@182145/master.m3u8
- 
-#EXTINF:-1 tvg-id="TRT Music" group-title="Turkey - טורקיה" tvg-logo="http://www.etvizle.net/trt-muzik.jpg",TRT Music
-http://trtcanlitv-lh.akamaihd.net/i/TRTMUZIK_1@181845/master.m3u8
- 
-#EXTINF:-1 tvg-id="TRT ARAPCA" group-title="Turkey - טורקיה" tvg-logo="",TRT ARAPCA
-http://trtcanlitv-lh.akamaihd.net/i/TRTARAPCA_1@181945/master.m3u8
- 
-#EXTINF:-1 tvg-id="TRT Diyanet" group-title="Turkey - טורקיה" tvg-logo="",TRT Diyanet
-http://trtcanlitv-lh.akamaihd.net/i/TRTDIYANET_1@182344/master.m3u8
- 
-#EXTINF:-1 tvg-id="TRT Turk" group-title="Turkey - טורקיה" tvg-logo="",TRT Turk
-http://trtcanlitv-lh.akamaihd.net/i/TRTTURK_1@182144/master.m3u8
- 
-#EXTINF:-1 tvg-id="TRT 6" group-title="Turkey - טורקיה" tvg-logo="",TRT 6
-http://trtcanlitv-lh.akamaihd.net/i/TRT6_1@181944/master.m3u8
- 
-#EXTINF:-1 tvg-id="TRT Okul" group-title="Turkey - טורקיה" tvg-logo="",TRT Okul
-http://trtcanlitv-lh.akamaihd.net/i/TRTOKUL_1@182245/master.m3u8
- 
-#EXTINF:-1 tvg-id="TRT3-TBMM TV" group-title="Turkey - טורקיה" tvg-logo="",TRT3-TBMM TV
-http://mecliscanlitv-lh.akamaihd.net/i/MECLISTV_1@127503/master.m3u8
- 
-#EXTINF:-1 tvg-id="FOX HD" group-title="Turkey - טורקיה" tvg-logo="",FOX HD
-http://foxtv-i.mncdn.com/foxtv/foxtv3/chunklist_w2083793909.m3u8
- 
-#EXTINF:-1 tvg-id="SKY 360" group-title="Turkey - טורקיה" tvg-logo="",SKY 360
-http://mn-l.mncdn.com/360tv_live/smil:360tv.smil/playlist.m3u8
- 
-#EXTINF:-1 tvg-id="24 TV" group-title="Turkey - טורקיה" tvg-logo="",24 TV
-http://mn-l.mncdn.com/kanal24/kanal243/playlist.m3u8
- 
-#EXTINF:-1 tvg-id="HABER TURK" group-title="Turkey - טורקיה" tvg-logo="",HABER TURK
-http://mn-l.mncdn.com/haberturk/haberturk2/playlist.m3u8
- 
-#EXTINF:-1 tvg-id="SHOW MAX" group-title="Turkey - טורקיה" tvg-logo="",SHOW MAX
-http://mn-l.mncdn.com:1935/showmax/showmax2/master.m3u8
- 
-#EXTINF:-1 tvg-id="bloomberg ht" group-title="Turkey - טורקיה" tvg-logo="",bloomberg ht
-http://mn-i.mncdn.com/bloomberght_ios/smil:bloomberght.smil/chunklist_w668226506_b848000.m3u8
- 
-#EXTINF:-1 tvg-id="TV4" group-title="Turkey - טורקיה" tvg-logo="",TV4
-http://mn-l.mncdn.com:1935/r_karamel/karamel/master.m3u8
- 
-#EXTINF:-1 tvg-id="AN TV" group-title="Turkey - טורקיה" tvg-logo="",AN TV
-http://broadcasttr.com:1935/birantv/bant1/playlist.m3u8
- 
-#EXTINF:-1 tvg-id="Россия 24" group-title="Russia - רוסיה" tvg-logo="http://toplogos.ru/images/logo-rossiya-24.png",Россия 24
-http://127.0.0.1:65007/?url=3&mode=51
- 
-#EXTINF:-1 tvg-id="Россия 24" group-title="Russia - רוסיה" tvg-logo="http://toplogos.ru/images/logo-rossiya-24.png",Россия 24
-http://127.0.0.1:65007/?url=https%3A//www.youtube.com/watch%26v%3DK59KKnIbIaM&mode=3
- 
-#EXTINF:-1 tvg-id="Россия 1" group-title="Russia - רוסיה" tvg-logo="http://toplogos.ru/images/logo-rossiya-1.png",Россия 1
-http://127.0.0.1:65007/?url=1&mode=51
- 
-#EXTINF:-1 tvg-id="Россия 1 HD" group-title="Russia - רוסיה" tvg-logo="",Россия 1 HD
-http://127.0.0.1:65007/?url=86&mode=51
- 
-#EXTINF:-1 tvg-id="Planeta K" group-title="Russia - רוסיה" tvg-logo="",Planeta K
-http://127.0.0.1:65007/?url=4&mode=51
- 
-#EXTINF:-1 tvg-id="Planeta RTR" group-title="Russia - רוסיה" tvg-logo="http://live.russia.tv/i/logo/ch-logo-82.png",Planeta RTR
-http://127.0.0.1:65007/?url=82&mode=51
- 
-#EXTINF:-1 tvg-id="M24" group-title="Russia - רוסיה" tvg-logo="http://www.m24.ru/img4/logo.png",M24
-http://127.0.0.1:65007/?url=76&mode=51
- 
-#EXTINF:-1 tvg-id="Пятый канал" group-title="Russia - רוסיה" tvg-logo="",Пятый канал
-http://127.0.0.1:65007/?url=https%3A//www.youtube.com/watch%26v%3Drcfor-cloxY&mode=3
- 
-#EXTINF:-1 tvg-id="РЕН ТВ" group-title="Russia - רוסיה" tvg-logo="",РЕН ТВ
-http://127.0.0.1:65007/?url=https%3A//www.youtube.com/watch%26v%3DjKKKZVjha74&mode=3
- 
-#EXTINF:-1 tvg-id="ОАО Телекомпания НТВ" group-title="Russia - רוסיה" tvg-logo="",ОАО Телекомпания НТВ
-http://127.0.0.1:65007/?url=1&mode=52
- 
-#EXTINF:-1 tvg-id="Общественное телевидение России" group-title="Russia - רוסיה" tvg-logo="",Общественное телевидение России
-http://127.0.0.1:65007/?url=1&mode=53
- 
-#EXTINF:-1 tvg-id="MIR" group-title="Russia - רוסיה" tvg-logo="",MIR
-http://mirtv.cdnvideo.ru/mirtv-paramlive/mirtv_mobil/playlist.m3u8
- 
-#EXTINF:-1 tvg-id="РБК" group-title="Russia - רוסיה" tvg-logo="http://toplogos.ru/images/logo-rbc.png",РБК
-http://e4.online.video.rbc.ru/online2/rbctv_480p/index.m3u8
- 
-#EXTINF:-1 tvg-id="ТВ Центр" group-title="Russia - רוסיה" tvg-logo="http://thewatchtv.com/wp-content/uploads/2013/05/Watch-TVC-Moscow-Live-TV-from-Russia.jpg",ТВ Центр
-rtmp://tvc.cdnvideo.ru/tvc-p212 playpath=rtmp_p11_sq swfUrl=http://cdn.tvc.ru/flash/livetvc.swf?v=90 pageUrl=http://www.tvc.ru/channel/onairiframe
- 
-#EXTINF:-1 tvg-id="LA1" group-title="Spain - ספרד" tvg-logo="",LA1
-http://rtvev4-live.hss.adaptive.level3.net/egress/ahandler/rtvegl7/la1_lv3_aosv4_gl7/la1_lv3_aosv4_gl7.isml/la1_lv3_aosv4_gl7.m3u8
- 
-#EXTINF:-1 tvg-id="LA2" group-title="Spain - ספרד" tvg-logo="",LA2
-http://rtvev4-live.hss.adaptive.level3.net/egress/ahandler/rtvegl0/la2_lv3_aosv4_gl0/la2_lv3_aosv4_gl0.isml/la2_lv3_aosv4_gl0.m3u8
- 
-#EXTINF:-1 tvg-id="24h" group-title="Spain - ספרד" tvg-logo="http://static.filmon.com/couch/channels/2777/extra_big_logo.png",24h
-http://hlsackdn_gl8-lh.akamaihd.net/i/hlsdvrlive_1@81183/master.m3u8
- 
-#EXTINF:-1 tvg-id="Hispan TV" group-title="Spain - ספרד" tvg-logo="http://static.filmon.com/couch/channels/1997/extra_big_logo.png",Hispan TV
-http://178.32.255.199:1935/live/hispantv/playlist.m3u8
- 
-#EXTINF:-1 tvg-id="NEOX" group-title="Spain - ספרד" tvg-logo="http://www.tavo.es/studio/wp-content/uploads/vector__0004_Group-1.jpg",NEOX
-http://a3live-lh.akamaihd.net/i/nxhls/geoneox_1@35261/index_4_av-b.m3u8?sd=10&rebase=on||X-Forwarded-For=194.224.72.187
- 
-#EXTINF:-1 tvg-id="NOVA" group-title="Spain - ספרד" tvg-logo="",NOVA
-Http://a3live-lh.akamaihd.net/i/nvhds/geonova_1@379404/index_4_av-p.m3u8
- 
-#EXTINF:-1 tvg-id="Huesca Television" group-title="Spain - ספרד" tvg-logo="",Huesca Television
-rtmp://streaming2.radiohuesca.com/live swfUrl=http://www.radiohuesca.com/swf/JWPlayer/player.swf pageUrl=http://www.radiohuesca.com/directo-htv playpath=huescatv live=true
- 
-#EXTINF:-1 tvg-id="RTPA" group-title="Spain - ספרד" tvg-logo="http://1.bp.blogspot.com/_65hJ08LWbYo/S_qxLqe2IaI/AAAAAAAAAQU/9pHTMkIgT-4/s320/tpa%5B1%5D.jpg",RTPA
-http://iphone.rtpa.stream.flumotion.com/rtpa/tv-iphone-multi/main.m3u8
- 
-#EXTINF:-1 tvg-id="tv3" group-title="Spain - ספרד" tvg-logo="",tv3
-http://ccma-tva-int-abertis-live.hls.adaptive.level3.net/int/ngrp:tv3_web/playlist.m3u8
- 
-#EXTINF:-1 tvg-id="3/24" group-title="Spain - ספרד" tvg-logo="",3/24
-http://ccma-tva-int-abertis-live.hls.adaptive.level3.net/int/ngrp:324_web/playlist.m3u8
- 
-#EXTINF:-1 tvg-id="Esport3" group-title="Spain - ספרד" tvg-logo="",Esport3
-http://ccma-tva-int-abertis-live.hls.adaptive.level3.net/int/ngrp:es3_web/playlist.m3u8
- 
-#EXTINF:-1 tvg-id="TV Galicia" group-title="Spain - ספרד" tvg-logo="",TV Galicia
-http://media3.crtvg.es/live/tvga/chunklist.m3u8
- 
-#EXTINF:-1 tvg-id="Antena 3" group-title="Spain - ספרד" tvg-logo="",Antena 3
-http://a3live-lh.akamaihd.net/i/antena3_1@35248/index_4_av-b.m3u8
- 
-#EXTINF:-1 tvg-id="lasexta" group-title="Spain - ספרד" tvg-logo="",lasexta
-http://a3live-lh.akamaihd.net/i/lasexta_1@35272/index_4_av-b.m3u8
- 
-#EXTINF:-1 tvg-id="Real Madrid" group-title="Spain - ספרד" tvg-logo="",Real Madrid
-http://rmtvlive-lh.akamaihd.net/i/rmtv_1@154306/index_1000_av-b.m3u8
- 
-#EXTINF:-1 tvg-id="ATRESERIES" group-title="Spain - ספרד" tvg-logo="",ATRESERIES
-http://a3live-lh.akamaihd.net/i/a3shds/geoa3series_1@122775/index_4_av-b.m3u8?sd=10&rebase=on||X-Forwarded-For=194.224.72.187
- 
-#EXTINF:-1 tvg-id="La Otra" group-title="Spain - ספרד" tvg-logo="",La Otra
-http://laotra-live.hls.adaptive.level3.net/hls-live/telemadrid-laotra/_definst_/live.m3u8
- 
-#EXTINF:-1 tvg-id="TV Extremadura" group-title="Spain - ספרד" tvg-logo="",TV Extremadura
-http://hlstv.canalextremadura.es/livetv/smil:multistream.smil/chunklist_b264000_DVR.m3u8
- 
-#EXTINF:-1 tvg-id="tvge" group-title="Spain - ספרד" tvg-logo="",tvge
-rtmp://media3.crtvg.es:80/live playpath=tvge_2 swfUrl=http://www.crtvg.es/flow3/flowplayer.commercial.swf pageUrl=http://www.crtvg.es/tvg/tvg-en-directo
- 
-#EXTINF:-1 tvg-id="TeleMadrid" group-title="Spain - ספרד" tvg-logo="http://images.gofreedownload.net/telemadrid-85154.jpg",TeleMadrid
-http://telemadrid-live.hls.adaptive.level3.net/hls-live/telemadrid-telemadridbis/_definst_/live.m3u8
- 
-#EXTINF:-1 tvg-id="MEGA" group-title="Spain - ספרד" tvg-logo="",MEGA
-http://a3live-lh.akamaihd.net/i/mega/geomega_1@328914/index_4_av-p.m3u8
- 
-#EXTINF:-1 tvg-id="andalucia" group-title="Spain - ספרד" tvg-logo="",andalucia
-http://iphone-andaluciatelevision.rtva.stream.flumotion.com/rtva/andaluciatelevision-iphone-multi/main.m3u8
- 
-#EXTINF:-1 tvg-id="C7 MURCIA" group-title="Spain - ספרד" tvg-logo="",C7 MURCIA
-http://hls0.80670-live0.dna.qbrick.com/80670-live0/murciatv/playlist.m3u8
- 
-#EXTINF:-1 tvg-id="TDN UNIVISION" group-title="Spain - ספרד" tvg-logo="",TDN UNIVISION
-http://stdephds-lh.akamaihd.net/i/ad3pst02hds_1@335205/index_1048_av-b.m3u8?sd=10&rebase=on
- 
-#EXTINF:-1 tvg-id="TV Pública" group-title="Argentina - ארגנטינה" tvg-logo="http://static-cdn2.ustream.tv/i/channel/picture/2/0/8/0/2080123/2080123_275_logomedio_12599415,192x192,r:1.jpg",TV Pública
-http://prepublish.f.qaotic.net/a06/ngrp:c7live02Internacional-20034_all/Playlist.m3u8|Referer=http://vmf.edge-apps.net&amp;User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:49.0) Gecko/20100101 Firefox/49.0&amp;origin=http://vmf.edge-apps.net&amp;Connection=keep-alive&amp;X-Forwarded-For=200.42.143.60
- 
-#EXTINF:-1 tvg-id="Paka Paka" group-title="Argentina - ארגנטינה" tvg-logo="",Paka Paka
-http://lsdencuentrohls-lh.akamaihd.net/i/PKPKHLS_1@198010/master.m3u8
- 
-#EXTINF:-1 tvg-id="One TV" group-title="Argentina - ארגנטינה" tvg-logo="",One TV
-http://server5.stweb.tv/radioone/live/playlist.m3u8
- 
-#EXTINF:-1 tvg-id="Canal Rural" group-title="Argentina - ארגנטינה" tvg-logo="",Canal Rural
-rtsp://streamrural.cmd.com.ar:554/liverural/crural/rural1
- 
-#EXTINF:-1 tvg-id="DxTV" group-title="Argentina - ארגנטינה" tvg-logo="",DxTV
-http://186.33.227.199/DXTV/smil:DXTV.smil/chunklist_w788509661_b800000_slesp.m3u8
- 
-#EXTINF:-1 tvg-id="C5N" group-title="Argentina - ארגנטינה" tvg-logo="http://www.buenosaires54.com/images/c5n1.jpg",C5N
-http://127.0.0.1:65007/?url=https%3A//www.youtube.com/watch%26v%3DfJUi-0L_8ZY&mode=3
- 
-#EXTINF:-1 tvg-id="Canal 4 (Misiones)" group-title="Argentina - ארגנטינה" tvg-logo="",Canal 4 (Misiones)
-rtmp://184.154.28.210:1935/canal4/canal4
- 
-#EXTINF:-1 tvg-id="DTV Diputados" group-title="Argentina - ארגנטינה" tvg-logo="",DTV Diputados
-http://lsdhcdnhls-lh.akamaihd.net/i/hcdnarsatHLS_2@301805/master.m3u8
- 
-#EXTINF:-1 tvg-id="TVP" group-title="Argentina - ארגנטינה" tvg-logo="",TVP
-http://prepublish.f.qaotic.net/a02/ngrp:c7live01-20034_all/Playlist.m3u8|Referer=http://vmf.edge-apps.net&amp;User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:49.0) Gecko/20100101 Firefox/49.0&amp;origin=http://vmf.edge-apps.net&amp;Connection=keep-alive&amp;X-Forwarded-For=200.42.143.60
- 
-#EXTINF:-1 tvg-id="el 13" group-title="Argentina - ארגנטינה" tvg-logo="",el 13
-http://prepublish.f.qaotic.net/a03/ngrp:el13_live01-100083_all/Playlist.m3u8|Referer=http://vmf.edge-apps.net&amp;User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:49.0) Gecko/20100101 Firefox/49.0&amp;origin=http://vmf.edge-apps.net&amp;Connection=keep-alive&amp;X-Forwarded-For=200.42.143.60
- 
-#EXTINF:-1 tvg-id="AMERICA 24" group-title="Argentina - ארגנטינה" tvg-logo="http://3.bp.blogspot.com/-NesnOUZT0zY/Umg0HN_TZWI/AAAAAAAAaks/cDTGVN7fbM0/s76/a24-america-24.PNG",AMERICA 24
-http://prepublish.f.qaotic.net/epa/ngrp:americatvlive-100056_all/Playlist.m3u8|Referer=http://vmf.edge-apps.net&amp;User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:49.0) Gecko/20100101 Firefox/49.0&amp;origin=http://vmf.edge-apps.net&amp;Connection=keep-alive&amp;X-Forwarded-For=200.42.143.60
- 
-#EXTINF:-1 tvg-id="Canal 26" group-title="Argentina - ארגנטינה" tvg-logo="",Canal 26
-http://live-edge01.telecentro.net.ar/live/smil:c26.smil/chunklist_w312671014_b1264000_sleng.m3u8
- 
-#EXTINF:-1 tvg-id="TODO NOTICIAS" group-title="Argentina - ארגנטינה" tvg-logo="http://laalameda.files.wordpress.com/2012/02/tn.jpg",TODO NOTICIAS
-http://127.0.0.1:65007/?url=https%3A//www.youtube.com/watch%26v%3D0tek2aa8hAQ&mode=3
- 
-#EXTINF:-1 tvg-id="A24" group-title="Argentina - ארגנטינה" tvg-logo="",A24
-http://127.0.0.1:65007/?url=https%3A//www.youtube.com/watch%26v%3DURAMVgoXyec&mode=3
- 
-#EXTINF:-1 tvg-id="Canal 6 San Rafael" group-title="Argentina - ארגנטינה" tvg-logo="",Canal 6 San Rafael
-http://127.0.0.1:65007/?url=https%3A//www.youtube.com/watch%26v%3DaxnhmU97Ktg&mode=3
- 
-#EXTINF:-1 tvg-id="Canal 7 Mendoza" group-title="Argentina - ארגנטינה" tvg-logo="",Canal 7 Mendoza
-http://127.0.0.1:65007/?url=https%3A//www.youtube.com/watch%26v%3DCk6wohdxivM&mode=3
- 
-#EXTINF:-1 tvg-id="CANAL 13 SAN JUAN" group-title="Argentina - ארגנטינה" tvg-logo="",CANAL 13 SAN JUAN
-http://127.0.0.1:65007/?url=https%3A//www.youtube.com/watch%26v%3D0PXhBhkCKzk&mode=3
- 
-#EXTINF:-1 tvg-id="Magazine" group-title="Argentina - ארגנטינה" tvg-logo="",Magazine
-http://prepublish.f.qaotic.net/a01/ngrp:magazine_live01-100083_all/Playlist.m3u8|Referer=http://vmf.edge-apps.net&amp;User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:49.0) Gecko/20100101 Firefox/49.0&amp;origin=http://vmf.edge-apps.net&amp;Connection=keep-alive&amp;X-Forwarded-For=200.42.143.60
- 
-#EXTINF:-1 tvg-id="ORBE 21" group-title="Argentina - ארגנטינה" tvg-logo="",ORBE 21
-http://urtmpkal-f.akamaihd.net/i/1b6mj17sk_1@308700/master.m3u8
- 
-#EXTINF:-1 tvg-id="Tecnopolis" group-title="Argentina - ארגנטינה" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Tec.png/250px-Tec.png",Tecnopolis
-http://tectvhls-lh.akamaihd.net/i/tectvHLS_1@334993/master.m3u8
- 
-#EXTINF:-1 tvg-id="TELEMAX" group-title="Argentina - ארגנטינה" tvg-logo="",TELEMAX
-http://live-edge01.telecentro.net.ar/live/smil:tlx.smil/playlist.m3u8
- 
-#EXTINF:-1 tvg-id="Quiero Musica" group-title="Argentina - ארגנטינה" tvg-logo="",Quiero Musica
-mms://200.42.92.6:1755/qmusica
- 
-#EXTINF:-1 tvg-id="Senal Provincial" group-title="Argentina - ארגנטינה" tvg-logo="",Senal Provincial
-http://www.trimi.com.ar/provincial/streaming/mystream.m3u8
 
 
 
 
-#EXTINF:-1 tvg-ID="ספורט 5" tvg-name="ספורט 5" tvg-logo="https://xiptv.com/logos/hebrew/Sport5HD.png" group-title="Hebrew",ספורט 5HD
-
-#EXTINF:-1 tvg-ID="ספורט 5 פלוס לייב" tvg-name="ספורט 5 פלוס לייב" tvg-logo="https://xiptv.com/logos/hebrew/sport5online.png" group-title="Hebrew",ספורט 5 פלוס לייב
- 
-#EXTINF:-1 tvg-id="ספורט 5+" tvg-name="ספורט 5+" group-title="Israel" tvg-logo="https://github.com/Apollo2000/Repo/raw/master/TVLogos/1531.png",ספורט 5+
- 
-#EXTINF:-1 tvg-ID="5+ Gold" tvg-name="5+ Gold" tvg-logo="https://www.xiptv.com/logos/hebrew/sport5gold.jpg" group-title="Hebrew",5+ Gold
- 
-#EXTINF:-1 tvg-ID="אגו טוטאל" tvg-name="אגו טוטאל" tvg-logo="http://msc.wcdn.co.il/w/w-700/404659-5.jpg" group-title="Hebrew",אגו טוטאל
- 
-#EXTINF:-1 tvg-ID="Extreme" tvg-name="Extreme" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/f0/Extreme_Sports_Channel.svg/1200px-Extreme_Sports_Channel.svg.png" group-title="Hebrew",Extreme
- 
- 
-###YES###
-#EXTINF:-1 tvg-ID="yes1hd" tvg-name="yes1hd" tvg-logo="https://xiptv.com/logos/hebrew/yes1hd.png" group-title="Hebrew",yes1hd
- 
-#EXTINF:-1 tvg-ID="yes2hd" tvg-name="yes2hd" tvg-logo="https://xiptv.com/logos/hebrew/yes2hd.png" group-title="Hebrew",yes2hd
- 
-#EXTINF:-1 tvg-ID="yes3hd" tvg-name="yes3hd" tvg-logo="https://xiptv.com/logos/hebrew/yes3hd.png" group-title="Hebrew",yes3hd
- 
-#EXTINF:-1 tvg-ID="yes4hd" tvg-name="yes4hd" tvg-logo="https://xiptv.com/logos/hebrew/yes4hd.png" group-title="Hebrew",yes4hd
- 
-#EXTINF:-1 tvg-ID="yes5hd" tvg-name="yes5hd" tvg-logo="https://xiptv.com/logos/hebrew/yes5hd.png" group-title="Hebrew",yes5hd
- 
-#EXTINF:-1 tvg-ID="yesoh" tvg-name="yesoh" tvg-logo="https://xiptv.com/logos/hebrew/yesohhd.png" group-title="Hebrew",yesoh
- 
-#EXTINF:-1 tvg-ID="Yes_Action_white" tvg-name="Yes_Action_white" tvg-logo="https://xiptv.com/logos/hebrew/YESACTIONHD.png" group-title="Hebrew",Yes_Action_white
- 
-#EXTINF:-1 tvg-ID="Yes_Drama_white" tvg-name="Yes_Drama_white" tvg-logo="https://xiptv.com/logos/hebrew/yesdramahd.png" group-title="Hebrew",Yes_Drama_white
- 
-#EXTINF:-1 tvg-ID="Yes_Comedy_white" tvg-name="Yes_Comedy_white" tvg-logo="https://xiptv.com/logos/hebrew/yescomedyhd.png" group-title="Hebrew",Yes_Comedy_white
- 
-#EXTINF:-1 tvg-ID="Yes_Doco_white" tvg-name="Yes_Doco_white" tvg-logo="https://xiptv.com/logos/hebrew/yesdocuhd.png" group-title="Hebrew",Yes_Doco_white
- 
-#EXTINF:-1 tvg-ID="yesisraeli" tvg-name="yesisraeli" tvg-logo="https://xiptv.com/logos/hebrew/yescinemahd.png" group-title="Hebrew",yesisraeli
- 
-#EXTINF:-1 tvg-ID="cbs drama" tvg-name="cbs drama" tvg-logo="http://freetvtube.com/wp-content/uploads/cbs-drama.jpg" group-title="Hebrew",cbs drama
- 
-###HOT###
-#EXTINF:-1 tvg-ID="HOT3" tvg-name="HOT3" tvg-logo="https://xiptv.com/logos/hebrew/HOT3HD.png" group-title="Hebrew",HOT3
- 
-#EXTINF:-1 tvg-ID="HOT HBO" tvg-name="HOT HBO" tvg-logo="https://xiptv.com/logos/hebrew/HOTHBOHD.png" group-title="Hebrew",HOT HBO
- 
-#EXTINF:-1 tvg-ID="קומדי סנטרל" tvg-name="קומדי סנטרל" tvg-logo="https://xiptv.com/logos/hebrew/hotcomedycentralhd.png" group-title="Hebrew", קומדי סנטרל
- 
-#EXTINF:-1 tvg-ID="בידור ישראלי" tvg-name="בידור ישראלי" tvg-logo="https://xiptv.com/logos/hebrew/hotentertainment.png" group-title="Hebrew", בידור ישראלי
- 
-#EXTINF:-1 tvg-ID="ערוץ 8" tvg-name="ערוץ 8" tvg-logo="https://xiptv.com/logos/hebrew/HOTChannel8.png" group-title="Hebrew",ערוץ 8
- 
-#EXTINF:-1 tvg-ID="Hot Zone" tvg-name="Hot Zone" tvg-logo="https://xiptv.com/logos/hebrew/HOTZONEHD.png" group-title="Hebrew",Hot Zone
- 
-#EXTINF:-1 tvg-ID="HOT Drama" tvg-name="HOT Drama" tvg-logo="https://xiptv.com/logos/hebrew/HOTDRAMAHD.png" group-title="Hebrew",HOT Drama
- 
-#EXTINF:-1 tvg-ID="HOT Action" tvg-name="HOT Action" tvg-logo="https://xiptv.com/logos/hebrew/HOTACTIONHD.png" group-title="Hebrew",HOT Action
- 
-#EXTINF:-1 tvg-ID="HOT Gold" tvg-name="HOT Gold" tvg-logo="https://xiptv.com/logos/hebrew/HOTGOLDHD.png" group-title="Hebrew",HOT Gold
- 
-#EXTINF:-1 tvg-ID="HOT Fun" tvg-name="HOT Fun" tvg-logo="https://xiptv.com/logos/hebrew/HOTFUNHD.png" group-title="Hebrew",HOT Fun
- 
-#EXTINF:-1 tvg-ID="HOT סרטים" tvg-name="HOT סרטים" tvg-logo="" group-title="Hebrew",HOT סרטים
- 
-#EXTINF:-1 tvg-id="HOT Prime" tvg-name="HOT Prime" group-title="Israel" tvg-logo="https://github.com/Apollo2000/Repo/raw/master/TVLogos/1561.png",HOT Prime
- 
-#EXTINF:-1 tvg-ID="AMC" tvg-name="AMC" tvg-logo="https://github.com/Apollo2000/Repo/raw/master/TVLogos/1548.png" group-title="Hebrew",AMC
- 
-#EXTINF:-1 tvg-ID="HOT Bombay" tvg-name="HOT Bombay" tvg-logo="https://github.com/Apollo2000/Repo/raw/master/TVLogos/1548.png" group-title="Hebrew",HOT Bombay
- 
-###KIDS###
-#EXTINF:-1 tvg-ID="Yes_kids" tvg-name="Yes_kids" tvg-logo="http://img.bizportal.co.il/giflib/tools/yesKidZ_logo.jpg" group-title="Hebrew",Yes_kids
- 
-#EXTINF:-1 tvg-ID="Yes_Wiz" tvg-name="Yes_Wiz" tvg-logo="https://upload.wikimedia.org/wikipedia/he/thumb/d/da/WiZ%21_Logo.svg/1280px-WiZ%21_Logo.svg.png" group-title="Hebrew",Yes_Wiz
- 
-#EXTINF:-1 tvg-ID="Yes_stars" tvg-name="Yes_stars" tvg-logo="https://www.yes.co.il/contents/PublishingImages/logo_new/General/stars_channel.png" group-title="Hebrew",Yes_stars
- 
-#EXTINF:-1 tvg-ID="Zoom" tvg-name="Zoom" tvg-logo="https://xiptv.com/logos/hebrew/zOOM.png" group-title="Hebrew",Zoom
- 
-#EXTINF:-1 tvg-ID="!הופ" tvg-name="!הופ" tvg-logo="https://xiptv.com/logos/hebrew/HOPIL.png" group-title="Hebrew",!הופ
- 
-#EXTINF:-1 tvg-id="הופ! ילדות ישראלית" tvg-name="הופ! ילדות ישראלית" group-title="Israel" tvg-logo="https://github.com/Apollo2000/Repo/raw/master/TVLogos/1559.png",הופ! ילדות ישראלית
- 
-#EXTINF:-1 tvg-ID="ערוץ הילדים" tvg-name="ערוץ הילדים" tvg-logo="https://xiptv.com/logos/hebrew/ArutzHayeladimIsrael.png" group-title="Hebrew",ערוץ הילדים
- 
-#EXTINF:-1 tvg-ID="דיסני" tvg-name="דיסני" tvg-logo="http://www.camdserver.com/sb_data/files/logo/disney-channel.jpg" group-title="Hebrew",דיסני
-
-#EXTINF:-1 tvg-ID="Disney junior" tvg-name="Disney junior" tvg-logo="http://www.camdserver.com/sb_data/files/logo/disney-junior.jpg" group-title="Hebrew",Disney junior
- 
-#EXTINF:-1 tvg-ID="ערוץ ניקלודיאון" tvg-name="ערוץ ניקלודיאון" tvg-logo="https://xiptv.com/logos/hebrew/Nickelodeon.png" group-title="Hebrew",ערוץ ניקלודיאון
- 
-#EXTINF:-1 tvg-ID="nick jr" tvg-name="nick jr" tvg-logo="https://xiptv.com/logos/hebrew/NickJr.png" group-title="Hebrew", nick jr
- 
-#EXTINF:-1 tvg-ID="בייבי" tvg-name="בייבי" tvg-logo="https://xiptv.com/logos/hebrew/BabyTV.png" group-title="Hebew",בייבי
- 
-#EXTINF:-1 tvg-ID="Logi" tvg-name="Logi" tvg-logo="https://github.com/Apollo2000/Repo/raw/master/TVLogos/1535.png" group-title="Hebrew", Logi
- 
-#EXTINF:-1 tvg-ID="לולי" tvg-name="לולי" tvg-logo="https://github.com/Apollo2000/Repo/raw/master/TVLogos/1534.png" group-title="Hebrew",לולי
- 
-#EXTINF:-1 tvg-ID="Junior" tvg-name="Junior" tvg-logo="https://xiptv.com/logos/hebrew/Junior.png" group-title="Hebrew",Junior
- 
-###Life style####
-#EXTINF:-1 tvg-ID="Channel E" tvg-name="Channel E" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/E%21_Logo.svg/2000px-E%21_Logo.svg.png" group-title="Hebrew", Channel E
- 
-#EXTINF:-1 tvg-ID="בית + משפחה" tvg-name="בית + משפחה" tvg-logo="https://xiptv.com/logos/hebrew/HomePlus.png" group-title="Hebrew", בית + משפחה
- 
-#EXTINF:-1 tvg-id="ערוץ הבריאות" tvg-name="ערוץ הבריאות" group-title="Israel" tvg-logo="https://github.com/Apollo2000/Repo/raw/master/TVLogos/1552.png",ערוץ הבריאות
- 
-#EXTINF:-1 tvg-ID="ערוץ הטיולים" tvg-name="ערוץ הטיולים" tvg-logo="https://xiptv.com/logos/hebrew/TravelChannel.png" group-title="Hebrew",ערוץ הטיולים
- 
-#EXTINF:-1 tvg-ID="ערוץ האוכל" tvg-name="ערוץ האוכל" tvg-logo="https://xiptv.com/logos/hebrew/foodchannel.png" group-title="Hebrew",ערוץ האוכל
- 
-#EXTINF:-1 tvg-ID="" tvg-name="VIP IL: Fine Living" tvg-logo="" group-title="Hebrew",VIP IL: Fine Living
- 
-#EXTINF:-1 tvg-ID="החיים הטובים" tvg-name="החיים הטובים" tvg-logo="https://github.com/Apollo2000/Repo/raw/master/TVLogos/1524.png" group-title="Hebrew",החיים הטובים
- 
-#EXTINF:-1 tvg-ID="Lifetime" tvg-name="Lifetime" tvg-logo="http://4vector.com/i/free-vector-fine-living_057888_fine-living.png" group-title="Hebrew",Lifetime
- 
-#EXTINF:-1 tvg-ID="ויוה" tvg-name="ויוה" tvg-logo="https://xiptv.com/logos/hebrew/VIVA.png" group-title="Hebrew",ויוה
- 
-#EXTINF:-1 tvg-id="ויוה +" tvg-name="ויוה +" group-title="Israel" tvg-logo="https://github.com/Apollo2000/Repo/raw/master/TVLogos/1556.png",ויוה +
- 
-###since and nature###
-#EXTINF:-1 tvg-ID="NATIONAL GEOGRAPHIC" tvg-name="NATIONAL GEOGRAPHIC" tvg-logo="https://xiptv.com/logos/hebrew/natgeohd.png" group-title="Hebrew",NATIONAL GEOGRAPHIC
- 
-#EXTINF:-1 tvg-ID="NAT GEO WILD" tvg-name="NAT GEO WILD" tvg-logo="https://xiptv.com/logos/hebrew/NationalGeoWild.png" group-title="Hebrew",NAT GEO WILD
- 
-#EXTINF:-1 tvg-ID="DISCOVERY" tvg-name="DISCOVERY" tvg-logo="https://xiptv.com/logos/hebrew/discoveryhd.png" group-title="Hebrew",DISCOVERY
- 
-#EXTINF:-1 tvg-ID="ערוץ ההיסטוריה" tvg-name="ערוץ ההיסטוריה" tvg-logo="https://xiptv.com/logos/hebrew/HistoryHD.png" group-title="Hebrew",ערוץ ההיסטוריה
- 
-#EXTINF:-1 tvg-ID="CBS_reality" tvg-name="CBS_reality" tvg-logo="https://www.watchallchannels.com/wp-content/uploads/2015/02/CBS-Reality-TV.jpg" group-title="Hebrew",CBS_reality
- 
-#EXTINF:-1 tvg-ID="Animal planet" tvg-name="Animal planet" tvg-logo="http://onlineru.net/userfiles/shop_items/tmb/s_animal_planet.jpg" group-title="Hebrew",Animal planet
- 
-#EXTINF:-1 tvg-ID="ערוץ מורשת - 20" tvg-name="ערוץ מורשת - 20" tvg-logo="https://xiptv.com/logos/hebrew/Channel20.png" group-title="Hebrew",ערוץ מורשת - 20
- 
-#EXTINF:-1  tvg-logo="http://www.isramedia.net/images/users/2/0e6b040fd7318b2f62c56368490fda4f.png" group-title="Hebrew",ערוץ 14
-
-#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/59/KAN_11.png" group-title="Hebrew",כאן 11
-
-
-
-
-
-
-###Since and Nature###
-#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/_82sV2LQP6g/maxresdefault.jpg",Relaxing Sleep Music
- 
- 
-###Sport###
-#EXTINF:-1 tvg-id="Dubai Sports 3" group-title="Sport" tvg-logo="http://www.islambox.com/images/products/channels/web/dubaisports3-web.png",Dubai Sports 3
-http://dmi.mangomolo.com:1935/dubaisports/smil:dubaisports.smil/playlist.m3u8
- 
 
 #EXTM3U x-tvg-url="https://iptv-org.github.io/epg/guides/in/dishtv.in.epg.xml"
 
@@ -492,72 +94,6 @@ https://d18dyiwu97wm6q.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68
 https://0984ed0046994029aafaa07692005474.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung_Bloomberg/playlist.m3u8|User-Agent=ExoPlayerLib/2.9.6
 #EXTINF:-1 group-title="4K" tvg-logo="https://i.imgur.com/5gkt9DD.png" tvg-id="", Rai 4K (Italy)
 https://raievent10-live.akamaized.net/hls/live/619189/raievent10/raievent10/playlist.m3u8
-#EXTINF:-1 group-title="Tamil" tvg-logo="https://i.imgur.com/r9ia17h.jpg" tvg-id="", TV9 Tamil
-http://14.199.164.20:4001/play/a0tr/index.m3u8
-
-#EXTINF:-1 group-title="French" tvg-logo="https://i.imgur.com/C8DXbt1.png" tvg-id="", BFM Grand Lille (720p)
-https://live.creacast.com/grandlilletv/smil:grandlilletv.smil/playlist.m3u8
-#EXTINF:-1 group-title="French" tvg-logo="https://i.ibb.co/8Y3FB3B/LYON.png" tvg-id="", BFM Lyon (480p)
-https://bfmlyon-lh.akamaihd.net/i/BFMLYON_ESYTLS@797041/master.m3u8
-#EXTINF:-1 group-title="French" tvg-logo="https://i.imgur.com/4buTOS3.png" tvg-id="", BFM Paris (480p)
-https://bfmparishdslive-lh.akamaihd.net/i/BFMPARIS_ESYTLS@429747/master.m3u8
-#EXTINF:-1 group-title="French" tvg-logo="https://i.imgur.com/L4EFgEn.png" tvg-id="", TV5Monde Francia FR (1080p)
-https://tv5infohls-i.akamaihd.net/hls/live/631613/tv5infohls/index.m3u8
-
-
-#EXTINF:-1 group-title="Tamil" tvg-logo="https://i.imgur.com/ItegRAT.png" tvg-id="", Polimer News (பாலிமர் செய்திகள்)
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1649696652/ei/LAtUYv3ZJpepkwantK7ADA/ip/20.118.168.142/id/7LvCANd8lug.1/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/4ocVCzSvR5J0Bd2pRnbpJeQyjAxF/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24001373%2C24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRQIhALeJcTsdFFlAYYQ1YnaFx58nZ8qebGcu27mW9y9BP6MOAiAF4sKav9LA7lwGXyB5i_vdqbVhlHiY99khex-RdaHucA%3D%3D/file/index.m3u8
-
-#EXTINF:-1 group-title="Tamil" tvg-logo="https://i.imgur.com/AzIEYXU.png" tvg-id="", NewsTamil 24x7 (நியூஸ் தமிழ் தொலைக்காட்சி)
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1649696653/ei/LAtUYrCyPMfYkgbw5ZSoBw/ip/20.118.168.142/id/AddDAdSk5qA.1/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/4ocVC5SQ-MEC1nHE8wDhlteCCspA/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24001373%2C24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRgIhAP5B73Wk0_I5UnE3Xaejjwc8hcDzx_sYwRlmMPZENM-1AiEAoeIE2EZXtVPUg8NHK07RIHAotjoAiVGHCU4PDJjC1MQ%3D/file/index.m3u8
-
-#EXTINF:-1 group-title="Tamil" tvg-logo="https://i.imgur.com/MulgNRs.jpg" tvg-id="", Puthiya Thalaimurai (புதிய தலைமுறை)
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1649696653/ei/LQtUYpmTE4OVkwa5_r3gCQ/ip/20.118.168.142/id/bcVK4iNvLjY.24/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/4ocVCyAuPj5JCmwUxB9yZHuqprUB/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24001373%2C24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRAIgap2glYsn0dTivRcx9_vtsKofN3HZMntFTuSwp8IcTXACIGdmt2bFHCp_orNQhOyv33Xa_GbbVrGVqoy3ZP8Rh6IP/file/index.m3u8
-
-#EXTINF:-1 group-title="Tamil" tvg-logo="https://i.imgur.com/gpYwU6U.png" tvg-id="", News7 Tamil (நியூஸ்7 தமிழ் தொலைக்காட்சி)
-https://raw.githubusercontent.com/naveenland4/UTLive/main/assets/info.m3u8
-
-#EXTINF:-1 group-title="Tamil" tvg-logo="https://i.imgur.com/d1Zp4iW.png" tvg-id="", Thanthi TV (தந்தி டிவி)
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1649696654/ei/LgtUYoWsK4fjkgbYp57gBA/ip/20.118.168.142/id/wc3Y6vI-poI.17/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/4ocVC0WAf312TxMcvjOftunsAlhO/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24001373%2C24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRQIhAM48vV7YXGpBWJWrQY4LdjSu0ZXyS6Ufce2_oUFqRwLkAiAnEL6DMnis55eAVCk7s2-cFR3jolY1LK8d7dCqPogmfA%3D%3D/file/index.m3u8
-
-#EXTINF:-1 group-title="Tamil" tvg-logo="https://i.imgur.com/3rLEBaS.jpg" tvg-id="", Zee Tamil News (ஜீ தமிழ் செய்திகள்)
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1649696655/ei/LwtUYrf-A5WNkgatzJGwBg/ip/20.118.168.142/id/TecKrp9M1Hk.1/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/4ocVC4YA0ZNtYGrAhJouJ1ZHOKiY/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24001373%2C24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRgIhAOQO2HGahIhltzEaZ6ZR5sNq8H7x_R829LucaEtlhFaUAiEA5JubyPhBWJ-9c4yFTLrKbVDAF67nmpL1Yn-1TlWXchA%3D/file/index.m3u8
-
-#EXTINF:-1 group-title="Tamil" tvg-logo="https://i.imgur.com/9KOtLWa.jpg" tvg-id="", Dinamalar (தினமலர் செய்திகள்)
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1649696655/ei/LwtUYrCWHsTgkgbb-bS4Aw/ip/20.118.168.142/id/bP7Xw1ICv6w.1/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/4ocVC-IwounpszS7T7obD9nQsuC6/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24001373%2C24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRgIhAN-YJpmm4m-t1XJbDvFTFq7FhStqV9VtZqbtMTUuDwzyAiEA16DDStGsr5GO2bkj0BUSpWx_A4q2NRLEnaunZJQQEcw%3D/file/index.m3u8
-
-#EXTINF:-1 group-title="Tamil" tvg-logo="https://i.imgur.com/qF9TcMW.png" tvg-id="", Sun News (சன் நியூஸ்)
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1649696655/ei/LwtUYuWPN5GLkgbmsLnIBA/ip/20.118.168.142/id/kzwbYu1diCY.9/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/4ocVC0yiHJIh_6d4HGiJgdQcp9qg/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24001373%2C24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRAIgIS1afLfCSVStdd3z5vciSQjajmzC2BvxK6asTcNsSIgCIH_AG03I58-ahTlx3meVdiBvvL4f054dqUsTR1nVnqVK/file/index.m3u8
-
-#EXTINF:-1 group-title="Tamil" tvg-logo="https://i.imgur.com/aPq38ho.png" tvg-id="", News18 TamilNadu (நியூஸ்18 தமிழ்நாடு தொலைக்காட்சி)
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1649696656/ei/MAtUYpqnFoS8kwa827vADQ/ip/20.118.168.142/id/mQrZJFyYzlI.3/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/4ocVC9mVtgN72ucZTjrF9nSq5fPq/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24001373%2C24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRAIgKBPv_nNWyPOwt8GqoKol3ZeDXS0LcGrD85OSk8bqN7oCID5Sj4asf4ntIIpl1nJfqIWYCmY69boZmdCQYDn6wB_H/file/index.m3u8
-
-#EXTINF:-1 group-title="Tamil" tvg-logo="https://i.imgur.com/RuUvWva.jpg" tvg-id="", Raj News (ராஜ் நியூஸ் தமிழ்)
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1649696656/ei/MAtUYp2vMdSDkwbw5o6oDw/ip/20.118.168.142/id/pIvyL1w4p6g.1/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/4ocVC7E3xVUzc6UFmcOCV4BblJgK/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24001373%2C24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRQIgCDUDUWSu__pWvw9ewqkew7why5i3y2xSRFgcgqDZlqUCIQDB1hYKPaegSYa8aPhMzwkh08nHlpg-vXfS6IgZZ4mWfA%3D%3D/file/index.m3u8
-
-#EXTINF:-1 group-title="Tamil" tvg-logo="https://i.imgur.com/jgsEO54.png" tvg-id="", NewsJ (நியூஸ் ஜெ)
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1649696657/ei/MQtUYqC4C5ulkgbov4noBA/ip/20.118.168.142/id/PA7DLpLb_n8.1/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/4ocVCzugR6WK1h2c_ionsNcbOJbc/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24001373%2C24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRQIgatURZ_4z0MYA7u6pqz5hPmaBnNFwoqfJHAifsXj08igCIQDmLBTcch58qF0aFOCl7daGibYXhQ7VvPPZ-KWEN7RRFw%3D%3D/file/index.m3u8
-
-#EXTINF:-1 group-title="Tamil" tvg-logo="https://i.imgur.com/IKp22Lb.png" tvg-id="", Sathiyam TV (சத்தியம் டிவி)
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1649696657/ei/MQtUYpqhIJGGsfIPhY2S0Ag/ip/20.118.168.142/id/9jkLEXxQ1OI.1/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/4ocVC-MNms-yDpDKaZxayaGwMi7_/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24001373%2C24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRQIgYCMNezGjzGUC6SFgXOHO59JduuXb5yqJUiOTtQ0NfC8CIQCt_vEttHD5wkdU9WfsgBgP8jdSYbhFlZ1XQbdM4aY3IA%3D%3D/file/index.m3u8
-
-#EXTINF:-1 group-title="Tamil" tvg-logo="https://i.imgur.com/SJBIGOb.png" tvg-id="", Jaya Plus (ஜெயா பிளஸ்)
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1649696657/ei/MQtUYsCOONOmkgaR2oXQBQ/ip/20.118.168.142/id/rkyMFW2ZmY8.1/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/4ocVC9CmqX8CGit40cM0yZwaFiVq/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24001373%2C24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRAIge-VxQOzHvs1QXEHB3DlljuJJF615jBJtLmZYdjByC6UCIEGBUNR1emh-iaiTch0tTpIFIsy3i36egXwSNwGA4XWK/file/index.m3u8
-
-#EXTINF:-1 group-title="Tamil" tvg-logo="https://i.imgur.com/O9mx3BX.jpg" tvg-id="", Kalaignar News (கலைஞர் செய்திகள்)
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1649696658/ei/MgtUYrKjD8WFkwbjmbDoAw/ip/20.118.168.142/id/l-_8ErdTjWY.1/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/4ocVC5TfBSTucw7ayKJHSqSGzm5q/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24001373%2C24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRQIgHqYJ3qQ-eGhEIeSownqN9ALHzal7v7u4I_F928zURQgCIQCibADc2jJGRTfE8_pRRUQ8b40ntztGqhy8rwns3jAb4g%3D%3D/file/index.m3u8
-
-#EXTINF:-1 group-title="Tamil" tvg-logo="https://i.imgur.com/glL5zYr.png" tvg-id="", Captain News (கேப்டன் நியூஸ்)
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1649696658/ei/MgtUYt3WJdOmkgaR2oXQBQ/ip/20.118.168.142/id/YALlT79G-QU.1/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/4ocVCxldSERWzbdIGfFu8jQHtyfH/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24001373%2C24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRgIhAIZPYXJJ51HN2srFshPD9_ZW9PaODLKBXq0acDQXbKO2AiEAoqBp1iG_qXL1HIMqldoEJd7nVhfMgGaZ3jLcM88N_4g%3D/file/index.m3u8
-
-#EXTINF:-1 group-title="Tamil" tvg-logo="https://i.imgur.com/lix8q6y.jpg" tvg-id="", Chanakyaa (சாணக்யா)
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1649696659/ei/MgtUYpCFPMyDkgbk8Z6IDg/ip/20.118.168.142/id/-fTaGgivjaM.1/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/4ocVC1EZgVhlhaYTFiP1ERllSDyK/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24001373%2C24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRgIhAMocicgpgPe-fKvTB9DGXNrkgo_MbuO-qyovm8MedIQ5AiEAg0dH1b2bG1HE2dB2c-btbcglB-fiXKoH8zL32hCUTag%3D/file/index.m3u8
-
-#EXTINF:-1 group-title="Tamil" tvg-logo="https://i.imgur.com/iMVZbcX.png" tvg-id="", News7Tamil Bakthi (நியூஸ் 7 தமிழ் பக்தி)
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1649696659/ei/MwtUYqCmGdaDkwbf6IeQBA/ip/20.118.168.142/id/0WlR4Go4zQg.1/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/4ocVC4JI19WwO6c4H3ZooUDlv0DF/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24001373%2C24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRgIhAIMPBQLBBk9bsEBcFqY0KOLqWqPNaSqdr7bu24d58rKqAiEA6UmJdGsLLAhj2c4jHtlYqGjWniu6AQ250sg2BLvSBhU%3D/file/index.m3u8
-
-#EXTINF:-1 group-title="Tamil" tvg-logo="https://i.imgur.com/1TvFl8x.jpg" tvg-id="", Britain Tamil Bhakthi (பிரிட்டன் தமிழ் பக்தி)
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1649696660/ei/MwtUYsuKPJHKkgasrIWwAw/ip/20.118.168.142/id/Jnqcfe4Mbrg.3/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/4ocVC6DM6NI9WNG_ryzh8rXZ5BIs/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24001373%2C24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRgIhAIAZUjV-2dS2oJUkgQvnhvVGm6Q_D_aQDSSiNZhoPFfIAiEA-oDDcxLFBy1E5fVmt6mShsDaCW_FW18T5jK4Nnai6V4%3D/file/index.m3u8
 
 #EXTINF:-1 group-title="English" tvg-logo="https://i.imgur.com/pMHfT2n.png" tvg-id="", NDTV 24*7
 https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1649696660/ei/NAtUYpO2HcWikganrKfYDg/ip/20.118.168.142/id/WX9Pk3IaxOk.1/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/4ocVC734hxuq5CpJd9mx3hplOaqr/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24001373%2C24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRgIhAJ6xoiPBiPKfXjy1wmLH2LwoZbuNRhW28Z8MiaUTo4CUAiEAyyvTRRr91QkjhxHgQGt1Hro44u3aLVXR4ge9RKDcIwo%3D/file/index.m3u8
@@ -619,44 +155,8 @@ https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1649696668/ei/P
 #EXTINF:-1 group-title="English" tvg-logo="https://i.imgur.com/eHxuTsb.png" tvg-id="", TeleSUR English
 https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1649696668/ei/PAtUYvCkGJGrkgaA6K6QCA/ip/20.118.168.142/id/Ts0k9Kx5Odw.1/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/4ocVC4T16DJcTx573Lq8iBgPGsID/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24001373%2C24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRgIhAOava7tZ_-N69-0wRo9CBzTGn0eAN85yuglyMSWkIlx4AiEA32-WKdwW9-GgAIcgQ1Q_8k19gm8tI4J24E5Yim9faBM%3D/file/index.m3u8
 
-#EXTINF:-1 group-title="Hindi" tvg-logo="https://i.imgur.com/5J8K7qd.png" tvg-id="", DD NEWS 24X7
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1649696668/ei/PAtUYsiYLI_0kgaIzYOwCA/ip/20.118.168.142/id/nBHgdf3aEvI.1/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/4ocVCwuD9JUXPb54ymTj1DO_X2w3/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24001373%2C24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRgIhAOfAvTqURQZY6UNATcOY7wTNwSIBa9jnN2A8YGGOvd2zAiEAuj3T1JGGNsmIVbOwhUGrTJuheOeWAAo4jewrlf0c-ic%3D/file/index.m3u8
 
-#EXTINF:-1 group-title="Hindi" tvg-logo="https://i.imgur.com/cIDHsge.jpg" tvg-id="", CNBC Awaaz
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1649696669/ei/PQtUYoHeEMKSkgbpg54I/ip/20.118.168.142/id/ShpAxnHrlfQ.1/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/4ocVCxFBHTToeHbgHEsVMws6dfWe/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24001373%2C24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRgIhAJTwnDV34V8kMoOh9jTn-Mcge6wL6htic2bNl9g7tmMkAiEA2o8uzEQftQI5IN0DgqjEdDgtUobRGJq62vOpuSYLrvw%3D/file/index.m3u8
 
-#EXTINF:-1 group-title="Hindi" tvg-logo="https://i.imgur.com/ipmp1mQ.jpg" tvg-id="", Zee Hindustan
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1649696669/ei/PQtUYtfzK9OOkwbx-ojwBQ/ip/20.118.168.142/id/KUbsNd42LVo.2/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/4ocVCw0yydr29y8FSKz8ypz3FiR0/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24001373%2C24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRAIgYmvwurq9Pwk_RvkTv4PjDM_NA6kYRTliZKeot8VC95kCIHzeKK9Vp9-WVtsJ1cgqiA_GSpW1PS62JjBXckH-LGqU/file/index.m3u8
-
-#EXTINF:-1 group-title="Hindi" tvg-logo="https://i.imgur.com/xWg3Tfn.png" tvg-id="", IndiaTV
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1649696670/ei/PgtUYuX4DJCQkgbC4Zn4Ag/ip/20.118.168.142/id/Xmm3Kr5P1Uw.7/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/4ocVCyHfosE7tj7EToUBzwHePDvb/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24001373%2C24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRQIgZl-Bo0Pt2Pn9S1xHqBHXjbHJSWsfOF1o53rqwIopPu0CIQC-XHh45aNWokGVCGt53vVjuPhA_voTaEsNL7F_NoWt9Q%3D%3D/file/index.m3u8
-
-#EXTINF:-1 group-title="Hindi" tvg-logo="https://i.imgur.com/VwzlPXa.jpg" tvg-id="", Republic Bharat
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1649696670/ei/PgtUYuCaKNaFkgbNw6moBg/ip/20.118.168.142/id/SAKtYlax6Sc.1/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/4ocVCzOHNZRMInfZ2GFkSpRTZuaS/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24001373%2C24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRAIgURuMVw8-Sp06ktbXox7ca28RMeAxnePbJkBOyLFgreECIGFxM6BvebAGXlcORKx_peIOEy0EGY2B6-NSNf8AjyAu/file/index.m3u8
-
-#EXTINF:-1 group-title="Hindi" tvg-logo="https://i.imgur.com/pO4rzt2.jpg" tvg-id="", NDTV India
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1649696671/ei/PwtUYpGbCpWNkgatzJGwBg/ip/20.118.168.142/id/0zCjIh-M5sg.1/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/4ocVC3HV4ImsNvDjjsI0YdXi8-fF/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24001373%2C24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRQIhAIUjbTtaaGjRBCuyytfLvBEm3tfOuXux_cAHQ26TNwEMAiAKDlr6AjllLVUejnVspz7Pzt-HZM4a9eitgkackRW-TA%3D%3D/file/index.m3u8
-
-#EXTINF:-1 group-title="Hindi" tvg-logo="https://i.imgur.com/UTkH9uA.jpg" tvg-id="", ABP NEWS
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1649696671/ei/PwtUYr6SItiskwbngbnYBw/ip/20.118.168.142/id/tdVUCByRtPc.2/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/4ocVC680yBV8Z3-7ULnbxZTlYiLe/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24001373%2C24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRAIgKB7zgHDDe5VWbhoTNw0EL9xULBX9XjqyehEgLJuGuykCIGTb9g9n9ydrqEuzboGuQhUwwL6ciQOdk0IFemrOlBrE/file/index.m3u8
-
-#EXTINF:-1 group-title="Hindi" tvg-logo="https://i.imgur.com/q5HR6p1.png" tvg-id="", Zee News
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1649696672/ei/QAtUYvHhDKiAsfIP4O2u4AY/ip/20.118.168.142/id/K1RD4VkJvp4.2/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/4ocVC8rm01RwXgmOenBKi6tdT7Vo/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24001373%2C24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRAIgCNiPVhmSeQqzxmjFec0U8VXD46lADP-U97PA3AyhFAYCIC5pAJI3m4qT7TevLbxIwVDfy9NF3pmQH7WRCG72WoL5/file/index.m3u8
-
-#EXTINF:-1 group-title="Hindi" tvg-logo="https://i.imgur.com/KQMMRmD.png" tvg-id="", News18 India
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1649696672/ei/QAtUYuSgMorLkgbk4LZw/ip/20.118.168.142/id/EX5inBmIKIo.1/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/4ocVC9lj0lSPjmxXtbjbOISuR_qm/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24001373%2C24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRQIhAPEe5wSM_aBOyjvJJOpDExPZ_1bF2zSdGCmWbN_DPRAQAiB_Q6WqSOTmGHIKg2sfWQsio4kSdlGq8AQGXdG4HrvdrQ%3D%3D/file/index.m3u8
-
-#EXTINF:-1 group-title="French" tvg-logo="https://i.imgur.com/I3lw9Pf.png" tvg-id="", Franceinfo
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1649696673/ei/QQtUYofiENSvkgaBgZPIAw/ip/20.118.168.142/id/Z-Nwo-ypKtM.2/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/4ocVC04Tqaz-S2YePSOWo2jIhp2I/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24001373%2C24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRQIhANH1WvipmkJqnSjw0kNO-pVPM3r1rJZNDDgpTgKBvVcpAiAErIxv8NDidLDBbWmixf6JzcT9qsdXxBeF7vOGXMe19Q%3D%3D/file/index.m3u8
-
-#EXTINF:-1 group-title="French" tvg-logo="https://i.imgur.com/1NHCrPM.png" tvg-id="", FRANCE 24 French
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1649696673/ei/QQtUYpfrJJHKkgasrIWwAw/ip/20.118.168.142/id/u9foWyMSATM.12/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/4ocVCz-7aLAMRTi6tCqByZ9PPkcy/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24001373%2C24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRAIgZ7Hv1J9XUEyYTkAmzRZ52OudFZ5dmp770lo1bgJzVboCIBHPurz_4DrTS2myHyYScd_4y_PoN0-dyNF6V6JCqQhl/file/index.m3u8
-
-#EXTINF:-1 group-title="French" tvg-logo="https://i.imgur.com/Xr3cPT6.png" tvg-id="", africanews (en français)
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1649696675/ei/QgtUYssByKGSBsjIlaAJ/ip/20.118.168.142/id/b6R9-7KZ8YM.4/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/4ocVC1GQewHHFHprgw4dhMbCjWAK/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24001373%2C24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRAIgceK3XFscCVDE8WBOQL8El98mUf5q1jlwkx-EZShemy8CIHP-cF0rStNtww-ljYFaokSHpfwrXjFjHPGWzLLAezCa/file/index.m3u8
-
-#EXTINF:-1 group-title="French" tvg-logo="https://i.imgur.com/2kfVg4K.jpg" tvg-id="", euronews (en français)
-https://raw.githubusercontent.com/naveenland4/UTLive/main/assets/info.m3u8
 
 #EXTINF:-1 group-title="Kids" tvg-logo="https://i.imgur.com/UH7Kllx.png" tvg-id="", ChuChu TV Nursery Rhymes
 https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1649696677/ei/RAtUYuvYO9f_kgbv7piwCQ/ip/20.118.168.142/id/9TjBS50gVjc.2/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/4ocVC5xpQB7k1NnNN5Q_kcjNnhzW/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24001373%2C24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRAIgATvP8ylZqynfHhRVhSuxXb1N1EPq68I7q94VdB5N1CACICpbAeHlnigBcfB8Eto4UpuGOrOaB-rLU9tUto_eC79g/file/index.m3u8
@@ -715,32 +215,6 @@ https://raw.githubusercontent.com/naveenland4/UTLive/main/assets/info.m3u8
 #EXTINF:-1 group-title="Kids" tvg-logo="https://i.imgur.com/5dKsnp0.jpg" tvg-id="", Moonbug Kids - Sing Along With Me!
 https://raw.githubusercontent.com/naveenland4/UTLive/main/assets/info.m3u8
 
-#EXTINF:-1 group-title="Malayalam" tvg-logo="https://i.imgur.com/ZVsn7QO.jpg" tvg-id="", asianetnews
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1649696688/ei/UAtUYtbXFMqLkwaz2piIDg/ip/20.118.168.142/id/PNR06O9sSio.2/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/4ocVC6Y8qDhqPsRhQh_lI7RYthAe/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24001373%2C24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRAIgRBbr2rJAYWwPLxPf4pIHtZXt7kkYqXoBSu3_KMFs2nwCIEYimHLwpAgjZ34nfMKNX2QT4jw4urEzOnroG8JeZfmb/file/index.m3u8
-
-#EXTINF:-1 group-title="Malayalam" tvg-logo="https://i.imgur.com/DGmWjQb.png" tvg-id="", Manorama News
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1649696688/ei/UAtUYvK3L86AkgbB0p-IBQ/ip/20.118.168.142/id/JtLBF_Gjeiw.1/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/4ocVC9ou_G_luZQiPiMXGO1MIyhx/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24001373%2C24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRgIhAM_dLLf1Og4DkZsPQJNC4uwteTcOuI1Pp9eOofLZUtg1AiEA0qbVhIhCx70UpNvKXOo3K9Mv6I-IhZPwMBxHXEfTbc0%3D/file/index.m3u8
-
-#EXTINF:-1 group-title="Malayalam" tvg-logo="https://i.imgur.com/R0RVItP.png" tvg-id="", Kairali News Live
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1649696689/ei/UQtUYrzgDdaDkwbf6IeQBA/ip/20.118.168.142/id/5uMM5H1-hL0.13/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/4ocVCxKvJBcHD2mcEg55qX_8JjP8/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24001373%2C24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRAIgUaKHSfFqR9quK9tEua-YSTtJRCjtxI-Ia0WgVPydKSgCIDwrymJUeVVVwRxByhUvjKVqcN1Aw8_dPE4AZV5Ye6Hf/file/index.m3u8
-
-#EXTINF:-1 group-title="Malayalam" tvg-logo="" tvg-id="", Zee Malayalam News
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1649696689/ei/UQtUYpfBKNOKkwbq1aGwDg/ip/20.118.168.142/id/FTbad37NG1o.4/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/4ocVC0ARY2VSH8UXhYUjl-MtWGG_/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24001373%2C24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRgIhAJkxnuthTDTl4sBJ4VlthsedGLvR2Cn3NXyoOSW6BpmEAiEA--UfBVPHELdKB7MLRSY86ptKmS2TPv-tJLu0EcDC3Gs%3D/file/index.m3u8
-
-#EXTINF:-1 group-title="Malayalam" tvg-logo="https://i.imgur.com/MTtW8T1.jpg" tvg-id="", MediaoneTV
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1649696690/ei/UgtUYvyjCpaZkwa7xp7oCw/ip/20.118.168.142/id/yIe3anl_2Ks.1/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/4ocVC3VNXN90Vwkk2KqcBekSlWyO/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24001373%2C24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRQIgZjJ2--UR4iFB0G4uXKSjtHMYZfeWFP4U65jPS-EsFzUCIQDLvin0JV5P2xUdCSd0Y5lt8PUcO8NLpyVzb4A7-kDKYA%3D%3D/file/index.m3u8
-
-#EXTINF:-1 group-title="Malayalam" tvg-logo="https://i.imgur.com/T5Iu7eH.jpg" tvg-id="", 24 News
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1649696690/ei/UgtUYtuDIcbnkgbK-ob4AQ/ip/20.118.168.142/id/rWTZyuy6QV4.2/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/4ocVC0ls1J9zQfZMjCVi_-WWzNcq/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24001373%2C24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRgIhALdP3m2RypHD1FH4-Gf-zhSSOA2bDMRIYjkffCmw3pgMAiEAxQj_HxuAZvGWnOfxE5wKfUeEmbw3xGrDGicUdBF9BJY%3D/file/index.m3u8
-
-#EXTINF:-1 group-title="Malayalam" tvg-logo="https://i.imgur.com/hvXCOzD.jpg" tvg-id="", Mathrubhumi News
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1649696690/ei/UgtUYtbWOJWrkwas27ygBw/ip/20.118.168.142/id/YGEgelAiUf0.6/source/yt_live_broadcast/requiressl/yes/hfr/1/maudio/1/spc/4ocVC6NjuvhUqlkOvCmSsrKsWWIm/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24001373%2C24007246/dover/11/itag/0/playlist_type/LIVE/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRgIhANzk6uwYs6zv7X5lKCtZnNQ1g9ugTZwY60Cs80XVWAM9AiEAkNNG8S-tvwEc2fcktsjz62wq3metRskbqSys_D_wglc%3D/file/index.m3u8
-
-#EXTINF:-1 group-title="Malayalam" tvg-logo="https://i.imgur.com/lXJJBJY.png" tvg-id="", Jaihind Tv
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1649696691/ei/UwtUYpTlD4zxkgbWrIH4Dg/ip/20.118.168.142/id/yrz4kRUFXmk.1/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/4ocVCwW3Fm8FAj6-b5MpgDcWqt0P/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24001373%2C24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRAIgVn2z-zAQLz4r0FmvHmK9zTgim_gJ51nF_0PnB2wolsACIADoR1CJ_pxjrcKZ-UOKjAr6UcstmC7OHtVKZ4yzPDuR/file/index.m3u8
-
-#EXTINF:-1 group-title="Malayalam" tvg-logo="https://i.imgur.com/cFX8iLy.png" tvg-id="", News 18 Keralam
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1649696691/ei/UwtUYo7CJJWrkwas27ygBw/ip/20.118.168.142/id/ehbpeMBKKC8.1/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/4ocVC7dLLWOfaQaHYkQXBi1iKEV_/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24001373%2C24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRQIhALvEfhDJq0Wq1sZzP53JE5iBBbN8vo3RdLNjuXPpRjn_AiAxkfVKB8IcQF5CGiWG1i0zVKz2W7EUiv00uuuksk05Ow%3D%3D/file/index.m3u8
 
 #EXTINF:-1 group-title="Music" tvg-logo="https://i.imgur.com/PDwkeo2.png" tvg-id="", Star Music Live
 https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1649696692/ei/VAtUYo3mBNXxkgajgIXgDg/ip/20.118.168.142/id/e-6KhrNFZiU.1/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/4ocVC3esqqCEImVSEkmJgaFIgRUD/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24001373%2C24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRgIhAMIrDvMOfBU0LDJZfpVn1e6Kzs3zvC4YAp8nBu8788D2AiEArCYNV_E49ZyJDzzWreSQJgm9uyPVLACD1RuYaWFK7os%3D/file/index.m3u8
@@ -768,42 +242,6 @@ https://raw.githubusercontent.com/naveenland4/UTLive/main/assets/info.m3u8
 
 #EXTINF:-1 group-title="Sports" tvg-logo="https://i.imgur.com/hhuuqEK.png" tvg-id="", DD Sports
 https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1649696696/ei/WAtUYqj2H8Tgkgbb-bS4Aw/ip/20.118.168.142/id/hLMC3RC_tIE.1/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/4ocVCxRaHQz8QrVrhhHU4IkzKlg1/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24001373%2C24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRQIhAIBsN51NdzooBCQXWvOcBkXgOVLQ67Z8BbKYB5hC1ji5AiAYp1e4hhwwm3om1DrVBNbZmZ0L8IUHHonJ0eSnslNPKQ%3D%3D/file/index.m3u8
-
-#EXTINF:-1 group-title="Telugu" tvg-logo="https://i.imgur.com/cTdK6YO.png" tvg-id="", Raj News Telugu
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1649696696/ei/WAtUYta9NNK7kwahlomIDg/ip/20.118.168.142/id/VtV9azubmRg.1/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/4ocVCyzIJu3bBtJN9jjIo4CU0nV_/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24001373%2C24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRQIgUsV_H_xV16PaRgJD_WaA6pduhVNNsYUMFAk5axCZlo0CIQDVNR2Ss5HrtLjO08Ak9n8JZ5ttxFSCb2E32vvOw4LguQ%3D%3D/file/index.m3u8
-
-#EXTINF:-1 group-title="Telugu" tvg-logo="https://i.imgur.com/1gSgWK5.png" tvg-id="", Vanitha TV
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1649696697/ei/WQtUYpTCE8Ptkgammru4Bg/ip/20.118.168.142/id/3jI-FsUZN8U.1/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/4ocVC7PkffijYsPfsqw6RA0KbuF5/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24001373%2C24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRQIgZxzN8jqYXait2NbHFUhpeV2fho_Y44wm6GnQsg7CYtMCIQDaZrRYrc96JWI_O7HKin_-qzkGvX7llLN_KoMxitzFPg%3D%3D/file/index.m3u8
-
-#EXTINF:-1 group-title="Telugu" tvg-logo="https://i.imgur.com/ESycWli.png" tvg-id="", TV5 News
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1649696697/ei/WQtUYtWvK4KskwakkI7IBg/ip/20.118.168.142/id/uNi667HM4UI.2/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/4ocVC6XCbMdk1e8Q_TVaT1K_AYoc/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24001373%2C24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRAIgCkig0PzEsiXyEcYOVvIW_QLmUneS_3vUBMCb0hx9B3UCIB89ax4Io7WY39NPu_mmrI33N-AcLbAbjfbGFqOzS6bZ/file/index.m3u8
-
-#EXTINF:-1 group-title="Telugu" tvg-logo="https://i.imgur.com/pR6xpNp.png" tvg-id="", ETV Telangana
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1649696698/ei/WgtUYqaDCcfYkgbw5ZSoBw/ip/20.118.168.142/id/-MEYZV7VY78.1/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/4ocVCxaJ7DAyVeQegMcnrm-nKqkU/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24001373%2C24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRQIhAO2glsmoJ7Lh-6DUPb5mXYw3WoFm-aKybwXxY0xQj-vYAiBxuBMRbCy3SiToUW51yvbLl3zhFdhOP6fXzEMWnEq42A%3D%3D/file/index.m3u8
-
-#EXTINF:-1 group-title="Telugu" tvg-logo="https://i.imgur.com/oF59Iqw.png" tvg-id="", ETV Andhra Pradesh
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1649696698/ei/WgtUYvGQJNaXkwbar7WwDw/ip/20.118.168.142/id/2pr2oR60jyg.19/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/4ocVC-nqkWmz6bPdXJhsUoOjolho/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24001373%2C24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRgIhAJTFi6E8to7XAWxANmGahn7KTpnSQGX2Yq8bIE2pRc7bAiEA7HILqSc45TIZBHHr7IZx824i_gkPpPvx2MOclFpaP70%3D/file/index.m3u8
-
-#EXTINF:-1 group-title="Telugu" tvg-logo="https://i.imgur.com/aV9C1mC.png" tvg-id="", TV9 Telugu
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1649696698/ei/WgtUYqnFOcSakwbzkJGwAQ/ip/20.118.168.142/id/II_m28Bm-iM.1/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/4ocVC42Q2lVOrzPEN8BV4oOz3KO0/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24001373%2C24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRQIgYzZ3dCxZXgkj9iGIMqczpQhQzsSh9u3ZwSxWSTbA3QYCIQCX5VDAX5Wna0ssLr5OyZEOxHVBjGOj43PK0MEoR48THQ%3D%3D/file/index.m3u8
-
-#EXTINF:-1 group-title="Telugu" tvg-logo="https://i.imgur.com/UelYpx9.png" tvg-id="", NTV Telugu
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1649696699/ei/WwtUYpSUFJOMkwaqsZuACQ/ip/20.118.168.142/id/HUiHKse-YgM.3/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/4ocVC7ABf7jpH_1JlgKKrSqIzfe1/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24001373%2C24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRgIhAPBLwVmKvC8awEIeK7hht7xvRlO-Vkh55XAzDQN4sktPAiEA7Gw2F5N2kU-5LaS4RWxNueKafnjAq7epiKBYjEnVb2Y%3D/file/index.m3u8
-
-#EXTINF:-1 group-title="Urudu" tvg-logo="https://i.imgur.com/MDugEgP.jpg" tvg-id="", HUM News
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1649696699/ei/WwtUYsSVKsKSkgbpg54I/ip/20.118.168.142/id/m5bsLBRRbWM.1/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/4ocVCy27En6tg854x9XJWM6AyKAK/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24001373%2C24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRQIhAMJut0AMS9qNH4jiEt3ZcKIIqyW9J6DOutCtVewaRX7PAiBsiVaeHrjn0wwQf0dkOXtRPJPVtZn9Ej1NQyT5WVbrNA%3D%3D/file/index.m3u8
-
-#EXTINF:-1 group-title="Urudu" tvg-logo="https://i.imgur.com/S7x9XkM.jpg" tvg-id="", BOL News
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1649696700/ei/XAtUYsOBCIWXkwbh15jwBg/ip/20.118.168.142/id/ZfdeANe3jh4.1/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/4ocVC0qz7u9fbgqSsc37Y_XAA06I/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24001373%2C24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRAIgaY172L72zJk6xE0bQi7lhJC4oAGFBi0FImNURcfAzvMCIAx04Q49B4e05tr9sHFNj0hfoV0fhrRQQYM0x4VlaU49/file/index.m3u8
-
-#EXTINF:-1 group-title="Malay" tvg-logo="https://i.imgur.com/rJEGwxL.png" tvg-id="", Astro AWANI
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1649696700/ei/XAtUYpzGGsfGkgbwj73YCw/ip/20.118.168.142/id/zLu0wfp6bgw.1/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/4ocVC6KTsK9YV6PnBxy9pTHWrPs-/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24001373%2C24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRQIgIkK57FqJBsF1KSpT6k2WKu07AHR-GZ78tdQd4Gw_-XkCIQDMCFwTeXO0JNtZzHAjk-Kwyu2cRWVNIml1ue0IXfAZAg%3D%3D/file/index.m3u8
-
-#EXTINF:-1 group-title="Malay" tvg-logo="https://i.imgur.com/qSQYlgl.jpg" tvg-id="", BERNAMA TV
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1649696700/ei/XAtUYsTANbqCsfIPjvqAmAM/ip/20.118.168.142/id/uvP15td6beA.1/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/4ocVC7XyuoC8Lp6YoEG5Bz8pBXaa/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24001373%2C24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRgIhAKAJ0H5bd8Gy7C2Bh_olT6PGh-WRUxToo3CPH08_5bEdAiEAshHbs9VE0IX2QdV-Pk1zdIf-spnH1mSHEWeoQkLxZJ4%3D/file/index.m3u8
-
-#EXTINF:-1 group-title="Malay" tvg-logo="https://i.imgur.com/VzUllfL.png" tvg-id="", Saluran Berita RTM
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1649696701/ei/XQtUYrfxDMGEsfIP9-CEqAk/ip/20.118.168.142/id/KHpL_E0ZIMg.1/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/4ocVC0GqRxDsDYR4yryZwG4ZKxfh/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24001373%2C24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRQIhAJGO5xDezrYcOhTJUVCvQqY1ggf3XXKWs5OiFtr9-e-rAiAwx3FezYaRjAodKErXQtKYp1OohBy8Uw_Oja3OLtrV0g%3D%3D/file/index.m3u8
 
 #EXTINF:-1 group-title="Tv Channel" tvg-logo="https://i.imgur.com/k5VKVeb.jpg" tvg-id="", Mastiii
 https://raw.githubusercontent.com/naveenland4/UTLive/main/assets/info.m3u8
@@ -966,6 +404,158 @@ https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1649696703/ei/X
 
 
 
+#EXTINF:-1 tvg-ID="ספורט 5" tvg-name="ספורט 5" tvg-logo="https://xiptv.com/logos/hebrew/Sport5HD.png" group-title="Hebrew",ספורט 5HD
+
+#EXTINF:-1 tvg-ID="ספורט 5 פלוס לייב" tvg-name="ספורט 5 פלוס לייב" tvg-logo="https://xiptv.com/logos/hebrew/sport5online.png" group-title="Hebrew",ספורט 5 פלוס לייב
+ 
+#EXTINF:-1 tvg-id="ספורט 5+" tvg-name="ספורט 5+" group-title="Israel" tvg-logo="https://github.com/Apollo2000/Repo/raw/master/TVLogos/1531.png",ספורט 5+
+ 
+#EXTINF:-1 tvg-ID="5+ Gold" tvg-name="5+ Gold" tvg-logo="https://www.xiptv.com/logos/hebrew/sport5gold.jpg" group-title="Hebrew",5+ Gold
+ 
+#EXTINF:-1 tvg-ID="אגו טוטאל" tvg-name="אגו טוטאל" tvg-logo="http://msc.wcdn.co.il/w/w-700/404659-5.jpg" group-title="Hebrew",אגו טוטאל
+ 
+#EXTINF:-1 tvg-ID="Extreme" tvg-name="Extreme" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/f0/Extreme_Sports_Channel.svg/1200px-Extreme_Sports_Channel.svg.png" group-title="Hebrew",Extreme
+ 
+ 
+###YES###
+#EXTINF:-1 tvg-ID="yes1hd" tvg-name="yes1hd" tvg-logo="https://xiptv.com/logos/hebrew/yes1hd.png" group-title="Hebrew",yes1hd
+ 
+#EXTINF:-1 tvg-ID="yes2hd" tvg-name="yes2hd" tvg-logo="https://xiptv.com/logos/hebrew/yes2hd.png" group-title="Hebrew",yes2hd
+ 
+#EXTINF:-1 tvg-ID="yes3hd" tvg-name="yes3hd" tvg-logo="https://xiptv.com/logos/hebrew/yes3hd.png" group-title="Hebrew",yes3hd
+ 
+#EXTINF:-1 tvg-ID="yes4hd" tvg-name="yes4hd" tvg-logo="https://xiptv.com/logos/hebrew/yes4hd.png" group-title="Hebrew",yes4hd
+ 
+#EXTINF:-1 tvg-ID="yes5hd" tvg-name="yes5hd" tvg-logo="https://xiptv.com/logos/hebrew/yes5hd.png" group-title="Hebrew",yes5hd
+ 
+#EXTINF:-1 tvg-ID="yesoh" tvg-name="yesoh" tvg-logo="https://xiptv.com/logos/hebrew/yesohhd.png" group-title="Hebrew",yesoh
+ 
+#EXTINF:-1 tvg-ID="Yes_Action_white" tvg-name="Yes_Action_white" tvg-logo="https://xiptv.com/logos/hebrew/YESACTIONHD.png" group-title="Hebrew",Yes_Action_white
+ 
+#EXTINF:-1 tvg-ID="Yes_Drama_white" tvg-name="Yes_Drama_white" tvg-logo="https://xiptv.com/logos/hebrew/yesdramahd.png" group-title="Hebrew",Yes_Drama_white
+ 
+#EXTINF:-1 tvg-ID="Yes_Comedy_white" tvg-name="Yes_Comedy_white" tvg-logo="https://xiptv.com/logos/hebrew/yescomedyhd.png" group-title="Hebrew",Yes_Comedy_white
+ 
+#EXTINF:-1 tvg-ID="Yes_Doco_white" tvg-name="Yes_Doco_white" tvg-logo="https://xiptv.com/logos/hebrew/yesdocuhd.png" group-title="Hebrew",Yes_Doco_white
+ 
+#EXTINF:-1 tvg-ID="yesisraeli" tvg-name="yesisraeli" tvg-logo="https://xiptv.com/logos/hebrew/yescinemahd.png" group-title="Hebrew",yesisraeli
+ 
+#EXTINF:-1 tvg-ID="cbs drama" tvg-name="cbs drama" tvg-logo="http://freetvtube.com/wp-content/uploads/cbs-drama.jpg" group-title="Hebrew",cbs drama
+ 
+###HOT###
+#EXTINF:-1 tvg-ID="HOT3" tvg-name="HOT3" tvg-logo="https://xiptv.com/logos/hebrew/HOT3HD.png" group-title="Hebrew",HOT3
+ 
+#EXTINF:-1 tvg-ID="HOT HBO" tvg-name="HOT HBO" tvg-logo="https://xiptv.com/logos/hebrew/HOTHBOHD.png" group-title="Hebrew",HOT HBO
+ 
+#EXTINF:-1 tvg-ID="קומדי סנטרל" tvg-name="קומדי סנטרל" tvg-logo="https://xiptv.com/logos/hebrew/hotcomedycentralhd.png" group-title="Hebrew", קומדי סנטרל
+ 
+#EXTINF:-1 tvg-ID="בידור ישראלי" tvg-name="בידור ישראלי" tvg-logo="https://xiptv.com/logos/hebrew/hotentertainment.png" group-title="Hebrew", בידור ישראלי
+ 
+#EXTINF:-1 tvg-ID="ערוץ 8" tvg-name="ערוץ 8" tvg-logo="https://xiptv.com/logos/hebrew/HOTChannel8.png" group-title="Hebrew",ערוץ 8
+ 
+#EXTINF:-1 tvg-ID="Hot Zone" tvg-name="Hot Zone" tvg-logo="https://xiptv.com/logos/hebrew/HOTZONEHD.png" group-title="Hebrew",Hot Zone
+ 
+#EXTINF:-1 tvg-ID="HOT Drama" tvg-name="HOT Drama" tvg-logo="https://xiptv.com/logos/hebrew/HOTDRAMAHD.png" group-title="Hebrew",HOT Drama
+ 
+#EXTINF:-1 tvg-ID="HOT Action" tvg-name="HOT Action" tvg-logo="https://xiptv.com/logos/hebrew/HOTACTIONHD.png" group-title="Hebrew",HOT Action
+ 
+#EXTINF:-1 tvg-ID="HOT Gold" tvg-name="HOT Gold" tvg-logo="https://xiptv.com/logos/hebrew/HOTGOLDHD.png" group-title="Hebrew",HOT Gold
+ 
+#EXTINF:-1 tvg-ID="HOT Fun" tvg-name="HOT Fun" tvg-logo="https://xiptv.com/logos/hebrew/HOTFUNHD.png" group-title="Hebrew",HOT Fun
+ 
+#EXTINF:-1 tvg-ID="HOT סרטים" tvg-name="HOT סרטים" tvg-logo="" group-title="Hebrew",HOT סרטים
+ 
+#EXTINF:-1 tvg-id="HOT Prime" tvg-name="HOT Prime" group-title="Israel" tvg-logo="https://github.com/Apollo2000/Repo/raw/master/TVLogos/1561.png",HOT Prime
+ 
+#EXTINF:-1 tvg-ID="AMC" tvg-name="AMC" tvg-logo="https://github.com/Apollo2000/Repo/raw/master/TVLogos/1548.png" group-title="Hebrew",AMC
+ 
+#EXTINF:-1 tvg-ID="HOT Bombay" tvg-name="HOT Bombay" tvg-logo="https://github.com/Apollo2000/Repo/raw/master/TVLogos/1548.png" group-title="Hebrew",HOT Bombay
+ 
+###KIDS###
+#EXTINF:-1 tvg-ID="Yes_kids" tvg-name="Yes_kids" tvg-logo="http://img.bizportal.co.il/giflib/tools/yesKidZ_logo.jpg" group-title="Hebrew",Yes_kids
+ 
+#EXTINF:-1 tvg-ID="Yes_Wiz" tvg-name="Yes_Wiz" tvg-logo="https://upload.wikimedia.org/wikipedia/he/thumb/d/da/WiZ%21_Logo.svg/1280px-WiZ%21_Logo.svg.png" group-title="Hebrew",Yes_Wiz
+ 
+#EXTINF:-1 tvg-ID="Yes_stars" tvg-name="Yes_stars" tvg-logo="https://www.yes.co.il/contents/PublishingImages/logo_new/General/stars_channel.png" group-title="Hebrew",Yes_stars
+ 
+#EXTINF:-1 tvg-ID="Zoom" tvg-name="Zoom" tvg-logo="https://xiptv.com/logos/hebrew/zOOM.png" group-title="Hebrew",Zoom
+ 
+#EXTINF:-1 tvg-ID="!הופ" tvg-name="!הופ" tvg-logo="https://xiptv.com/logos/hebrew/HOPIL.png" group-title="Hebrew",!הופ
+ 
+#EXTINF:-1 tvg-id="הופ! ילדות ישראלית" tvg-name="הופ! ילדות ישראלית" group-title="Israel" tvg-logo="https://github.com/Apollo2000/Repo/raw/master/TVLogos/1559.png",הופ! ילדות ישראלית
+ 
+#EXTINF:-1 tvg-ID="ערוץ הילדים" tvg-name="ערוץ הילדים" tvg-logo="https://xiptv.com/logos/hebrew/ArutzHayeladimIsrael.png" group-title="Hebrew",ערוץ הילדים
+ 
+#EXTINF:-1 tvg-ID="דיסני" tvg-name="דיסני" tvg-logo="http://www.camdserver.com/sb_data/files/logo/disney-channel.jpg" group-title="Hebrew",דיסני
+
+#EXTINF:-1 tvg-ID="Disney junior" tvg-name="Disney junior" tvg-logo="http://www.camdserver.com/sb_data/files/logo/disney-junior.jpg" group-title="Hebrew",Disney junior
+ 
+#EXTINF:-1 tvg-ID="ערוץ ניקלודיאון" tvg-name="ערוץ ניקלודיאון" tvg-logo="https://xiptv.com/logos/hebrew/Nickelodeon.png" group-title="Hebrew",ערוץ ניקלודיאון
+ 
+#EXTINF:-1 tvg-ID="nick jr" tvg-name="nick jr" tvg-logo="https://xiptv.com/logos/hebrew/NickJr.png" group-title="Hebrew", nick jr
+ 
+#EXTINF:-1 tvg-ID="בייבי" tvg-name="בייבי" tvg-logo="https://xiptv.com/logos/hebrew/BabyTV.png" group-title="Hebew",בייבי
+ 
+#EXTINF:-1 tvg-ID="Logi" tvg-name="Logi" tvg-logo="https://github.com/Apollo2000/Repo/raw/master/TVLogos/1535.png" group-title="Hebrew", Logi
+ 
+#EXTINF:-1 tvg-ID="לולי" tvg-name="לולי" tvg-logo="https://github.com/Apollo2000/Repo/raw/master/TVLogos/1534.png" group-title="Hebrew",לולי
+ 
+#EXTINF:-1 tvg-ID="Junior" tvg-name="Junior" tvg-logo="https://xiptv.com/logos/hebrew/Junior.png" group-title="Hebrew",Junior
+ 
+###Life style####
+#EXTINF:-1 tvg-ID="Channel E" tvg-name="Channel E" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/E%21_Logo.svg/2000px-E%21_Logo.svg.png" group-title="Hebrew", Channel E
+ 
+#EXTINF:-1 tvg-ID="בית + משפחה" tvg-name="בית + משפחה" tvg-logo="https://xiptv.com/logos/hebrew/HomePlus.png" group-title="Hebrew", בית + משפחה
+ 
+#EXTINF:-1 tvg-id="ערוץ הבריאות" tvg-name="ערוץ הבריאות" group-title="Israel" tvg-logo="https://github.com/Apollo2000/Repo/raw/master/TVLogos/1552.png",ערוץ הבריאות
+ 
+#EXTINF:-1 tvg-ID="ערוץ הטיולים" tvg-name="ערוץ הטיולים" tvg-logo="https://xiptv.com/logos/hebrew/TravelChannel.png" group-title="Hebrew",ערוץ הטיולים
+ 
+#EXTINF:-1 tvg-ID="ערוץ האוכל" tvg-name="ערוץ האוכל" tvg-logo="https://xiptv.com/logos/hebrew/foodchannel.png" group-title="Hebrew",ערוץ האוכל
+ 
+#EXTINF:-1 tvg-ID="" tvg-name="VIP IL: Fine Living" tvg-logo="" group-title="Hebrew",VIP IL: Fine Living
+ 
+#EXTINF:-1 tvg-ID="החיים הטובים" tvg-name="החיים הטובים" tvg-logo="https://github.com/Apollo2000/Repo/raw/master/TVLogos/1524.png" group-title="Hebrew",החיים הטובים
+ 
+#EXTINF:-1 tvg-ID="Lifetime" tvg-name="Lifetime" tvg-logo="http://4vector.com/i/free-vector-fine-living_057888_fine-living.png" group-title="Hebrew",Lifetime
+ 
+#EXTINF:-1 tvg-ID="ויוה" tvg-name="ויוה" tvg-logo="https://xiptv.com/logos/hebrew/VIVA.png" group-title="Hebrew",ויוה
+ 
+#EXTINF:-1 tvg-id="ויוה +" tvg-name="ויוה +" group-title="Israel" tvg-logo="https://github.com/Apollo2000/Repo/raw/master/TVLogos/1556.png",ויוה +
+ 
+###since and nature###
+#EXTINF:-1 tvg-ID="NATIONAL GEOGRAPHIC" tvg-name="NATIONAL GEOGRAPHIC" tvg-logo="https://xiptv.com/logos/hebrew/natgeohd.png" group-title="Hebrew",NATIONAL GEOGRAPHIC
+ 
+#EXTINF:-1 tvg-ID="NAT GEO WILD" tvg-name="NAT GEO WILD" tvg-logo="https://xiptv.com/logos/hebrew/NationalGeoWild.png" group-title="Hebrew",NAT GEO WILD
+ 
+#EXTINF:-1 tvg-ID="DISCOVERY" tvg-name="DISCOVERY" tvg-logo="https://xiptv.com/logos/hebrew/discoveryhd.png" group-title="Hebrew",DISCOVERY
+ 
+#EXTINF:-1 tvg-ID="ערוץ ההיסטוריה" tvg-name="ערוץ ההיסטוריה" tvg-logo="https://xiptv.com/logos/hebrew/HistoryHD.png" group-title="Hebrew",ערוץ ההיסטוריה
+ 
+#EXTINF:-1 tvg-ID="CBS_reality" tvg-name="CBS_reality" tvg-logo="https://www.watchallchannels.com/wp-content/uploads/2015/02/CBS-Reality-TV.jpg" group-title="Hebrew",CBS_reality
+ 
+#EXTINF:-1 tvg-ID="Animal planet" tvg-name="Animal planet" tvg-logo="http://onlineru.net/userfiles/shop_items/tmb/s_animal_planet.jpg" group-title="Hebrew",Animal planet
+ 
+#EXTINF:-1 tvg-ID="ערוץ מורשת - 20" tvg-name="ערוץ מורשת - 20" tvg-logo="https://xiptv.com/logos/hebrew/Channel20.png" group-title="Hebrew",ערוץ מורשת - 20
+ 
+#EXTINF:-1  tvg-logo="http://www.isramedia.net/images/users/2/0e6b040fd7318b2f62c56368490fda4f.png" group-title="Hebrew",ערוץ 14
+
+#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/59/KAN_11.png" group-title="Hebrew",כאן 11
+
+
+
+
+
+
+###Since and Nature###
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/_82sV2LQP6g/maxresdefault.jpg",Relaxing Sleep Music
+ 
+ 
+###Sport###
+#EXTINF:-1 tvg-id="Dubai Sports 3" group-title="Sport" tvg-logo="http://www.islambox.com/images/products/channels/web/dubaisports3-web.png",Dubai Sports 3
+ 
+
+
 #########################
 #########################
 #########################
@@ -981,42 +571,3 @@ https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1649696703/ei/X
 #########################
  
 #EXTINF:-1 tvg-id="Dubai Sports 3" group-title="Sport - ספורט" tvg-logo="http://www.islambox.com/images/products/channels/web/dubaisports3-web.png",Dubai Sports 3
-
-#EXTINF:-1 tvg-id="ERT1" group-title="Greece - יוון" tvg-logo="",ERT1
-
-
-
-#EXTINF:-1 tvg-id="Alsace 20" group-title="France - צרפת" tvg-logo="",Alsace 20
-http://live.alsace20.fr/live/alsace20/ngrp:alsace20_all/playlist.m3u8
-
-
-
-#EXTINF:-1 tvg-id="KIKA" group-title="Germany - גרמניה" tvg-logo="http://static.filmon.com/couch/channels/2756/extra_big_logo.png",KIKA
-
-
-
-#EXTINF:-1 tvg-id="Tv2000" group-title="Italy - איטליה" tvg-logo="",Tv2000
-http://mi1.wz.tv2000.it/tv2000_alfa.m3u8
- 
-#EXTINF:-1 tvg-id="Canale 7" group-title="Italy - איטליה" tvg-logo="",Canale 7
-http://wms.shared.streamshow.it/canale7/canale7/playlist.m3u8
-
-
-
-#EXTINF:-1 tvg-id="CH 8" group-title="thailand - תאילנד" tvg-logo="http://www.onlinethailand.net/tv_online/images/ch8.jpg",CH 8
-http://usa.login.in.th:1935/ch8/ch8/playlist.m3u8
-
-
-
-#EXTINF:-1 tvg-id="Thairath TV" group-title="thailand - תאילנד" tvg-logo="http://www.gmmz.tv/_uploads/images/LOGOThairath_.jpg",Thairath TV
-http://live.thairath.co.th/trtv2/playlist.m3u8
-
-
-
-#EXTINF:-1 tvg-id="plus_tv_suceava" group-title="Romania - רומניה" tvg-logo="",plus_tv_suceava
-http://85.186.146.34:8080
-
-
-
-#EXTINF:-1 tvg-id="FixHD" group-title="Hungary - הונגריה" tvg-logo="",FixHD
-
