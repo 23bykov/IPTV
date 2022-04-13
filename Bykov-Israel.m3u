@@ -26,23 +26,6 @@ https://stream71.shidur.net/htvlive2/_definst_/smil:live2.smil/chunklist_b124800
 http://edge1.il.kab.tv/rtplive/tv66-heb-high.stream/playlist.m3u8
 
 
- 
-#EXTINF:-1 tvg-id="ONE By HD 1080P" group-title="Music - מוזיקה" tvg-logo="",ONE By HD 1080P
-http://rtmp.one.by:1300/
- 
-#EXTINF:-1 tvg-id="ONE By UHD 2160P 4K" group-title="Music - מוזיקה" tvg-logo="",ONE By UHD 2160P 4K
-http://rtmp.one.by:1400/
- 
-#EXTINF:-1 tvg-id="One By RUSSIA HD 720P" group-title="Music - מוזיקה" tvg-logo="",One By RUSSIA HD 720P
-http://rtmp.one.by:2300/
-
-#EXTINF:-1 tvg-id="CMC TV country" group-title="Music - מוזיקה" tvg-logo="",CMC TV country
-rtmp://cmctv.flash.internapcdn.net/cmctv_vitalstream_com/live_1/CMC-TV live=1 pageUrl=http://www.cmc-tv.com/
- 
-#EXTINF:-1 tvg-id="m2o TV" group-title="Music - מוזיקה" tvg-logo="http://upload.wikimedia.org/wikipedia/it/thumb/2/2d/Logo_m2o_%282012%29.png/200px-Logo_m2o_%282012%29.png",m2o TV
-http://m2otv-lh.akamaihd.net/i/m2oTv_1@186074/index_600_av-b.m3u8
- 
-
 
 #EXTINF:-1 tvg-id="CGTN" group-title="News - חדשות" tvg-logo="http://static.filmon.com/couch/channels/1675/extra_big_logo.png",CGTN
 http://live.cgtn.com/1000/prog_index.m3u8
