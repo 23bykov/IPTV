@@ -92,9 +92,6 @@ https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1649696693/ei/V
 #EXTINF:-1 group-title="Music" tvg-logo="https://i.imgur.com/NJKC2y3.jpg" tvg-id="", New Hindi Songs
 https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1649696693/ei/VQtUYq-yGteIkgasxYG4Bw/ip/20.118.168.142/id/mmDpcPZJJYc.1/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/4ocVCxb-qGLahg7bQcRSdwDLauVS/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24001373%2C24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRAIgGo2b9_gz3kouaRSEt2SUsmnCxMOQAT4rIrs5JI5YS4UCIH29oa8cLeo-_OFBY5duLNDMazFf8i1Wdw5wn53Px1fQ/file/index.m3u8
 
-#EXTINF:-1 group-title="Sports" tvg-logo="https://i.imgur.com/hhuuqEK.png" tvg-id="", DD Sports
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1649696696/ei/WAtUYqj2H8Tgkgbb-bS4Aw/ip/20.118.168.142/id/hLMC3RC_tIE.1/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/4ocVCxRaHQz8QrVrhhHU4IkzKlg1/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24001373%2C24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRQIhAIBsN51NdzooBCQXWvOcBkXgOVLQ67Z8BbKYB5hC1ji5AiAYp1e4hhwwm3om1DrVBNbZmZ0L8IUHHonJ0eSnslNPKQ%3D%3D/file/index.m3u8
-
 #EXTINF:-1 group-title="Tv Channel" tvg-logo="https://i.imgur.com/k5VKVeb.jpg" tvg-id="", Mastiii
 https://raw.githubusercontent.com/naveenland4/UTLive/main/assets/info.m3u8
 
