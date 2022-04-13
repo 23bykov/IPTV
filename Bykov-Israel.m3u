@@ -80,52 +80,27 @@ https://raievent10-live.akamaized.net/hls/live/619189/raievent10/raievent10/play
 
 
 
-#EXTINF:-1 group-title="Music" tvg-logo="https://i.imgur.com/PDwkeo2.png" tvg-id="", Star Music Live
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1649696692/ei/VAtUYo3mBNXxkgajgIXgDg/ip/20.118.168.142/id/e-6KhrNFZiU.1/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/4ocVC3esqqCEImVSEkmJgaFIgRUD/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24001373%2C24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRgIhAMIrDvMOfBU0LDJZfpVn1e6Kzs3zvC4YAp8nBu8788D2AiEArCYNV_E49ZyJDzzWreSQJgm9uyPVLACD1RuYaWFK7os%3D/file/index.m3u8
+################
+################
+################
+################
+################
+################
+################
+################
+################
+################
+################
+################
+################
+################
 
-#EXTINF:-1 group-title="Music" tvg-logo="https://i.imgur.com/JVsIAch.jpg" tvg-id="", Aditya Music
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1649696692/ei/VAtUYrHwH62BsfIPoZ2z2AY/ip/20.118.168.142/id/W9NyVYHtrIU.59/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/4ocVC3VqLw1F5o4G-Q4GQ5u2WmeY/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24001373%2C24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRQIhAN15WNZKvxTYyCSRUeSj9TdzKRFk2yL2lyXvxqtzRAdEAiBLYS8I0mHdykc_walxwhoILWx_G_f5807x1nB_yGhLaQ%3D%3D/file/index.m3u8
-
-#EXTINF:-1 group-title="Music" tvg-logo="https://i.imgur.com/gGcVPsX.jpg" tvg-id="", Mango Music
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1649696693/ei/VAtUYoaPPMy5kwaaj6XICw/ip/20.118.168.142/id/c6MySfUPeBo.4/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/4ocVC5Izva8ZP7OMiZQV7IVTOa_4/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24001373%2C24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRQIhAM9fnD7uZltPm4eCqa8ABTsYiDw-FIXSHD0t7bubItUbAiAEKqs2iVZi4ep_6lWdRJtGa9QOZnex2f-v-ejPfc14ZQ%3D%3D/file/index.m3u8
-
-#EXTINF:-1 group-title="Music" tvg-logo="https://i.imgur.com/NJKC2y3.jpg" tvg-id="", New Hindi Songs
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1649696693/ei/VQtUYq-yGteIkgasxYG4Bw/ip/20.118.168.142/id/mmDpcPZJJYc.1/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/4ocVCxb-qGLahg7bQcRSdwDLauVS/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24001373%2C24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRAIgGo2b9_gz3kouaRSEt2SUsmnCxMOQAT4rIrs5JI5YS4UCIH29oa8cLeo-_OFBY5duLNDMazFf8i1Wdw5wn53Px1fQ/file/index.m3u8
-
-#EXTINF:-1 group-title="Tv Channel" tvg-logo="https://i.imgur.com/k5VKVeb.jpg" tvg-id="", Mastiii
-https://raw.githubusercontent.com/naveenland4/UTLive/main/assets/info.m3u8
-
-#EXTINF:-1 group-title="Tv Channel" tvg-logo="https://i.imgur.com/2Bf6NKw.jpg" tvg-id="", Shemaroo Comedy
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1649696702/ei/XQtUYu3fO7qCsfIPjvqAmAM/ip/20.118.168.142/id/TTLcqOm-3vU.1/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/4ocVC0kRzinjs9vXcPu9UvC-rSwm/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24001373%2C24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRQIhAPQpcFj9yVrJrYtWZfCXE_zOSXngda4Pw2EfyofCFhE8AiBUg8yFI2gY0Ae3KvNk_DC4xS72wY7LES5i2RmKWUEAOQ%3D%3D/file/index.m3u8
-
-#EXTINF:-1 group-title="Tv Channel" tvg-logo="https://i.imgur.com/QxmbH9W.png" tvg-id="", Telugu Filmnagar
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1649696702/ei/XgtUYvuPG9rmkgaM6LSIBg/ip/20.118.168.142/id/5UvC9XEAL9k.7/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/4ocVCw1RWIXhGOtz6t3bReLBIaCN/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24001373%2C24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRQIhAKgdMWnH5jVQwTrR7IQmxEum5a_5EVphAnAqtxJcy9skAiArfK1NFljeOiE2f1s4KUnBib646neNJ3HyVDX0swe2wQ%3D%3D/file/index.m3u8
 
 #EXTINF:-1 group-title="Ukraine" tvg-logo="https://i.imgur.com/R6GZk62.jpg" tvg-id="", Livestream Events
-https://raw.githubusercontent.com/naveenland4/UTLive/main/assets/info.m3u8
 
 #EXTINF:-1 group-title="Ukraine" tvg-logo="https://i.imgur.com/Ki6gLmH.png" tvg-id="", 24 Канал онлайн
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1649696703/ei/XwtUYsTxDJOMkwaqsZuACQ/ip/20.118.168.142/id/Ze758jnFRbI.1/source/yt_live_broadcast/requiressl/yes/hfr/1/maudio/1/spc/4ocVC8C6-sshTPFv_-WpOfKdb_w6/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24001373%2C24007246/dover/11/itag/0/playlist_type/LIVE/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRAIgDQ8ocXGeeCjIAqCvvCSA_qajePnCZzc4g4dpRVj0CBACIHQeC2Jt7k09dI0OSkdEx5BbIScODbtI3dMqOzKYu1u-/file/index.m3u8
 
 #EXTINF:-1 group-title="Ukraine" tvg-logo="https://i.imgur.com/Fn8ji4H.png" tvg-id="", Espreso.TV
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1649696703/ei/XwtUYsS3JtjIkga6k7vYDA/ip/20.118.168.142/id/Gt2F2eUgHOc.1/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/4ocVC-KvA1h437mHhU1ro1hadUty/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24001373%2C24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRgIhANdb9RiMJt3STRYlZqJpW_iZjx1WPs3LN-EDcFi84_2FAiEApeMx2Ubg0DWiNipnjXPiovXMNSeu15TOYnAFGnCxf4c%3D/file/index.m3u8
-
-
-
-################
-################
-################
-################
-################
-################
-################
-################
-################
-################
-################
-################
-################
-################
 
 
 #EXTINF:-1 group-title="English" tvg-logo="https://i.imgur.com/pMHfT2n.png" tvg-id="", NDTV 24*7
