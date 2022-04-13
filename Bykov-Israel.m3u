@@ -58,68 +58,11 @@ https://0984ed0046994029aafaa07692005474.mediatailor.us-east-1.amazonaws.com/v1/
 https://raievent10-live.akamaized.net/hls/live/619189/raievent10/raievent10/playlist.m3u8
 
 
-#EXTINF:-1,IS: YES Channel 12 HD
-http://predator-x.com:8000/kdkm3ub840/4mxpah5f4n/161707
-#EXTINF:-1,IS: Yes Travel Channel
-http://predator-x.com:8000/kdkm3ub840/4mxpah5f4n/176918
-#EXTINF:-1,IS: YES Channel 13 HD
-http://predator-x.com:8000/kdkm3ub840/4mxpah5f4n/161708
-#EXTINF:-1,IS: CHANNEL  20
-http://predator-x.com:8000/kdkm3ub840/4mxpah5f4n/161710
-#EXTINF:-1,IS: VIVA HD
-http://predator-x.com:8000/kdkm3ub840/4mxpah5f4n/176932
-#EXTINF:-1,IS: MAKAN 33
-http://predator-x.com:8000/kdkm3ub840/4mxpah5f4n/161709
-#EXTINF:-1,IS: HALA TV HD
-http://predator-x.com:8000/kdkm3ub840/4mxpah5f4n/161711
-#EXTINF:-1,IS: DISNEY CHANNEL
-http://predator-x.com:8000/kdkm3ub840/4mxpah5f4n/176919
-#EXTINF:-1,IS: DISNEY JR
-http://predator-x.com:8000/kdkm3ub840/4mxpah5f4n/176920
-#EXTINF:-1,IS: YES Disney FHD
-http://predator-x.com:8000/kdkm3ub840/4mxpah5f4n/176914
-#EXTINF:-1,IS: YES Disney Junior FHD
-http://predator-x.com:8000/kdkm3ub840/4mxpah5f4n/176924
-#EXTINF:-1,IS: Y  TeenNick FHD
-http://predator-x.com:8000/kdkm3ub840/4mxpah5f4n/176925
-#EXTINF:-1,IS: JUNIOR.
-http://predator-x.com:8000/kdkm3ub840/4mxpah5f4n/176923
-#EXTINF:-1,IS: Yes TeenNick FHD
-http://predator-x.com:8000/kdkm3ub840/4mxpah5f4n/176936
-#EXTINF:-1,IS: BABY  TV
-http://predator-x.com:8000/kdkm3ub840/4mxpah5f4n/176940
-#EXTINF:-1,IS: Bombay
-http://predator-x.com:8000/kdkm3ub840/4mxpah5f4n/176941
-#EXTINF:-1,IS: YES Hidabroot channel
-http://predator-x.com:8000/kdkm3ub840/4mxpah5f4n/176922
-#EXTINF:-1,IS: The Kn set Channel
-http://predator-x.com:8000/kdkm3ub840/4mxpah5f4n/161713
-#EXTINF:-1,IS: Music 24
-http://predator-x.com:8000/kdkm3ub840/4mxpah5f4n/176944
-#EXTINF:-1,IS: Kabbalah for the People (Israel)
-http://predator-x.com:8000/kdkm3ub840/4mxpah5f4n/176945
-#EXTINF:-1,IS: Yes Shopping
-http://predator-x.com:8000/kdkm3ub840/4mxpah5f4n/189323
-#EXTINF:-1,IS: YES Kabbalah TV
-http://predator-x.com:8000/kdkm3ub840/4mxpah5f4n/176921
-#EXTINF:-1,IS: ZOOM HD
-http://predator-x.com:8000/kdkm3ub840/4mxpah5f4n/176929
-#EXTINF:-1,IS: HOME PLUS
-http://predator-x.com:8000/kdkm3ub840/4mxpah5f4n/176930
-#EXTINF:-1,IS: YES ONE Hevc
-http://predator-x.com:8000/kdkm3ub840/4mxpah5f4n/176942
-#EXTINF:-1,IS: YES History FHD
-http://predator-x.com:8000/kdkm3ub840/4mxpah5f4n/176913
-#EXTINF:-1,IS: Ch 20
-http://predator-x.com:8000/kdkm3ub840/4mxpah5f4n/176916
-#EXTINF:-1,IS: YES Zoom FHD
-http://predator-x.com:8000/kdkm3ub840/4mxpah5f4n/176926
-#EXTINF:-1,IS: YES VIVA FHD
-http://predator-x.com:8000/kdkm3ub840/4mxpah5f4n/176927
-#EXTINF:-1,IS: Hot Fun FHD
-http://predator-x.com:8000/kdkm3ub840/4mxpah5f4n/176928
-#EXTINF:-1,IS: VIVA PLUS
-http://predator-x.com:8000/kdkm3ub840/4mxpah5f4n/176933
+
+
+
+
+
 #EXTINF:-1,IS: Music 24 Live now
 http://predator-x.com:8000/kdkm3ub840/4mxpah5f4n/161712
 #EXTINF:-1,IS: YES TV Action FHD
@@ -183,6 +126,84 @@ http://predator-x.com:8000/kdkm3ub840/4mxpah5f4n/202375
 #EXTINF:-1,IS: YES Sport5 Gold FHD
 http://predator-x.com:8000/kdkm3ub840/4mxpah5f4n/202376
 
+
+
+###Live TV###
+#EXTINF:-1,IS: YES Channel 12 HD
+http://predator-x.com:8000/kdkm3ub840/4mxpah5f4n/161707
+#EXTINF:-1,IS: Yes Travel Channel
+http://predator-x.com:8000/kdkm3ub840/4mxpah5f4n/176918
+#EXTINF:-1,IS: YES Channel 13 HD
+http://predator-x.com:8000/kdkm3ub840/4mxpah5f4n/161708
+#EXTINF:-1,IS: CHANNEL  14
+http://predator-x.com:8000/kdkm3ub840/4mxpah5f4n/161710
+#EXTINF:-1,IS: Ch 14
+http://predator-x.com:8000/kdkm3ub840/4mxpah5f4n/176916
+#EXTINF:-1,IS: YES Hidabroot channel
+http://predator-x.com:8000/kdkm3ub840/4mxpah5f4n/176922
+#EXTINF:-1,IS: YES Hidabroot TV
+http://predator-x.com:8000/kdkm3ub840/4mxpah5f4n/176921
+#EXTINF:-1,IS: The Kneset Channel
+http://predator-x.com:8000/kdkm3ub840/4mxpah5f4n/161713
+#EXTINF:-1,IS: Music 24
+http://predator-x.com:8000/kdkm3ub840/4mxpah5f4n/176944
+#EXTINF:-1,IS: Hinuchit
+http://predator-x.com:8000/kdkm3ub840/4mxpah5f4n/176945
+#EXTINF:-1,IS: Yes Shopping TSC
+http://predator-x.com:8000/kdkm3ub840/4mxpah5f4n/189323
+
+
+
+###Kids###
+#EXTINF:-1 group-title="Kids",IS: ZOOM HD
+http://predator-x.com:8000/kdkm3ub840/4mxpah5f4n/176929
+#EXTINF:-1,IS: YES Zoom FHD
+http://predator-x.com:8000/kdkm3ub840/4mxpah5f4n/176926
+#EXTINF:-1,IS: DISNEY CHANNEL
+http://predator-x.com:8000/kdkm3ub840/4mxpah5f4n/176919
+#EXTINF:-1,IS: DISNEY JR
+http://predator-x.com:8000/kdkm3ub840/4mxpah5f4n/176920
+#EXTINF:-1,IS: YES Disney FHD
+http://predator-x.com:8000/kdkm3ub840/4mxpah5f4n/176914
+#EXTINF:-1,IS: YES Disney Junior FHD
+http://predator-x.com:8000/kdkm3ub840/4mxpah5f4n/176924
+#EXTINF:-1,IS: JUNIOR.
+http://predator-x.com:8000/kdkm3ub840/4mxpah5f4n/176923
+#EXTINF:-1,IS: BABY  TV
+http://predator-x.com:8000/kdkm3ub840/4mxpah5f4n/176940
+
+
+
+###Series###
+#EXTINF:-1,IS: VIVA HD
+http://predator-x.com:8000/kdkm3ub840/4mxpah5f4n/176932
+#EXTINF:-1,IS: YES VIVA FHD
+http://predator-x.com:8000/kdkm3ub840/4mxpah5f4n/176927
+#EXTINF:-1,IS: VIVA PLUS
+http://predator-x.com:8000/kdkm3ub840/4mxpah5f4n/176933
+#EXTINF:-1,IS: Hot Fun FHD
+http://predator-x.com:8000/kdkm3ub840/4mxpah5f4n/176928
+
+
+###Movies###
+
+
+
+###LifeStyle###
+#EXTINF:-1,IS: HOME PLUS
+http://predator-x.com:8000/kdkm3ub840/4mxpah5f4n/176930
+
+
+
+###Entertiment###
+#EXTINF:-1,IS: YES History FHD
+http://predator-x.com:8000/kdkm3ub840/4mxpah5f4n/176913
+
+
+
+###Sport###
+#EXTINF:-1,IS: YES ONE Hevc
+http://predator-x.com:8000/kdkm3ub840/4mxpah5f4n/176942
 
 #EXTM3U x-tvg-url="https://iptv-org.github.io/epg/guides/in/dishtv.in.epg.xml"
 
